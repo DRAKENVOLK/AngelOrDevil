@@ -1,0 +1,31 @@
+[
+  { "id": 101, "date": "2026-05-10", "cat": "Verdad", "text": "Del 1 al 10, ¿qué tan atractivo/a te parece {target}? Si no respondes, bebes 2 shots.", "targetType": "any" },
+  { "id": 102, "date": "2026-05-10", "cat": "Verdad", "text": "¿Tendrías algo casual con {target}? La verdad o bebes 3 shots.", "targetType": "opposite" },
+  { "id": 103, "date": "2026-05-10", "cat": "Verdad", "text": "Confiesa tu mayor fantasía secreta frente a {target}. Si callas, fondo a tu vaso.", "targetType": "any" },
+  { "id": 104, "date": "2026-05-10", "cat": "Verdad", "text": "¿Qué es lo primero que le miras físicamente a {target}?", "targetType": "any" },
+  { "id": 105, "date": "2026-05-10", "cat": "Verdad", "text": "¿Alguna vez has mentido jugando a este juego con {target}? El grupo decide si te cree.", "targetType": "all" },
+  
+  { "id": 201, "date": "2026-05-10", "cat": "Acción", "text": "Baila pegado con {target} durante 20 segundos. Si se niegan, ambos beben.", "targetType": "any" },
+  { "id": 202, "date": "2026-05-10", "cat": "Acción", "text": "Deja que {target} revise tus mensajes de WhatsApp por 30 segundos. Si te niegas, 3 shots.", "targetType": "any" },
+  { "id": 203, "date": "2026-05-10", "cat": "Acción", "text": "Dale un masaje en los hombros a {target} por 1 minuto continuo.", "targetType": "any" },
+  { "id": 204, "date": "2026-05-10", "cat": "Acción", "text": "Actúa como si {target} fuera tu ídolo y pídele un autógrafo de forma muy exagerada.", "targetType": "any" },
+  { "id": 205, "date": "2026-05-10", "cat": "Acción", "text": "Intercambia un accesorio o prenda de ropa con {target} durante las próximas 3 rondas.", "targetType": "any" },
+  
+  { "id": 301, "date": "2026-05-10", "cat": "Hardcore", "text": "Dale un beso robado en la boca a {target}. Si te niegas, bebes 3 shots puros.", "targetType": "opposite" },
+  { "id": 302, "date": "2026-05-10", "cat": "Hardcore", "text": "Muerde el labio inferior de {target} suavemente. Si se acobardan, 2 shots cada uno.", "targetType": "opposite" },
+  { "id": 303, "date": "2026-05-10", "cat": "Hardcore", "text": "Tómate un shot del cuerpo de {target} (cuello o abdomen). Si no lo haces, castigo máximo.", "targetType": "opposite" },
+  { "id": 304, "date": "2026-05-10", "cat": "Hardcore", "text": "Susúrrale algo muy subido de tono al oído a {target}. Si el grupo nota que no se ruboriza, tú bebes.", "targetType": "opposite" },
+  { "id": 305, "date": "2026-05-10", "cat": "Hardcore", "text": "Pásale un hielo a {target} de boca a boca. Si se cae, ambos beben un shot.", "targetType": "opposite" },
+  
+  { "id": 401, "date": "2026-05-10", "cat": "Yo Nunca", "text": "Yo nunca he imaginado a alguien de {target} sin ropa. El que sí, bebe un shot.", "targetType": "all" },
+  { "id": 402, "date": "2026-05-10", "cat": "Yo Nunca", "text": "Yo nunca he besado a más de dos personas de {target}. Los culpables beben.", "targetType": "all" },
+  { "id": 403, "date": "2026-05-10", "cat": "Yo Nunca", "text": "Yo nunca le he mandado un mensaje borracho a mi ex frente a {target}.", "targetType": "all" },
+  { "id": 404, "date": "2026-05-10", "cat": "Yo Nunca", "text": "Yo nunca he mentido sobre mi edad para entrar a un lugar o impresionar a alguien de {target}.", "targetType": "all" },
+  { "id": 405, "date": "2026-05-10", "cat": "Yo Nunca", "text": "Yo nunca he usado una app de citas estando en el mismo lugar que {target}.", "targetType": "all" },
+  
+  { "id": 501, "date": "2026-05-10", "cat": "Castigo", "text": "¡Mala suerte! Cumple las órdenes de {target} por una ronda completa.", "targetType": "any" },
+  { "id": 502, "date": "2026-05-10", "cat": "Castigo", "text": "Todos los hombres de {target} beben un shot ahora mismo.", "targetType": "all" },
+  { "id": 503, "date": "2026-05-10", "cat": "Castigo", "text": "Todas las mujeres de {target} beben un shot ahora mismo.", "targetType": "all" },
+  { "id": 504, "date": "2026-05-10", "cat": "Castigo", "text": "Elige a alguien de {target} para que beba contigo un shot doble.", "targetType": "all" },
+  { "id": 505, "date": "2026-05-10", "cat": "Castigo", "text": "Tienes prohibido usar el celular durante 3 rondas por orden de {target}. Si lo tocas, multa.", "targetType": "all" }
+]

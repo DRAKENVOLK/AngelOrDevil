@@ -1,31 +1,248 @@
 [
-  { "id": 101, "date": "2026-05-10", "cat": "Verdad", "text": "Del 1 al 10, ¿qué tan atractivo/a te parece {target}? Si no respondes, bebes 2 shots.", "targetType": "any" },
-  { "id": 102, "date": "2026-05-10", "cat": "Verdad", "text": "¿Tendrías algo casual con {target}? La verdad o bebes 3 shots.", "targetType": "opposite" },
-  { "id": 103, "date": "2026-05-10", "cat": "Verdad", "text": "Confiesa tu mayor fantasía secreta frente a {target}. Si callas, fondo a tu vaso.", "targetType": "any" },
-  { "id": 104, "date": "2026-05-10", "cat": "Verdad", "text": "¿Qué es lo primero que le miras físicamente a {target}?", "targetType": "any" },
-  { "id": 105, "date": "2026-05-10", "cat": "Verdad", "text": "¿Alguna vez has mentido jugando a este juego con {target}? El grupo decide si te cree.", "targetType": "all" },
-  
-  { "id": 201, "date": "2026-05-10", "cat": "Acción", "text": "Baila pegado con {target} durante 20 segundos. Si se niegan, ambos beben.", "targetType": "any" },
-  { "id": 202, "date": "2026-05-10", "cat": "Acción", "text": "Deja que {target} revise tus mensajes de WhatsApp por 30 segundos. Si te niegas, 3 shots.", "targetType": "any" },
-  { "id": 203, "date": "2026-05-10", "cat": "Acción", "text": "Dale un masaje en los hombros a {target} por 1 minuto continuo.", "targetType": "any" },
-  { "id": 204, "date": "2026-05-10", "cat": "Acción", "text": "Actúa como si {target} fuera tu ídolo y pídele un autógrafo de forma muy exagerada.", "targetType": "any" },
-  { "id": 205, "date": "2026-05-10", "cat": "Acción", "text": "Intercambia un accesorio o prenda de ropa con {target} durante las próximas 3 rondas.", "targetType": "any" },
-  
-  { "id": 301, "date": "2026-05-10", "cat": "Hardcore", "text": "Dale un beso robado en la boca a {target}. Si te niegas, bebes 3 shots puros.", "targetType": "opposite" },
-  { "id": 302, "date": "2026-05-10", "cat": "Hardcore", "text": "Muerde el labio inferior de {target} suavemente. Si se acobardan, 2 shots cada uno.", "targetType": "opposite" },
-  { "id": 303, "date": "2026-05-10", "cat": "Hardcore", "text": "Tómate un shot del cuerpo de {target} (cuello o abdomen). Si no lo haces, castigo máximo.", "targetType": "opposite" },
-  { "id": 304, "date": "2026-05-10", "cat": "Hardcore", "text": "Susúrrale algo muy subido de tono al oído a {target}. Si el grupo nota que no se ruboriza, tú bebes.", "targetType": "opposite" },
-  { "id": 305, "date": "2026-05-10", "cat": "Hardcore", "text": "Pásale un hielo a {target} de boca a boca. Si se cae, ambos beben un shot.", "targetType": "opposite" },
-  
-  { "id": 401, "date": "2026-05-10", "cat": "Yo Nunca", "text": "Yo nunca he imaginado a alguien de {target} sin ropa. El que sí, bebe un shot.", "targetType": "all" },
-  { "id": 402, "date": "2026-05-10", "cat": "Yo Nunca", "text": "Yo nunca he besado a más de dos personas de {target}. Los culpables beben.", "targetType": "all" },
-  { "id": 403, "date": "2026-05-10", "cat": "Yo Nunca", "text": "Yo nunca le he mandado un mensaje borracho a mi ex frente a {target}.", "targetType": "all" },
-  { "id": 404, "date": "2026-05-10", "cat": "Yo Nunca", "text": "Yo nunca he mentido sobre mi edad para entrar a un lugar o impresionar a alguien de {target}.", "targetType": "all" },
-  { "id": 405, "date": "2026-05-10", "cat": "Yo Nunca", "text": "Yo nunca he usado una app de citas estando en el mismo lugar que {target}.", "targetType": "all" },
-  
-  { "id": 501, "date": "2026-05-10", "cat": "Castigo", "text": "¡Mala suerte! Cumple las órdenes de {target} por una ronda completa.", "targetType": "any" },
-  { "id": 502, "date": "2026-05-10", "cat": "Castigo", "text": "Todos los hombres de {target} beben un shot ahora mismo.", "targetType": "all" },
-  { "id": 503, "date": "2026-05-10", "cat": "Castigo", "text": "Todas las mujeres de {target} beben un shot ahora mismo.", "targetType": "all" },
-  { "id": 504, "date": "2026-05-10", "cat": "Castigo", "text": "Elige a alguien de {target} para que beba contigo un shot doble.", "targetType": "all" },
-  { "id": 505, "date": "2026-05-10", "cat": "Castigo", "text": "Tienes prohibido usar el celular durante 3 rondas por orden de {target}. Si lo tocas, multa.", "targetType": "all" }
+  {
+    "id": 101,
+    "date": "2026-05-11 22:55",
+    "cat": "Cadenas de Velocidad",
+    "text": "Inicia una secuencia de marcas de cerveza. La fluidez es obligatoria; el primero en dudar o repetir el término de un compañero pierde.",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 102,
+    "date": "2026-05-11 22:55",
+    "cat": "Cadenas de Velocidad",
+    "text": "Inicia la mención de especímenes Pokémon. La cadena continúa hacia la derecha con un margen de respuesta de 3 segundos.",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 103,
+    "date": "2026-05-11 22:55",
+    "cat": "Cadenas de Velocidad",
+    "text": "Menciona un personaje de la obra 'Naruto'. El flujo debe ser constante entre todos los integrantes.",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 104,
+    "date": "2026-05-11 22:55",
+    "cat": "Cadenas de Velocidad",
+    "text": "Nombra a un combatiente de 'Dragon Ball'. Se prohíbe la repetición de nombres.",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 105,
+    "date": "2026-05-11 22:55",
+    "cat": "Cadenas de Velocidad",
+    "text": "Menciona un personaje del universo Disney o Pixar. La dinámica sigue el orden de las manecillas del reloj.",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 106,
+    "date": "2026-05-11 22:55",
+    "cat": "Cadenas de Velocidad",
+    "text": "Cita a una deidad, semidiós o criatura de la mitología clásica. La cadena debe mantenerse activa y sin errores.",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 107,
+    "date": "2026-05-11 22:55",
+    "cat": "Cadenas de Velocidad",
+    "text": "Expón una conducta que consideres intolerable (Red Flag) en una relación. Todos en la mesa deben decir una diferente.",
+    "penalty": "2 shots",
+    "targetType": "any"
+  },
+  {
+    "id": 201,
+    "date": "2026-05-11 22:55",
+    "cat": "Cultura General",
+    "text": "Pregúntale a {target}: ¿En qué ciudad se localizó el epicentro del desastre nuclear de 1986?",
+    "answer": "Chernóbil",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 202,
+    "date": "2026-05-11 22:55",
+    "cat": "Cultura General",
+    "text": "Pregúntale a {target}: ¿Quién ostenta el honor de ser la primera mujer laureada con un Premio Nobel?",
+    "answer": "Marie Curie",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 203,
+    "date": "2026-05-11 22:55",
+    "cat": "Cultura General",
+    "text": "Pregúntale a {target}: ¿Cuál es el Estado soberano con la menor extensión territorial en el mundo?",
+    "answer": "El Vaticano",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 204,
+    "date": "2026-05-11 22:55",
+    "cat": "Cultura General",
+    "text": "Pregúntale a {target}: ¿Cuál es la unidad del Sistema Internacional para la resistencia eléctrica?",
+    "answer": "Ohmio",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 205,
+    "date": "2026-05-11 22:55",
+    "cat": "Cultura General",
+    "text": "Pregúntale a {target}: ¿Cómo se denomina el punto más profundo registrado en la corteza terrestre bajo el mar?",
+    "answer": "Fosa de las Marianas",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 206,
+    "date": "2026-05-11 22:55",
+    "cat": "Cultura General",
+    "text": "Pregúntale a {target}: ¿En qué año se presentó oficialmente el primer dispositivo iPhone?",
+    "answer": "2007",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 301,
+    "date": "2026-05-11 22:55",
+    "cat": "Confesiones",
+    "text": "Describe a aquel docente que marcó tu formación escolar, especificando su nombre y la cátedra que impartía.",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 302,
+    "date": "2026-05-11 22:55",
+    "cat": "Confesiones",
+    "text": "Confiesa cuál fue el hábito o rasgo de una ex pareja que te generó mayor sensación de asco o repulsión.",
+    "penalty": "2 shots",
+    "targetType": "any"
+  },
+  {
+    "id": 303,
+    "date": "2026-05-11 22:55",
+    "cat": "Confesiones",
+    "text": "Propón el Brindis del Perdón: Deben beber todos aquellos en la mesa que hayan perdonado una infidelidad o deslealtad grave.",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 304,
+    "date": "2026-05-11 22:55",
+    "cat": "Confesiones",
+    "text": "Expón tu fantasía sexual más recurrente. Luego, elige a {target} para que exponga la suya.",
+    "penalty": "2 shots",
+    "targetType": "any"
+  },
+  {
+    "id": 305,
+    "date": "2026-05-11 22:55",
+    "cat": "Confesiones",
+    "text": "Menciona tres frases o expresiones que suelas utilizar durante la intimidad. El grupo validará tu autenticidad.",
+    "penalty": "1 shot",
+    "targetType": "any"
+  },
+  {
+    "id": 401,
+    "date": "2026-05-11 22:55",
+    "cat": "Duelos de Mirada",
+    "text": "Mantén contacto visual con {target} con una expresión de odio absoluto. El primero en claudicar o reír pierde.",
+    "penalty": "2 shots",
+    "targetType": "opposite"
+  },
+  {
+    "id": 402,
+    "date": "2026-05-11 22:55",
+    "cat": "Duelos de Mirada",
+    "text": "Sostén una mirada cargada de deseo con {target}. Se autoriza el uso de gestos seductores y mímica manual.",
+    "penalty": "2 shots",
+    "targetType": "opposite"
+  },
+  {
+    "id": 403,
+    "date": "2026-05-11 22:55",
+    "cat": "Duelos de Mirada",
+    "text": "Mírate fijamente con {target} con profundo desprecio o repulsión. La inexpresividad es la clave para ganar.",
+    "penalty": "2 shots",
+    "targetType": "opposite"
+  },
+  {
+    "id": 404,
+    "date": "2026-05-11 22:55",
+    "cat": "Duelos de Mirada",
+    "text": "Tú y {target} deben mantener el rostro neutro y la mirada fija sin parpadear ni realizar gesticulaciones.",
+    "penalty": "2 shots",
+    "targetType": "opposite"
+  },
+  {
+    "id": 501,
+    "date": "2026-05-11 22:55",
+    "cat": "Interacción y Fuerza",
+    "text": "Tu misión es deducir el color de la indumentaria interior de {target}.",
+    "penalty": "2 shots",
+    "targetType": "opposite"
+  },
+  {
+    "id": 502,
+    "date": "2026-05-11 22:55",
+    "cat": "Interacción y Fuerza",
+    "text": "Ejecuta una secuencia rítmica de besos sobre {target}. Las zonas permitidas serán definidas por el consenso grupal.",
+    "penalty": "2 shots",
+    "targetType": "opposite"
+  },
+  {
+    "id": 503,
+    "date": "2026-05-11 22:55",
+    "cat": "Interacción y Fuerza",
+    "text": "Desafía a {target} a una contienda de pulseadas sobre la mesa. El honor y el shot están en juego.",
+    "penalty": "2 shots",
+    "targetType": "same"
+  },
+  {
+    "id": 504,
+    "date": "2026-05-11 22:55",
+    "cat": "Interacción y Fuerza",
+    "text": "Realiza una parodia mímica sobre cómo se declararía sentimentalmente {target}.",
+    "penalty": "2 shots",
+    "targetType": "any"
+  },
+  {
+    "id": 505,
+    "date": "2026-05-11 22:55",
+    "cat": "Interacción y Fuerza",
+    "text": "Interpreta a un personaje de Hotel Transylvania mediante gestos y voz sin abandonar el papel hasta que el grupo lo decida.",
+    "penalty": "2 shots",
+    "targetType": "any"
+  },
+  {
+    "id": 601,
+    "date": "2026-05-11 22:55",
+    "cat": "Retos Digitales",
+    "text": "Publica en tu estado de WhatsApp: 'Adiós mundo cruel...'. Si obtienes 3 interacciones en 10 minutos, te salvas.",
+    "penalty": "3 shots",
+    "targetType": "any"
+  },
+  {
+    "id": 602,
+    "date": "2026-05-11 22:55",
+    "cat": "Retos Digitales",
+    "text": "El Juicio del Fu-Man-Chú: Todo el grupo pone palma o dorso sobre la mesa a la cuenta de 3. La minoría bebe.",
+    "penalty": "3 shots",
+    "targetType": "any"
+  },
+  {
+    "id": 603,
+    "date": "2026-05-11 22:55",
+    "cat": "Retos Digitales",
+    "text": "Pídele a {target} que elija una prenda tuya. Debes retirártela, siempre y cuando no rebase el límite de decoro del grupo.",
+    "penalty": "3 shots",
+    "targetType": "any"
+  }
 ]

@@ -365,24 +365,24 @@
     "id": 501, "date": "2026-05-13 22:08", "cat": "TODI",
     "title": "T",
     "text": "¡Te tocó la letra (T) de TODO! Debes beber un shot lleno ahora mismo. El cronotimer de 10 segundos empieza ya.",
-    "penalty": "Bebe un shot extra por lento.", "timeLimit": 10, "spokenTimer": true, "autoStart": true, "targetType": "self"
+    "penalty": "Bebe un shot extra por lento.", "timeLimit": 10, "spokenTimer": true, "autoStart": false, "targetType": "self"
   },
   {
     "id": 502, "date": "2026-05-13 22:08", "cat": "TODI",
     "title": "O",
     "text": "¡Te tocó la letra O de OBLIGAR! Elige a cualquier persona de la mesa para que beba un shot lleno. Esa persona tiene 10 segundos.",
-    "penalty": "El elegido bebe un shot extra por lento.", "timeLimit": 10, "spokenTimer": true, "autoStart": true, "targetType": "group"
+    "penalty": "El elegido bebe un shot extra por lento.", "timeLimit": 10, "spokenTimer": true, "autoStart": false, "targetType": "group"
   },
   {
     "id": 503, "date": "2026-05-13 22:08", "cat": "TODI",
     "title": "D",
     "text": "La persona a tu (D) DERECHA debe beber un shot lleno ahora mismo. El cronotimer marca 10 segundos.",
-    "penalty": "El de la derecha bebe un shot extra por lento.", "timeLimit": 10, "spokenTimer": true, "autoStart": true, "targetType": "group"
+    "penalty": "El de la derecha bebe un shot extra por lento.", "timeLimit": 10, "spokenTimer": true, "autoStart": false, "targetType": "group"
   },
   {
     "id": 504, "date": "2026-05-13 22:08", "cat": "TODI",
     "title": "I",
     "text": "La persona a tu (I) IZQUIERDA debe beber un shot lleno ahora mismo. Solo tiene 10 segundos.",
-    "penalty": "El de la izquierda bebe un shot extra por lento.", "timeLimit": 10, "spokenTimer": true, "autoStart": true, "targetType": "group"
+    "penalty": "El de la izquierda bebe un shot extra por lento.", "timeLimit": 10, "spokenTimer": true, "autoStart": false, "targetType": "group"
   }
 ]

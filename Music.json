@@ -1,0 +1,388 @@
+[
+  {
+    "id": 101, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Marcas de cerveza",
+    "text": "El jugador a la derecha deberá continuar la lista. Tienes un máximo de 5 segundos para responder sin repetir ni dudar.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 102, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Nombres de Pokémon",
+    "text": "El jugador a la derecha deberá continuar la lista. Tienes un máximo de 5 segundos para responder sin repetir ni dudar.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 103, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Personajes de Naruto",
+    "text": "El jugador a la derecha deberá continuar la lista. Tienes un máximo de 5 segundos para responder sin repetir ni dudar.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 104, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Personajes de Dragon Ball",
+    "text": "El jugador a la derecha deberá continuar la lista. Tienes un máximo de 5 segundos para responder sin repetir ni dudar.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 105, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Personajes de Disney",
+    "text": "El jugador a la derecha deberá continuar la lista. Tienes un máximo de 5 segundos para responder sin repetir ni dudar.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 106, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Seres de la mitología griega",
+    "text": "El jugador a la derecha deberá continuar la lista. Tienes un máximo de 5 segundos para responder sin repetir ni dudar.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 107, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Clubes de fútbol profesionales",
+    "text": "Puedes decir equipos como Alianza Lima, Barcelona, etc. El jugador a la derecha continúa la lista. Tienes 5 segundos.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 108, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Universidades (Nacionales o Internacionales)",
+    "text": "Puedes decir UNA Puno, San Marcos, Harvard. El jugador a la derecha continúa la lista. Tienes 5 segundos.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 109, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Avenidas principales de la ciudad",
+    "text": "Ej: Av. Simón Bolívar, Av. Floral. El jugador a la derecha deberá continuar la lista. Tienes 5 segundos.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 110, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Colegios o centros educativos de la ciudad",
+    "text": "Ej: San Juan Bautista, Santa Rosa. El jugador a la derecha deberá continuar la lista. Tienes 5 segundos.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 111, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Razas de perros",
+    "text": "Ej: Pitbull, Golden Retriever. El jugador a la derecha deberá continuar la lista. Tienes 5 segundos.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 112, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Marcas de autos",
+    "text": "Ej: Toyota, Nissan, Tesla. El jugador a la derecha deberá continuar la lista. Tienes 5 segundos.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 113, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Superhéroes (Marvel o DC)",
+    "text": "Ej: Batman, Spiderman. El jugador a la derecha deberá continuar la lista. Tienes 5 segundos.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 114, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Frutas tropicales",
+    "text": "El jugador a la derecha deberá continuar la lista. Tienes un máximo de 5 segundos para responder sin repetir.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 115, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Platos de comida peruana",
+    "text": "El jugador a la derecha deberá continuar la lista. Tienes un máximo de 5 segundos para responder sin repetir.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+  {
+    "id": 116, "date": "2026-05-12 22:55", "cat": "Cadenas",
+    "title": "Restaurantes y locales conocidos",
+    "text": "El jugador a la derecha deberá continuar la lista. Tienes un máximo de 5 segundos para responder sin repetir.",
+    "penalty": "El que se quede sin ideas toma 1 shot.", "timeLimit": 5, "targetType": "group", "limit": 1
+  },
+
+  {
+    "id": 201, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿En qué ciudad ocurrió el desastre nuclear de 1986?",
+    "answer": "Chernóbil", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 202, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Quién fue la primera mujer en ganar un Premio Nobel?",
+    "answer": "Marie Curie", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 203, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el país más pequeño del mundo por extensión territorial?",
+    "answer": "El Vaticano", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 204, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el único mamífero capaz de volar?",
+    "answer": "El Murciélago", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 205, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el nombre de la fosa más profunda del océano conocida hasta ahora?",
+    "answer": "Fosa de las Marianas", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 206, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el metal cuyo símbolo químico es Au?",
+    "answer": "Oro", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 207, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Qué país tiene forma de bota?",
+    "answer": "Italia", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 208, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el río más largo del mundo?",
+    "answer": "El Amazonas", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 209, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el idioma más hablado del mundo por hablantes nativos?",
+    "answer": "Chino Mandarín", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 210, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Quién pintó la famosa obra 'La última cena'?",
+    "answer": "Leonardo da Vinci", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 211, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el nombre del lugar más seco de la Tierra?",
+    "answer": "Desierto de Atacama", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 212, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el planeta más grande de nuestro sistema solar?",
+    "answer": "Júpiter", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 213, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el país más poblado del mundo actualmente?",
+    "answer": "India", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 214, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el océano más grande de la Tierra?",
+    "answer": "Océano Pacífico", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 215, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Qué órgano del cuerpo humano consume más energía?",
+    "answer": "El Cerebro", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 216, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿En qué continente se encuentra el Monte Kilimanjaro?",
+    "answer": "África", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 217, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el país con más pirámides del mundo?",
+    "answer": "Sudán", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 218, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Qué animal tiene tres corazones, nueve cerebros y sangre azul?",
+    "answer": "El Pulpo", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 219, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cómo se llama la parte coloreada del ojo que regula la entrada de luz?",
+    "answer": "Iris", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 220, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el único hueso del cuerpo humano que no está conectado a ningún otro?",
+    "answer": "Hueso Hioides", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 221, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Qué ciudad es conocida como la 'Ciudad de los Canales' fuera de Italia?",
+    "answer": "Ámsterdam", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 222, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Quién escribió la famosa novela 'Don Quijote de la Mancha'?",
+    "answer": "Miguel de Cervantes Saavedra", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 223, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el único alimento que no se pudre y puede durar miles de años?",
+    "answer": "La Miel", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 224, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el músculo más fuerte del cuerpo humano en relación a su tamaño?",
+    "answer": "El Masetero (Mandíbula)", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 225, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Qué animal produce el excremento en forma de cubo?",
+    "answer": "El Wombat", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 226, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuántos huesos tiene un tiburón en todo su cuerpo?",
+    "answer": "Cero (Es cartílago)", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 227, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el único metal que es líquido a temperatura ambiente?",
+    "answer": "El Mercurio", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 228, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es la obra de arte más famosa del mundo protegida por un cristal antibalas?",
+    "answer": "La Mona Lisa (La Gioconda)", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 229, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Qué nombre recibe el miedo irracional a las alturas?",
+    "answer": "Acrofobia", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 230, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "Es un ave del tamaño de una gallina, pero pone un huevo gigante casi del tamaño de un avestruz. ¿Cómo se llama?",
+    "answer": "El Kiwi", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+  {
+    "id": 231, "date": "2026-05-12 22:55", "cat": "Cultura General",
+    "text": "¿Cuál es el elemento químico más ligero de la tabla periódica?",
+    "answer": "Hidrógeno", "penalty": "Si fallas o no respondes a tiempo, toma 1 shot lleno.", "timeLimit": 30, "targetType": "self", "limit": 1
+  },
+
+  {
+    "id": 301, "date": "2026-05-12 22:55", "cat": "Confesiones Grupales",
+    "title": "Red Flags",
+    "text": "Menciona comportamientos o actitudes que consideres una 'red flag' en una persona. El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que no quiera responder bebe 1 shot lleno.", "limit": 1, "targetType": "group"
+  },
+  {
+    "id": 302, "date": "2026-05-12 22:55", "cat": "Confesiones Grupales",
+    "title": "Fantasía Sexual",
+    "text": "Menciona cuál es tu fantasía sexual. El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que no quiera responder bebe 2 shots llenos.", "limit": 1, "targetType": "group"
+  },
+  {
+    "id": 303, "date": "2026-05-12 22:55", "cat": "Confesiones Grupales",
+    "title": "Amor de Colegio",
+    "text": "¿Te enamoraste de algún profesor o profesora en el colegio? Menciona cómo se llamaba y qué curso enseñaba. El jugador a la derecha continúa.",
+    "penalty": "El que no quiera responder bebe 1 shot lleno.", "limit": 1, "targetType": "group"
+  },
+  {
+    "id": 304, "date": "2026-05-12 22:55", "cat": "Confesiones Grupales",
+    "title": "Locuras por Amor",
+    "text": "¿Qué es lo más loco que has hecho por amor? El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que no quiera responder bebe 1 shot lleno.", "limit": 1, "targetType": "group"
+  },
+  {
+    "id": 305, "date": "2026-05-12 22:55", "cat": "Confesiones Grupales",
+    "title": "Atracción Física",
+    "text": "¿Qué es lo que te gusta físicamente de una persona? El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que no quiera responder bebe 2 shots llenos.", "limit": 1, "targetType": "group"
+  },
+  {
+    "id": 306, "date": "2026-05-12 22:55", "cat": "Confesiones Grupales",
+    "title": "El Tamaño",
+    "text": "¿Crees que el tamaño realmente importa en una relación? El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que no quiera responder bebe 1 shot lleno.", "limit": 1, "targetType": "group"
+  },
+  {
+    "id": 307, "date": "2026-05-12 22:55", "cat": "Confesiones Grupales",
+    "title": "Frases de Ruptura",
+    "text": "Menciona frases clásicas para terminar una relación. El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que no quiera responder bebe 1 shot lleno.", "limit": 1, "targetType": "group"
+  },
+  {
+    "id": 308, "date": "2026-05-12 22:55", "cat": "Confesiones Grupales",
+    "title": "Frases de Mamá Enojada",
+    "text": "Menciona frases clásicas de una mamá enojada. El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que no quiera responder bebe 1 shot lleno.", "limit": 1, "targetType": "group"
+  },
+  {
+    "id": 309, "date": "2026-05-12 22:55", "cat": "Confesiones Grupales",
+    "title": "Mentiras de Parejas",
+    "text": "Menciona mentiras clásicas que se dicen las parejas. El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que no quiera responder bebe 1 shot lleno.", "limit": 1, "targetType": "group"
+  },
+
+  {
+    "id": 401, "date": "2026-05-12 22:55", "cat": "Face to Face",
+    "title": "Lectura de Labios (Nivel 1)",
+    "text": "Debes mirar fijamente a {target} y decir la palabra secreta solo moviendo los labios (sin sonido). Si no adivina, ambos beben.",
+    "answer": "TE AMO", "penalty": "1 shot para cada uno.", "targetType": "opposite", "limit": 1
+  },
+  {
+    "id": 402, "date": "2026-05-12 22:55", "cat": "Face to Face",
+    "title": "Lectura de Labios (Nivel 2)",
+    "text": "Debes decir la palabra secreta solo moviendo los labios a {target}. Si no adivina, ambos beben.",
+    "answer": "ME GUSTAS", "penalty": "1 shot para cada uno.", "targetType": "opposite", "limit": 1
+  },
+  {
+    "id": 403, "date": "2026-05-12 22:55", "cat": "Face to Face",
+    "title": "Vidente de Ropa Interior",
+    "text": "Debes adivinar el color de la ropa interior de {target}. Si fallas, bebes. Si el otro se niega a confirmar, bebe él.",
+    "penalty": "2 shots llenos.", "targetType": "opposite", "limit": 3
+  },
+  {
+    "id": 404, "date": "2026-05-12 22:55", "cat": "Face to Face",
+    "title": "Padre Nuestro con Besos",
+    "text": "Debes darle una secuencia rápida de besos en la cara (estilo rezo) a {target}. Si alguno se niega, beben.",
+    "penalty": "2 shots llenos.", "targetType": "opposite", "limit": 2
+  },
+  {
+    "id": 405, "date": "2026-05-12 22:55", "cat": "Face to Face",
+    "title": "Duelo de Fuerza (Vencidas)",
+    "text": "Enfréntate a {target} en un duelo de pulso/vencidas. Bebe el perdedor.",
+    "penalty": "3 shots llenos.", "targetType": "same", "limit": 2
+  },
+  {
+    "id": 406, "date": "2026-05-12 22:55", "cat": "Face to Face",
+    "title": "Mirada de Odio",
+    "text": "Mírate fijamente con {target} con odio total sin pestañear. El primero en reírse o parpadear bebe.",
+    "penalty": "1 shot lleno.", "targetType": "opposite", "limit": 2
+  },
+  {
+    "id": 407, "date": "2026-05-12 22:55", "cat": "Face to Face",
+    "title": "El Espejo del Crush",
+    "text": "Debes imitar cómo crees que {target} se declararía a su crush. El grupo vota.",
+    "penalty": "Si el grupo desaprueba, 1 shot lleno.", "targetType": "opposite", "limit": 3
+  },
+  {
+    "id": 408, "date": "2026-05-12 22:55", "cat": "Face to Face",
+    "title": "Adiós Mundo Cruel",
+    "text": "Debes entregar tu celular a {target} para publicar 'Adiós mundo cruel...' en WhatsApp. Si recibes 3 mensajes de preocupación, ganas un Comodín.",
+    "penalty": "Si te niegas, 2 shots llenos.", "reward": "Comodín: Salta el castigo en tu siguiente turno.", "targetType": "opposite", "limit": 1
+  },
+  {
+    "id": 409, "date": "2026-05-12 22:55", "cat": "Face to Face",
+    "title": "Beso a Ciegas (El Adivino)",
+    "text": "Con ojos vendados, debes adivinar quién te acaba de besar en la mejilla. (El grupo elige a alguien para el beso).",
+    "penalty": "Si fallas, bebes 2 shots. Si aciertas, la persona identificada bebe 2 shots.", "targetType": "any", "limit": 2
+ },
+  {
+    "id": 501, "date": "2026-05-13 22:08", "cat": "TODI",
+    "title": "T",
+    "text": "¡Te tocó la letra (T) de TODO! Debes beber un shot lleno ahora mismo. El cronotimer de 10 segundos empieza ya.",
+    "penalty": "Bebe un shot extra por lento.", "timeLimit": 10, "spokenTimer": true, "autoStart": false, "targetType": "self"
+  },
+  {
+    "id": 502, "date": "2026-05-13 22:08", "cat": "TODI",
+    "title": "O",
+    "text": "¡Te tocó la letra O de OBLIGAR! Elige a cualquier persona de la mesa para que beba un shot lleno. Esa persona tiene 10 segundos.",
+    "penalty": "El elegido bebe un shot extra por lento.", "timeLimit": 10, "spokenTimer": true, "autoStart": false, "targetType": "group"
+  },
+  {
+    "id": 503, "date": "2026-05-13 22:08", "cat": "TODI",
+    "title": "D",
+    "text": "La persona a tu (D) DERECHA debe beber un shot lleno ahora mismo. El cronotimer marca 10 segundos.",
+    "penalty": "El de la derecha bebe un shot extra por lento.", "timeLimit": 10, "spokenTimer": true, "autoStart": false, "targetType": "group"
+  },
+  {
+    "id": 504, "date": "2026-05-13 22:08", "cat": "TODI",
+    "title": "I",
+    "text": "La persona a tu (I) IZQUIERDA debe beber un shot lleno ahora mismo. Solo tiene 10 segundos.",
+    "penalty": "El de la izquierda bebe un shot extra por lento.", "timeLimit": 10, "spokenTimer": true, "autoStart": false, "targetType": "group"
+  }
+]

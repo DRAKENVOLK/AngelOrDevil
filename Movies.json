@@ -12,7 +12,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Acción"
   },
   {
     "id": 7002,
@@ -27,7 +28,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7003,
@@ -42,7 +44,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7004,
@@ -57,7 +60,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7005,
@@ -72,7 +76,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7006,
@@ -87,7 +92,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Drama"
   },
   {
     "id": 7008,
@@ -102,7 +108,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Fantasía"
   },
   {
     "id": 7009,
@@ -117,7 +124,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7010,
@@ -125,29 +133,15 @@
     "cat": "Cine",
     "title": "Charadas de Cine",
     "text": "",
-    "answer": "Ted",
-    "artworkUrl": "https://image.tmdb.org/t/p/w500/rpadMMk5g2ivupPqtTQMnHIxJK0.jpg",
+    "answer": "Ted 2",
+    "artworkUrl": "https://image.tmdb.org/t/p/w500/bO59Vn36fQauTDQpKNlHxvcK9Nw.jpg",
     "penalty": "Bebe 1 shot lleno por falta de dotes actorales o por romper las reglas.",
     "targetType": "group",
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
-  },
-  {
-    "id": 7012,
-    "date": "2026-05-17 22:37",
-    "cat": "Cine",
-    "title": "Charadas de Cine",
-    "text": "",
-    "answer": "Mi pobre angelito",
-    "artworkUrl": "https://image.tmdb.org/t/p/w500/iruzQaa7OHmtb6qKbW278v6Ml4b.jpg",
-    "penalty": "Bebe 1 shot lleno por falta de dotes actorales o por romper las reglas.",
-    "targetType": "group",
-    "timeLimit": 60,
-    "spokenTimer": true,
-    "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7013,
@@ -162,7 +156,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7014,
@@ -177,7 +172,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7015,
@@ -192,22 +188,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
-  },
-  {
-    "id": 7016,
-    "date": "2026-05-17 22:37",
-    "cat": "Cine",
-    "title": "Charadas de Cine",
-    "text": "",
-    "answer": "Zoolander",
-    "artworkUrl": "https://image.tmdb.org/t/p/w500/pOtJyjyCjhOcfBnQG8vIZ6Q2y2A.jpg",
-    "penalty": "Bebe 1 shot lleno por falta de dotes actorales o por romper las reglas.",
-    "targetType": "group",
-    "timeLimit": 60,
-    "spokenTimer": true,
-    "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7017,
@@ -222,7 +204,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Fantasía"
   },
   {
     "id": 7018,
@@ -237,7 +220,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7019,
@@ -252,7 +236,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Acción"
   },
   {
     "id": 7020,
@@ -267,7 +252,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7022,
@@ -282,7 +268,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7023,
@@ -297,7 +284,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7025,
@@ -312,7 +300,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7026,
@@ -327,7 +316,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7028,
@@ -342,7 +332,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7029,
@@ -357,7 +348,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7030,
@@ -372,7 +364,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7031,
@@ -387,7 +380,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Acción"
   },
   {
     "id": 7033,
@@ -402,7 +396,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7034,
@@ -417,7 +412,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Fantasía"
   },
   {
     "id": 7035,
@@ -432,7 +428,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7036,
@@ -447,22 +444,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
-  },
-  {
-    "id": 7039,
-    "date": "2026-05-17 22:38",
-    "cat": "Cine",
-    "title": "Charadas de Cine",
-    "text": "",
-    "answer": "Jumanji: En la selva",
-    "artworkUrl": "https://image.tmdb.org/t/p/w500/eUk8eiZguVtSVZ6cjneGYlbENve.jpg",
-    "penalty": "Bebe 1 shot lleno por falta de dotes actorales o por romper las reglas.",
-    "targetType": "group",
-    "timeLimit": 60,
-    "spokenTimer": true,
-    "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7040,
@@ -477,7 +460,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Aventura"
   },
   {
     "id": 7044,
@@ -492,7 +476,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7045,
@@ -507,7 +492,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Acción"
   },
   {
     "id": 7046,
@@ -522,22 +508,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
-  },
-  {
-    "id": 7047,
-    "date": "2026-05-17 22:38",
-    "cat": "Cine",
-    "title": "Charadas de Cine",
-    "text": "",
-    "answer": "Legalmente Rubia",
-    "artworkUrl": "https://image.tmdb.org/t/p/w500/niib9aVXTSKt8YOr9sHaMGkpJHZ.jpg",
-    "penalty": "Bebe 1 shot lleno por falta de dotes actorales o por romper las reglas.",
-    "targetType": "group",
-    "timeLimit": 60,
-    "spokenTimer": true,
-    "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Comedia"
   },
   {
     "id": 7051,
@@ -552,7 +524,8 @@
     "timeLimit": 60,
     "spokenTimer": true,
     "limit": 1,
-    "cooldown": "2"
+    "cooldown": "2",
+    "genre": "Romance"
   },
   {
     "id": 7052,
@@ -560,8 +533,57 @@
     "cat": "Cine",
     "title": "Charadas de Cine",
     "text": "",
-    "answer": "Los Cazanovias",
+    "answer": "Los Rompebodas",
     "artworkUrl": "https://image.tmdb.org/t/p/w500/2KepxICAEiAa3i4fWP2CiwLGJr5.jpg",
+    "penalty": "Bebe 1 shot lleno por falta de dotes actorales o por romper las reglas.",
+    "targetType": "group",
+    "timeLimit": 60,
+    "spokenTimer": true,
+    "limit": 1,
+    "cooldown": "2",
+    "genre": "Comedia"
+  },
+  {
+    "id": 7053,
+    "date": "2026-05-17 23:37",
+    "cat": "Cine",
+    "title": "Charadas de Cine",
+    "text": "",
+    "answer": "Un Paseo Inolvidable",
+    "genre": "Drama",
+    "artworkUrl": "https://image.tmdb.org/t/p/w500/ud1yId0IvFKBseGf4KXwmjShwsN.jpg",
+    "penalty": "Bebe 1 shot lleno por falta de dotes actorales o por romper las reglas.",
+    "targetType": "group",
+    "timeLimit": 60,
+    "spokenTimer": true,
+    "limit": 1,
+    "cooldown": "2"
+  },
+  {
+    "id": 7054,
+    "date": "2026-05-17 23:39",
+    "cat": "Cine",
+    "title": "Charadas de Cine",
+    "text": "",
+    "answer": "Mi pobre angelito",
+    "genre": "Comedia",
+    "artworkUrl": "https://image.tmdb.org/t/p/w500/48Wa6L2QzY47nWqtRCgiqYlecc9.jpg",
+    "penalty": "Bebe 1 shot lleno por falta de dotes actorales o por romper las reglas.",
+    "targetType": "group",
+    "timeLimit": 60,
+    "spokenTimer": true,
+    "limit": 1,
+    "cooldown": "2"
+  },
+  {
+    "id": 7055,
+    "date": "2026-05-17 23:40",
+    "cat": "Cine",
+    "title": "Charadas de Cine",
+    "text": "",
+    "answer": "Jumanji",
+    "genre": "Aventura",
+    "artworkUrl": "https://image.tmdb.org/t/p/w500/m67M2wXLKblJLuJlvF7qaGrGfCa.jpg",
     "penalty": "Bebe 1 shot lleno por falta de dotes actorales o por romper las reglas.",
     "targetType": "group",
     "timeLimit": 60,

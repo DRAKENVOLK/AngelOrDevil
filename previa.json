@@ -633,7 +633,7 @@
     "date": "2026-05-12 22:55",
     "cat": "Face to Face",
     "title": "Vidente de Ropa Interior",
-    "text": "Debes adivinar el color de la ropa interior de {target}. Si fallas, bebes. {target} debe confirmar mostrando un poco de la ropa interior desde la cintura; si se niega, será castigado.",
+    "text": "Debes adivinar el color de la ropa interior de {target}. Si fallas, bebes. {target} debe confirmar mostrando un poco de la ropa interior desde la cintura. Si alguien se niega, será castigado.",
     "penalty": "2 shots llenos.",
     "targetType": "opposite",
     "limit": 3

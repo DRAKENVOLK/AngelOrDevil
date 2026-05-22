@@ -1,5 +1,60 @@
 [
   {
+    "cat": "Confesiones Grupales",
+    "title": "Al Borde del Peligro",
+    "text": "Momento de tensión: ¿Alguna vez fuiste infiel o estuviste a un milímetro de cruzar la línea? Cuenta cómo fue la situación, con quién y qué te detuvo (o qué te impulsó). El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que no quiera confesar sus pecados bebe 1 shot llenos.",
+    "targetType": "group",
+    "limit": 1,
+    "cooldown": "1",
+    "id": 509,
+    "date": "2026-05-22 15:14"
+  },
+  {
+    "cat": "Confesiones Grupales",
+    "title": "Arrepentimientos",
+    "text": "Sé sincero: Confiesa si te arrepientes profundamente de alguna relación o \"casi algo\" que hayas tenido. ¿Qué fue eso que te hizo decir \"nunca más con esta persona\"? El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que diga que no se arrepiente de nada bebe 1 shot lleno.",
+    "targetType": "group",
+    "limit": 1,
+    "cooldown": "1",
+    "id": 508,
+    "date": "2026-05-22 15:11"
+  },
+  {
+    "cat": "Confesiones Grupales",
+    "title": "La Primera Vez",
+    "text": "Relata cómo fue tu primera vez. ¿Fue romántica, un desastre total o súper incómoda? Danos el contexto, dónde fue y cómo te sentiste al terminar. El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que se niegue a dar detalles bebe 2 shots llenos.",
+    "targetType": "group",
+    "limit": 1,
+    "cooldown": "1",
+    "id": 507,
+    "date": "2026-05-22 15:09"
+  },
+  {
+    "cat": "Confesiones Grupales",
+    "title": "El Calendario",
+    "text": "Confiesa exactamente cuándo fue la última vez que tuviste relaciones. No vale omitir detalles: dinos cuánto tiempo ha pasado, dónde fue y si valió la pena. El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que intente ocultar la fecha bebe 1 shot lleno.",
+    "targetType": "group",
+    "limit": 1,
+    "cooldown": "1",
+    "id": 506,
+    "date": "2026-05-22 15:06"
+  },
+  {
+    "cat": "Confesiones Grupales",
+    "title": "Trágame Tierra",
+    "text": "Cuenta con lujo de detalles la experiencia más vergonzosa, humillante o incómoda que hayas tenido en una cita. ¿Qué pasó exactamente y cómo lograste salir de esa situación? El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que no quiera contar su anécdota bebe 2 shots llenos.",
+    "targetType": "group",
+    "limit": 1,
+    "cooldown": "1",
+    "id": 505,
+    "date": "2026-05-22 15:03"
+  },
+  {
     "id": 101,
     "date": "2026-05-12 22:55",
     "cat": "Cadenas",

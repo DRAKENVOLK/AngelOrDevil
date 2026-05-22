@@ -1,60 +1,5 @@
 [
   {
-    "cat": "Confesiones Grupales",
-    "title": "Al Borde del Peligro",
-    "text": "Momento de tensión: ¿Alguna vez fuiste infiel o estuviste a un milímetro de cruzar la línea? Cuenta cómo fue la situación, con quién y qué te detuvo (o qué te impulsó). El jugador a la derecha continúa la dinámica.",
-    "penalty": "El que no quiera confesar sus pecados bebe 1 shot llenos.",
-    "targetType": "group",
-    "limit": 1,
-    "cooldown": "1",
-    "id": 509,
-    "date": "2026-05-22 15:14"
-  },
-  {
-    "cat": "Confesiones Grupales",
-    "title": "Arrepentimientos",
-    "text": "Sé sincero: Confiesa si te arrepientes profundamente de alguna relación o \"casi algo\" que hayas tenido. ¿Qué fue eso que te hizo decir \"nunca más con esta persona\"? El jugador a la derecha continúa la dinámica.",
-    "penalty": "El que diga que no se arrepiente de nada bebe 1 shot lleno.",
-    "targetType": "group",
-    "limit": 1,
-    "cooldown": "1",
-    "id": 508,
-    "date": "2026-05-22 15:11"
-  },
-  {
-    "cat": "Confesiones Grupales",
-    "title": "La Primera Vez",
-    "text": "Relata cómo fue tu primera vez. ¿Fue romántica, un desastre total o súper incómoda? Danos el contexto, dónde fue y cómo te sentiste al terminar. El jugador a la derecha continúa la dinámica.",
-    "penalty": "El que se niegue a dar detalles bebe 2 shots llenos.",
-    "targetType": "group",
-    "limit": 1,
-    "cooldown": "1",
-    "id": 507,
-    "date": "2026-05-22 15:09"
-  },
-  {
-    "cat": "Confesiones Grupales",
-    "title": "El Calendario",
-    "text": "Confiesa exactamente cuándo fue la última vez que tuviste relaciones. No vale omitir detalles: dinos cuánto tiempo ha pasado, dónde fue y si valió la pena. El jugador a la derecha continúa la dinámica.",
-    "penalty": "El que intente ocultar la fecha bebe 1 shot lleno.",
-    "targetType": "group",
-    "limit": 1,
-    "cooldown": "1",
-    "id": 506,
-    "date": "2026-05-22 15:06"
-  },
-  {
-    "cat": "Confesiones Grupales",
-    "title": "Trágame Tierra",
-    "text": "Cuenta con lujo de detalles la experiencia más vergonzosa, humillante o incómoda que hayas tenido en una cita. ¿Qué pasó exactamente y cómo lograste salir de esa situación? El jugador a la derecha continúa la dinámica.",
-    "penalty": "El que no quiera contar su anécdota bebe 2 shots llenos.",
-    "targetType": "group",
-    "limit": 1,
-    "cooldown": "1",
-    "id": 505,
-    "date": "2026-05-22 15:03"
-  },
-  {
     "id": 101,
     "date": "2026-05-12 22:55",
     "cat": "Cadenas",
@@ -801,5 +746,104 @@
     "spokenTimer": true,
     "autoStart": false,
     "targetType": "any"
+  },
+  {
+    "cat": "Confesiones Grupales",
+    "title": "Amor Tóxico",
+    "text": "Describe la relación o \"casi algo\" más tóxico que hayas vivido. ¿Cuál fue la mayor locura, escena de celos o comportamiento controlador que llegaste a aguantar o hacer? El jugador a la derecha continúa la dinámica.",
+    "penalty": "Bebe 1 shot.",
+    "targetType": "group",
+    "limit": 1,
+    "cooldown": "1",
+    "id": 505,
+    "date": "2026-05-22 15:32"
+  },
+  {
+    "cat": "Confesiones Grupales",
+    "title": "Beso por Compromiso",
+    "text": "¿Alguna vez besaste a alguien o llegaste a más solo por presión social, por la calentura del momento o simplemente por no quedar mal? Cuenta todo el contexto de esa mala decisión. El jugador a la derecha continúa la dinámica.",
+    "penalty": "Bebe 1 shot.",
+    "targetType": "group",
+    "limit": 1,
+    "cooldown": "1",
+    "id": 506,
+    "date": "2026-05-22 15:34"
+  },
+  {
+    "cat": "Confesiones Grupales",
+    "title": "Accidentes de Cama",
+    "text": "Confiesa qué fue lo más incómodo, gracioso o bizarro que te ha pasado en pleno acto sexual. Queremos detalles de cómo pasó y cómo reaccionaste en ese momento. El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que no quiera revelar su vergüenza íntima bebe 2 shots llenos.",
+    "targetType": "group",
+    "limit": 1,
+    "cooldown": "1",
+    "id": 507,
+    "date": "2026-05-22 15:35"
+  },
+  {
+    "cat": "Confesiones Grupales",
+    "title": "Actor de Reparto",
+    "text": "Confiesa si alguna vez fingiste estar enamorado o tener sentimientos por alguien solo por conveniencia, lástima, aburrimiento o para conseguir algo. ¿Cómo mantuviste la mentira y cómo terminó todo? El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que se niegue a admitir su teatro bebe 1 shot lleno.",
+    "targetType": "group",
+    "limit": 1,
+    "cooldown": "1",
+    "id": 508,
+    "date": "2026-05-22 15:40"
+  },
+  {
+    "cat": "Confesiones Grupales",
+    "title": "Fantasmas en la Relación",
+    "text": "Abre tu corazón (solo por un momento): Confiesa cuál es tu mayor inseguridad o miedo irracional cuando estás en una relación seria. ¿Qué es eso que te quita el sueño o te vuelve paranoico/a? El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que no quiera ponerse vulnerable frente al grupo bebe 1 shot lleno.",
+    "targetType": "any",
+    "limit": 1,
+    "cooldown": "1",
+    "id": 509,
+    "date": "2026-05-22 15:41"
+  },
+  {
+    "cat": "Confesiones Grupales",
+    "title": "Ciego por Calentura",
+    "text": "Todos hemos perdido la cabeza por instinto. ¿Qué fue lo más impulsivo, ridículo, caro o arriesgado que hiciste simplemente porque estabas muy caliente? Queremos saber todo el plan de acción. El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que no quiera admitir su locura bebe 2 shots llenos.",
+    "targetType": "group",
+    "limit": 1,
+    "cooldown": "1",
+    "id": 510,
+    "date": "2026-05-22 15:43"
+  },
+  {
+    "cat": "Confesiones Grupales",
+    "title": "¡Manos Arriba!",
+    "text": "Cuenta la anécdota de esa vez que te descubrieron (o estuviste a un milímetro de ser descubierto) en pleno momento íntimo o haciendo algo muy indebido. ¿Quién te vio, qué sentiste y qué excusa ridícula pusiste? El jugador a la derecha continúa la dinámica.",
+    "penalty": "El que intente hacerse el santo o la santa bebe 2 shots llenos.",
+    "targetType": "group",
+    "limit": 1,
+    "cooldown": "1",
+    "id": 511,
+    "date": "2026-05-22 15:58"
+  },
+  {
+    "cat": "HARDCORE",
+    "title": "El Gran Teatro",
+    "text": "¿Alguna vez has tenido que fingir un orgasmo para terminar rápido, por aburrimiento o para no herir el ego de la otra persona? Explica cómo fue tu actuación estelar y si te creyeron.",
+    "penalty": "bebe 2 shots llenos por hombreriega.",
+    "targetType": "female_target",
+    "limit": 1,
+    "cooldown": "1",
+    "id": 512,
+    "date": "2026-05-22 16:04"
+  },
+  {
+    "cat": "HARDCORE",
+    "title": "El Despertar",
+    "text": "Revela exactamente a qué edad fue tu primera vez y confiesa algo: mirándolo en retrospectiva, ¿crees que fue el momento adecuado, te apresuraste o te tardaste demasiado?",
+    "penalty": "Beben 2 shots.",
+    "targetType": "any",
+    "limit": 4,
+    "cooldown": "1",
+    "id": 513,
+    "date": "2026-05-22 16:07"
   }
 ]

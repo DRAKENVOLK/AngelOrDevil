@@ -615,7 +615,8 @@
     "answer": "TE AMO",
     "penalty": "1 shot para cada uno.",
     "targetType": "opposite",
-    "limit": 1
+    "limit": 1,
+    "ignoreAudit": true
   },
   {
     "id": 402,
@@ -626,7 +627,8 @@
     "answer": "ME GUSTAS",
     "penalty": "1 shot para cada uno.",
     "targetType": "opposite",
-    "limit": 1
+    "limit": 1,
+    "ignoreAudit": true
   },
   {
     "id": 403,
@@ -636,7 +638,9 @@
     "text": "Debes adivinar el color de la ropa interior de {target}. Si fallas, bebes. {target} debe confirmar mostrando un poco de la ropa interior desde la cintura. Si alguien se niega, será castigado.",
     "penalty": "2 shots llenos.",
     "targetType": "opposite",
-    "limit": 3
+    "limit": 3,
+    "cooldown": "2",
+    "ignoreAudit": false
   },
   {
     "id": 404,
@@ -646,7 +650,9 @@
     "text": "Debes darle “el Padre Nuestro con besos” a {target}. Si alguien se niega, será castigado.",
     "penalty": "2 shots llenos.",
     "targetType": "opposite",
-    "limit": 2
+    "limit": 2,
+    "cooldown": "3",
+    "ignoreAudit": false
   },
   {
     "id": 405,
@@ -656,7 +662,9 @@
     "text": "Enfréntate a {target} en un duelo de pulso/vencidas. Bebe el perdedor.",
     "penalty": "3 shots llenos.",
     "targetType": "same",
-    "limit": 2
+    "limit": 3,
+    "cooldown": "2",
+    "ignoreAudit": false
   },
   {
     "id": 406,
@@ -666,7 +674,9 @@
     "text": "Mírate fijamente con {target} con odio total sin pestañear. El primero en reírse o parpadear bebe.",
     "penalty": "1 shot lleno.",
     "targetType": "opposite",
-    "limit": 2
+    "limit": 3,
+    "cooldown": "3",
+    "ignoreAudit": false
   },
   {
     "id": 407,
@@ -676,7 +686,9 @@
     "text": "Debes imitar cómo crees que {target} se declararía a su crush.",
     "penalty": "Si el grupo desaprueba, 1 shot lleno.",
     "targetType": "opposite",
-    "limit": 3
+    "limit": 3,
+    "cooldown": "3",
+    "ignoreAudit": false
   },
   {
     "id": 408,
@@ -687,7 +699,9 @@
     "penalty": "Si te niegas, 2 shots llenos.",
     "reward": "Comodín: Salta el castigo en tu siguiente turno.",
     "targetType": "opposite",
-    "limit": 1
+    "limit": 2,
+    "cooldown": "3",
+    "ignoreAudit": false
   },
   {
     "id": 409,
@@ -697,7 +711,9 @@
     "text": "Con ojos vendados, debes adivinar quién te acaba de besar en la mejilla. (El grupo elige a alguien para el beso).",
     "penalty": "Si fallas, bebes 2 shots. Si aciertas, la persona identificada bebe 2 shots.",
     "targetType": "any",
-    "limit": 2
+    "limit": 2,
+    "cooldown": "3",
+    "ignoreAudit": false
   },
   {
     "id": 501,
@@ -754,9 +770,9 @@
     "penalty": "Bebe 1 shot.",
     "targetType": "group",
     "limit": 1,
-    "cooldown": "1",
     "id": 505,
-    "date": "2026-05-22 15:32"
+    "date": "2026-05-22 15:32",
+    "ignoreAudit": false
   },
   {
     "cat": "Confesiones Grupales",
@@ -765,9 +781,9 @@
     "penalty": "Bebe 1 shot.",
     "targetType": "group",
     "limit": 1,
-    "cooldown": "1",
     "id": 506,
-    "date": "2026-05-22 15:34"
+    "date": "2026-05-22 15:34",
+    "ignoreAudit": false
   },
   {
     "cat": "Confesiones Grupales",
@@ -776,9 +792,9 @@
     "penalty": "El que no quiera revelar su vergüenza íntima bebe 2 shots llenos.",
     "targetType": "group",
     "limit": 1,
-    "cooldown": "1",
     "id": 507,
-    "date": "2026-05-22 15:35"
+    "date": "2026-05-22 15:35",
+    "ignoreAudit": false
   },
   {
     "cat": "Confesiones Grupales",
@@ -787,9 +803,9 @@
     "penalty": "El que se niegue a admitir su teatro bebe 1 shot lleno.",
     "targetType": "group",
     "limit": 1,
-    "cooldown": "1",
     "id": 508,
-    "date": "2026-05-22 15:40"
+    "date": "2026-05-22 15:40",
+    "ignoreAudit": false
   },
   {
     "cat": "Confesiones Grupales",
@@ -798,9 +814,9 @@
     "penalty": "El que no quiera ponerse vulnerable frente al grupo bebe 1 shot lleno.",
     "targetType": "any",
     "limit": 1,
-    "cooldown": "1",
     "id": 509,
-    "date": "2026-05-22 15:41"
+    "date": "2026-05-22 15:41",
+    "ignoreAudit": false
   },
   {
     "cat": "Confesiones Grupales",
@@ -809,9 +825,9 @@
     "penalty": "El que no quiera admitir su locura bebe 2 shots llenos.",
     "targetType": "group",
     "limit": 1,
-    "cooldown": "1",
     "id": 510,
-    "date": "2026-05-22 15:43"
+    "date": "2026-05-22 15:43",
+    "ignoreAudit": false
   },
   {
     "cat": "Confesiones Grupales",
@@ -820,9 +836,9 @@
     "penalty": "El que intente hacerse el santo o la santa bebe 2 shots llenos.",
     "targetType": "group",
     "limit": 1,
-    "cooldown": "1",
     "id": 511,
-    "date": "2026-05-22 15:58"
+    "date": "2026-05-22 15:58",
+    "ignoreAudit": false
   },
   {
     "cat": "HARDCORE",

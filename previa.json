@@ -885,5 +885,29 @@
     "ignoreAudit": false,
     "id": 515,
     "date": "2026-05-29 08:52"
+  },
+  {
+    "cat": "HARDCORE",
+    "title": "Crónica de un Desastre",
+    "text": "Sé autocrítico y asume tu culpa: ¿Cuál consideras que ha sido tu error más catastrófico, tóxico o estúpido estando en una relación sentimental? ¿Qué hiciste y cómo lo arruinaste?",
+    "penalty": "Beben 2 shots.",
+    "targetType": "any",
+    "limit": 3,
+    "cooldown": "1",
+    "ignoreAudit": false,
+    "id": 516,
+    "date": "2026-06-05 08:58"
+  },
+  {
+    "cat": "HARDCORE",
+    "title": "Beso con Retractación",
+    "text": "Confiesa si alguna vez, inmediatamente después de besar a alguien, sentiste un arrepentimiento instantáneo. ¿Qué fue lo que lo arruinó: el sabor, la técnica o simplemente te diste cuenta de que no era la persona?",
+    "penalty": "Bebe 1 shot.",
+    "targetType": "any",
+    "limit": 3,
+    "cooldown": "2",
+    "ignoreAudit": false,
+    "id": 517,
+    "date": "2026-06-05 09:06"
   }
 ]

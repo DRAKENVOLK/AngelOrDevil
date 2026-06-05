@@ -812,7 +812,7 @@
     "title": "Fantasmas en la Relación",
     "text": "Abre tu corazón (solo por un momento): Confiesa cuál es tu mayor inseguridad o miedo irracional cuando estás en una relación seria. ¿Qué es eso que te quita el sueño o te vuelve paranoico/a? El jugador a la derecha continúa la dinámica.",
     "penalty": "El que no quiera ponerse vulnerable frente al grupo bebe 1 shot lleno.",
-    "targetType": "any",
+    "targetType": "group",
     "limit": 1,
     "id": 509,
     "date": "2026-05-22 15:41",
@@ -909,5 +909,52 @@
     "ignoreAudit": false,
     "id": 517,
     "date": "2026-06-05 09:06"
+  },
+  {
+    "cat": "Confesiones Grupales",
+    "title": "Ritmo de Alcoba",
+    "text": "Si tuvieras que elegir canciónes para musicalizar un encuentro íntimo, ¿cuál sería?. El jugador a la derecha continúa la dinámica. El misterio se paga caro: el que se niegue a responder será penalizado.",
+    "penalty": "Beben 2 shots.",
+    "targetType": "group",
+    "limit": 1,
+    "ignoreAudit": false,
+    "id": 518,
+    "date": "2026-06-05 10:20"
+  },
+  {
+    "cat": "HARDCORE",
+    "title": "El Gran Dilema",
+    "text": "Vamos a hablar claro, ¿en qué bando te manejas? ¿Consideras que el tamaño sí importa, o eres de las que cree que la técnica y la química lo son todo, o de plano prefieres que sean pequeños? Confiésanos tu veredicto según tu historial.\n\nCastigo: Si te gana la timidez y decides no responder, te esperan 2 shots bien servidos para aflojar la lengua.",
+    "penalty": "Beben 2 shots.",
+    "targetType": "female_target",
+    "limit": 2,
+    "cooldown": "2",
+    "ignoreAudit": false,
+    "id": 519,
+    "date": "2026-06-05 10:38"
+  },
+  {
+    "cat": "HARDCORE",
+    "title": "El Estado de tu Corazón",
+    "text": "Seamos directos: En este preciso momento de tu vida, ¿buscas una relación seria con planes a futuro o prefieres algo casual sin etiquetas ni explicaciones? Justifica tu respuesta.",
+    "penalty": "Bebe 1 shot.",
+    "targetType": "any",
+    "limit": 3,
+    "cooldown": "2",
+    "ignoreAudit": false,
+    "id": 520,
+    "date": "2026-06-05 10:43"
+  },
+  {
+    "cat": "HARDCORE",
+    "title": "PREMIO DOBLE",
+    "text": "Confiesa si alguna vez besaste a dos personas distintas en un mismo día (o noche). ¿Fue en la misma fiesta, se conocían entre sí o fue pura coincidencia logística?",
+    "penalty": "Beben 2 shots.",
+    "targetType": "any",
+    "limit": 2,
+    "cooldown": "3",
+    "ignoreAudit": false,
+    "id": 521,
+    "date": "2026-06-05 10:50"
   }
 ]

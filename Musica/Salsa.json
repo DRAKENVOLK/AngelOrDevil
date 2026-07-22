@@ -960,21 +960,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/37/d7/0737d70c-2797-81d8-9671-a5ebfd291fb1/b45442c0-b868-46ef-a096-5782612d97f1.jpg/400x400bb.jpg"
   },
   {
-    "id": 665,
-    "date": "2026-07-21 23:33",
-    "cat": "Música",
-    "genre": "Música tropical",
-    "artist": "Willie Colón",
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "67. Willie Colón – Sin Poderte Hablar",
-    "answer": "Willie Colón - Sin Poderte Hablar",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a2/e2/34/a2e234b8-1041-8641-9ad8-a817a605900f/mzaf_10255569086923947220.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/89/39/d9/8939d946-f175-60f1-e621-91955a28a5bc/383164.jpg/400x400bb.jpg"
-  },
-  {
     "id": 666,
     "date": "2026-07-21 23:33",
     "cat": "Música",
@@ -1393,21 +1378,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f8/b6/73/f8b67314-4c8e-2975-5be6-157129cede56/mzaf_490208125163471597.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/3a/6d/f73a6d3d-6d95-8aa0-c9eb-280a97d88d13/mzi.ntrkgmyf.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 694,
-    "date": "2026-07-21 23:33",
-    "cat": "Música",
-    "genre": "Música tropical",
-    "artist": "Puerto Rican Power",
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "99. Puerto Rican Power – A Dónde Irás Sin Mí",
-    "answer": "Puerto Rican Power - A Donde Iras",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/82/87/9b/82879ba4-add2-9ff7-c5d5-c9bedde76b23/mzaf_15851444770822585915.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/4b/99/fe4b9937-16f0-4899-05af-848b7e24849c/s05.xjdjplhv.jpg/400x400bb.jpg"
   },
   {
     "id": 695,

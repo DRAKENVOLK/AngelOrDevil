@@ -5757,5 +5757,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/43/60/29/436029bc-613b-ac18-d6eb-2eca0544a0c9/mzaf_5531985919154234496.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/c6/7c/51c67ce2-72c1-8019-fd9b-1016487f2a93/199538312362.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1051,
+    "date": "2026-07-22 15:11",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Cómplices",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Cómplices Hoy Necesito",
+    "answer": "Cómplices - Hoy Necesito",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0a/65/8e/0a658e5b-6856-afe4-6567-d1e4ed2329d6/mzaf_16729280466846538029.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/fb/eb/f0/fbebf0cc-c6ec-f8f1-2248-b36e713b3dcd/dj.pdepgmeo.jpg/400x400bb.jpg"
   }
 ]

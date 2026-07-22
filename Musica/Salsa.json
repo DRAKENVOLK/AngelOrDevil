@@ -1423,5 +1423,50 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8f/49/14/8f491485-3313-8d2a-dbf6-b485bbf6b6f9/mzaf_16698315130281303942.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/0b/b0/8d/mzi.rrdypkab.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 696,
+    "date": "2026-07-22 08:57",
+    "cat": "Música",
+    "genre": "Música tropical",
+    "artist": "Frankie Ruiz",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Frankie Ruiz – Quiero Llenarte",
+    "answer": "Frankie Ruiz - Quiero Llenarte",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/14/a0/c914a07b-1782-3551-22f7-85ff029a14a4/mzaf_629590805330797767.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/d9/8b/9fd98bab-a83e-4c2c-6868-c70e929f2edd/10UMGIM21936.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 697,
+    "date": "2026-07-22 08:57",
+    "cat": "Música",
+    "genre": "Música tropical",
+    "artist": "Grupo Niche",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Ni Como Amiga Ni Como Amante",
+    "answer": "Grupo Niche - Ni Como Amiga Ni Como Amante",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/6f/3f/246f3f7e-6ee2-d943-5173-87199a510fb1/mzaf_12735869951330642712.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/56/fe/bb/mzi.yxmpenru.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 698,
+    "date": "2026-07-22 08:57",
+    "cat": "Música",
+    "genre": "Música tropical",
+    "artist": "Salsa Prime",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Conflicto de Amor",
+    "answer": "Salsa Prime & Guajiro El Menor - Conflicto de Amor",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4f/7c/82/4f7c8200-f64a-121d-a85b-582b1ecb832b/mzaf_6656731327677953884.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/cf/12/dfcf127c-1df9-721c-6aba-4c710742eebe/0.jpg/400x400bb.jpg"
   }
 ]

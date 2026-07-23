@@ -5787,5 +5787,35 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/21/d0/4e/21d04e7e-5e6a-0734-0772-5eb4fefb006d/mzaf_17445746616448849357.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/c3/23/55c32391-589b-a047-3e83-dd668f49e338/mzi.cqatvvja.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1053,
+    "date": "2026-07-22 09:03",
+    "cat": "Música",
+    "genre": "Latin",
+    "artist": "Vilma Palma e Vampiros",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "4. Vilma Palma e Vampiros – Bye Bye",
+    "answer": "Vilma Palma e Vampiros - Bye-Bye",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fb/db/81/fbdb8155-5061-9849-fb17-8ee3f6c7d7b3/mzaf_8690712961021428032.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/51/ed/7151edb7-7942-7558-4e50-22d3ac0c9e3a/803680269329.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1054,
+    "date": "2026-07-22 09:22",
+    "cat": "Música",
+    "genre": "Latin",
+    "artist": "Vilma Palma e Vampiros",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "207. Vilma Palma e Vampiros – Mojada",
+    "answer": "Vilma Palma e Vampiros - Mojada",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8a/b9/ab/8ab9abb5-9ad7-91d1-b80c-f42ecf1d8a07/mzaf_18161468113065358284.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/51/ed/7151edb7-7942-7558-4e50-22d3ac0c9e3a/803680269329.jpg/400x400bb.jpg"
   }
 ]

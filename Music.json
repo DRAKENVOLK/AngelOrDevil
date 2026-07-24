@@ -5907,5 +5907,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/0c/12/6a0c1276-28ef-9822-c772-69374bb04285/mzaf_2565689211533008540.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/17/39/7e/17397e8e-2a7b-0aab-1670-6f6f4508a5f0/mzi.zopczpaa.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1061,
+    "date": "2026-07-22 09:03",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Presuntos Implicados",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "62. Presuntos Implicados – Cómo Hemos Cambiado",
+    "answer": "Presuntos Implicados - Como Hemos Cambiado (Versión Cd)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/05/5b/a6055bb5-5397-0a94-9468-e598746ffea6/mzaf_17314027584914136635.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/e0/5c/20e05c7e-2903-cba6-cd41-7710fb18d40d/mzi.dardhpwi.jpg/400x400bb.jpg"
   }
 ]

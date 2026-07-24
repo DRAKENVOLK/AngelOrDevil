@@ -5862,5 +5862,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/95/0b/7c950b60-0056-6a70-41b3-fcdc82efa938/mzaf_5031910138439533623.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/12/2d/90122d0e-d04b-2fcd-5c71-dd69379983ee/5099969757853.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1058,
+    "date": "2026-07-22 09:03",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Selena",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "26. Selena – Amor Prohibido",
+    "answer": "Selena - Amor Prohibido",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e9/e0/88/e9e08860-e087-16bd-a507-42899ae205dd/mzaf_7786993142762889875.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/1a/40/a61a408a-c4e1-fb7c-849c-fe3281d234e1/15UMGIM04863.rgb.jpg/400x400bb.jpg"
   }
 ]

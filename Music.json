@@ -5940,17 +5940,17 @@
   },
   {
     "id": 1064,
-    "date": "2026-07-22 09:22",
+    "date": "2026-07-23 22:38",
     "cat": "Música",
-    "genre": "Pop Latino",
-    "artist": "Ricardo Arjona",
+    "genre": "Latin",
+    "artist": "Corazón Serrano",
     "title": "Adivina la Canción",
     "text": "",
-    "term": "239. Ricardo Arjona – Historia de Taxi",
-    "answer": "Ricardo Arjona - Historia de Taxi",
+    "term": "Corazón Serrano - Aprenderé",
+    "answer": "Corazón Serrano - Qué Hice Mal",
     "targetType": "self",
     "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/ca/08/d8ca08a6-e141-e7eb-28cd-70c36ecf4ad0/mzaf_3634501152678542175.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/23/3b/aa/mzi.kugocjka.jpg/400x400bb.jpg"
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/8f/47/cf8f477e-1cd9-dfd9-2b47-5ca29fd1b4ed/mzaf_9859611061689498901.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/f0/62/40f0625a-bdc1-c352-ccdf-23ca274ee1da/195497150205.jpg/400x400bb.jpg"
   }
 ]

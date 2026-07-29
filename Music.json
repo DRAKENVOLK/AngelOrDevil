@@ -5952,5 +5952,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/8f/47/cf8f477e-1cd9-dfd9-2b47-5ca29fd1b4ed/mzaf_9859611061689498901.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/f0/62/40f0625a-bdc1-c352-ccdf-23ca274ee1da/195497150205.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1065,
+    "date": "2026-07-22 09:22",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Vertigogo",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "258. Vértigogo – Ese Oscuro Objeto de Deseo",
+    "answer": "Vertigogo - Ese Oscuro Objeto del Deseo",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/84/23/29/842329ef-15fe-59b0-82e2-19ae739dd38c/mzaf_4682566208387769132.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/89/f3/57/89f35749-1b45-ae56-261c-a74c1c528e5e/195448952599.jpg/400x400bb.jpg"
   }
 ]

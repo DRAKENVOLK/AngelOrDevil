@@ -5942,15 +5942,15 @@
     "id": 1064,
     "date": "2026-07-22 09:22",
     "cat": "Música",
-    "genre": "Pop",
-    "artist": "Los Cucas",
+    "genre": "Pop Latino",
+    "artist": "Ricardo Arjona",
     "title": "Adivina la Canción",
     "text": "",
-    "term": "256. Los Cucas – La Última Carta",
-    "answer": "Los Cucas - La Última Carta",
+    "term": "239. Ricardo Arjona – Historia de Taxi",
+    "answer": "Ricardo Arjona - Historia de Taxi",
     "targetType": "self",
     "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/4e/62/974e62cd-647d-05ca-4018-894f814be22f/mzaf_4936304026260829332.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/f4/a5/4df4a55f-93ab-3bc1-0625-e2c7abdb362f/886447197288.jpg/400x400bb.jpg"
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/ca/08/d8ca08a6-e141-e7eb-28cd-70c36ecf4ad0/mzaf_3634501152678542175.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/23/3b/aa/mzi.kugocjka.jpg/400x400bb.jpg"
   }
 ]

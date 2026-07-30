@@ -6207,5 +6207,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/52/76/f2/5276f2c0-46a4-a049-f59b-da0b3e9bbf54/mzaf_13883379236706100713.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/1d/b1/931db139-6a12-1456-2976-46b2aa3bc9db/886443414884.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1082,
+    "date": "2026-07-29 23:34",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Pedro Suárez-Vértiz",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Pedro Suárez-Vértiz - Sé Que Todo Ha Acabado Ya",
+    "answer": "Pedro Suárez-Vértiz - Sé Que Todo Ha Acabado Ya",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/fa/1b/35fa1b27-9171-38eb-22db-056d959d2317/mzaf_4084272217534923985.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/1d/b1/931db139-6a12-1456-2976-46b2aa3bc9db/886443414884.jpg/400x400bb.jpg"
   }
 ]

@@ -5982,5 +5982,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1d/5f/3b/1d5f3b80-0b3e-66fe-28e9-874116f36629/mzaf_18220458224987143275.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/53/e6/6d53e622-a2c3-6e2d-6b79-40b0b5370f6c/8445162567251.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1067,
+    "date": "2026-07-29 23:18",
+    "cat": "Música",
+    "genre": "Pop/Rock",
+    "artist": "Libido",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Libido - Hembra",
+    "answer": "Libido - Hembra",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e9/cd/69/e9cd6995-b517-ecea-d3bc-8f7cc0647158/mzaf_3065484118154057660.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/53/e6/6d53e622-a2c3-6e2d-6b79-40b0b5370f6c/8445162567251.jpg/400x400bb.jpg"
   }
 ]

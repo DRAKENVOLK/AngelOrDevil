@@ -6192,5 +6192,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b9/c6/ed/b9c6edce-ac6c-4dac-a25f-dc23c614988e/mzaf_9779847219601978761.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/1d/b1/931db139-6a12-1456-2976-46b2aa3bc9db/886443414884.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1081,
+    "date": "2026-07-29 23:34",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Pedro Suárez-Vértiz",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Pedro Suárez-Vértiz - La Vida Me Sabe a Nada",
+    "answer": "Pedro Suárez-Vértiz - La Vida Me Sabe a Nada",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/52/76/f2/5276f2c0-46a4-a049-f59b-da0b3e9bbf54/mzaf_13883379236706100713.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/1d/b1/931db139-6a12-1456-2976-46b2aa3bc9db/886443414884.jpg/400x400bb.jpg"
   }
 ]

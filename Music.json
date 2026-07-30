@@ -6717,5 +6717,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/40/af/1a/40af1a94-865f-0377-0368-e74368ac485d/mzaf_14793683846347667647.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/e0/69/65/mzi.wefyxwke.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1116,
+    "date": "2026-07-29 23:58",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Alejandro Sanz",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Alejandro Sanz - Si Hay Dios...",
+    "answer": "Alejandro Sanz - Si Hay Dios...",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fc/86/d3/fc86d3d8-f647-a998-967c-44ccf7eceb71/mzaf_9490774252092124029.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/e0/69/65/mzi.wefyxwke.jpg/400x400bb.jpg"
   }
 ]

@@ -6552,5 +6552,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/69/78/7f/69787f55-a135-bb50-8312-671551265b75/mzaf_16693805058118384178.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/8e/9a/478e9ae3-81bd-b841-8891-27a09c7a84bf/8445162340304.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1105,
+    "date": "2026-07-29 23:55",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Alejandro Sanz",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Alejandro Sanz - Pisando Fuerte",
+    "answer": "Alejandro Sanz - Pisando Fuerte",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bb/a9/6d/bba96d34-bdf2-4bcb-42ec-2efbdee2871e/mzaf_15358764074164542855.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/3e/54/a5/mzi.gkxmaswb.jpg/400x400bb.jpg"
   }
 ]

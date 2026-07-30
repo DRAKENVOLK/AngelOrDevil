@@ -5937,5 +5937,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/11/09/6f110955-7a09-fa85-a3b6-d043597cfafd/mzaf_5145225574729250188.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/60/bf/da60bf9e-e1cb-9b7f-0749-cf986fe63792/859790181570_cover.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1064,
+    "date": "2026-07-29 23:17",
+    "cat": "Música",
+    "genre": "Pop/Rock",
+    "artist": "Libido",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Libido - En Esta Habitación",
+    "answer": "Libido - En Esta Habitación",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/26/27/a7/2627a702-2099-4111-3445-c5833c294ec8/mzaf_13120237826128695163.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/53/e6/6d53e622-a2c3-6e2d-6b79-40b0b5370f6c/8445162567251.jpg/400x400bb.jpg"
   }
 ]

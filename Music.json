@@ -6132,5 +6132,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/07/30/f3/0730f352-e080-4920-6fe8-8fd83d7b6224/mzaf_5458091553985519655.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/1d/b1/931db139-6a12-1456-2976-46b2aa3bc9db/886443414884.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1077,
+    "date": "2026-07-29 23:33",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Pedro Suárez-Vértiz",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Pedro Suárez-Vértiz - Los Globos del Cielo",
+    "answer": "Pedro Suárez-Vértiz - Los Globos del Cielo",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/74/a1/3b/74a13b65-de07-3df1-c65f-ef8a1e2bf481/mzaf_17571444230295729643.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/1d/b1/931db139-6a12-1456-2976-46b2aa3bc9db/886443414884.jpg/400x400bb.jpg"
   }
 ]

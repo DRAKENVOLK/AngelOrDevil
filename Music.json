@@ -6522,5 +6522,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/80/e8/41/80e8415f-5a5d-b51e-4624-cfd8a96f53d0/mzaf_1111934961005994558.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/47/87/85478710-35a0-a2cc-6731-de9aafbb10e8/8445162339247.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1103,
+    "date": "2026-07-29 23:49",
+    "cat": "Música",
+    "genre": "Pop/Rock",
+    "artist": "Christian Meier",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Christian Meier - Alguien",
+    "answer": "Christian Meier - Alguien",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/79/08/f379084d-55a6-d4fb-84ad-f6b0493efce9/mzaf_5668896549051438776.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/8e/9a/478e9ae3-81bd-b841-8891-27a09c7a84bf/8445162340304.jpg/400x400bb.jpg"
   }
 ]

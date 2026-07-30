@@ -6387,5 +6387,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/44/dc/00/44dc00c7-76ba-ec7c-832c-b88e9da17318/mzaf_3101968514845716406.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/68/40/9a684048-4607-9677-eec5-9c947da1b876/8445162565547.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1094,
+    "date": "2026-07-29 23:40",
+    "cat": "Música",
+    "genre": "Pop/Rock",
+    "artist": "Libido",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Libido - Frágil",
+    "answer": "Libido - Frágil",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cb/2f/51/cb2f51c6-428e-3a31-5823-ec6e7a88fc63/mzaf_16278954130632843834.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/23/51/3323514c-a65d-dcba-0256-a3ee127e6f57/8445162580373.jpg/400x400bb.jpg"
   }
 ]

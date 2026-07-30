@@ -6612,5 +6612,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/19/7b/ec/197bec62-0a6a-1afd-efe3-b5451d625833/mzaf_13774186874290899208.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ba/76/94/ba76947a-3d5a-37ab-1147-5f109d795060/085364456663.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1109,
+    "date": "2026-07-29 23:57",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Alejandro Sanz",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Alejandro Sanz - Una noche con The Corrs",
+    "answer": "Alejandro Sanz - Una noche con The Corrs",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b9/d8/0d/b9d80dbf-546b-877c-a5f3-654c632acdec/mzaf_17956584035804136413.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ba/76/94/ba76947a-3d5a-37ab-1147-5f109d795060/085364456663.jpg/400x400bb.jpg"
   }
 ]

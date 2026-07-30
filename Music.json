@@ -6342,5 +6342,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/26/1c/33261c85-aeb0-8fe3-d419-0fcd28d7210c/mzaf_829534097002880523.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d2/1d/22/d21d227a-9625-5004-82a0-925dafa263c7/7750040000012.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1091,
+    "date": "2026-07-29 23:38",
+    "cat": "Música",
+    "genre": "Pop/Rock",
+    "artist": "Libido",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Libido - Como un Perro",
+    "answer": "Libido - Como un Perro",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/29/db/4d/29db4d9b-7aa5-6353-9116-9683cfff987d/mzaf_13507798370447803835.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/68/40/9a684048-4607-9677-eec5-9c947da1b876/8445162565547.jpg/400x400bb.jpg"
   }
 ]

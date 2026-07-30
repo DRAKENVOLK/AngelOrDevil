@@ -6657,5 +6657,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/2f/3f/bb2f3f90-798d-d140-5e69-a765925fd285/mzaf_11451335583745908999.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/03/6a/fa036a52-07f4-9909-fef0-ab4f092c99c0/825646997503.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1112,
+    "date": "2026-07-29 23:57",
+    "cat": "Música",
+    "genre": "Latin",
+    "artist": "Alejandro Sanz",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Alejandro Sanz - Eres Mía",
+    "answer": "Alejandro Sanz - Eres Mía",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/fb/99/42fb99f7-6971-9db2-cc99-b21104528b6d/mzaf_442602427074487298.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/03/6a/fa036a52-07f4-9909-fef0-ab4f092c99c0/825646997503.jpg/400x400bb.jpg"
   }
 ]

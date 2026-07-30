@@ -6102,5 +6102,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/44/23/2d/44232df4-f9fb-707a-4a86-0e23f3476908/mzaf_12670116415928547686.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2c/9e/cd/2c9ecd51-acb3-f694-c99a-3ac7569685be/886443443884.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1075,
+    "date": "2026-07-29 23:33",
+    "cat": "Música",
+    "genre": "Pop/Rock",
+    "artist": "Christian Meier",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Christian Meier - Esa Sí Es una Mujer (feat. Pedro Suárez-Vértiz)",
+    "answer": "Christian Meier - Esa Sí Es una Mujer (feat. Pedro Suárez-Vértiz)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/67/4e/82674ed8-b606-ad43-17df-5696a11ce5b8/mzaf_11367913000180221836.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/51/7f/22/517f2226-0e56-24ed-4754-d64b66bf1f10/8445162340267.jpg/400x400bb.jpg"
   }
 ]

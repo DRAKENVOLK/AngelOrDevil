@@ -6567,5 +6567,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bb/a9/6d/bba96d34-bdf2-4bcb-42ec-2efbdee2871e/mzaf_15358764074164542855.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/3e/54/a5/mzi.gkxmaswb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1106,
+    "date": "2026-07-29 23:56",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Alejandro Sanz",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Alejandro Sanz - Quisiera ser",
+    "answer": "Alejandro Sanz - Quisiera ser",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ee/d8/3a/eed83abb-4e8a-1e77-a8cf-a64cb90daf36/mzaf_4528630670376923595.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ba/76/94/ba76947a-3d5a-37ab-1147-5f109d795060/085364456663.jpg/400x400bb.jpg"
   }
 ]

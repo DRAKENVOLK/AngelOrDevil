@@ -6477,5 +6477,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e9/7b/dc/e97bdc8a-67f3-4023-5237-f9930fe6e739/mzaf_9842184334914082195.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/d1/34/20d1341d-7e15-5831-710b-1e7ab14162a6/dj.udrklfer.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1100,
+    "date": "2026-07-29 23:48",
+    "cat": "Música",
+    "genre": "Pop/Rock",
+    "artist": "Christian Meier",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Christian Meier - Carreteras Mojadas",
+    "answer": "Christian Meier - Carreteras Mojadas",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/db/04/30db04e5-9783-f8c7-e92b-a4dc84392cf5/mzaf_14393031007520037575.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/51/7f/22/517f2226-0e56-24ed-4754-d64b66bf1f10/8445162340267.jpg/400x400bb.jpg"
   }
 ]

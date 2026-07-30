@@ -6732,5 +6732,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fc/86/d3/fc86d3d8-f647-a998-967c-44ccf7eceb71/mzaf_9490774252092124029.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/e0/69/65/mzi.wefyxwke.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1117,
+    "date": "2026-07-29 23:59",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Alejandro Sanz",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Alejandro Sanz - Aquello Que Me Diste",
+    "answer": "Alejandro Sanz - Aquello Que Me Diste",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/03/35/ea/0335ea65-0c35-3981-a4d1-d8d4b4c01b01/mzaf_13143325864943136347.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/e0/69/65/mzi.wefyxwke.jpg/400x400bb.jpg"
   }
 ]

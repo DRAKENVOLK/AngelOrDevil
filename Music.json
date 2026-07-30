@@ -6027,5 +6027,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/da/71/0d/da710d95-fd2e-ed8a-018e-b26628d7563e/mzaf_4339817117671579960.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/53/e6/6d53e622-a2c3-6e2d-6b79-40b0b5370f6c/8445162567251.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1070,
+    "date": "2026-07-29 23:20",
+    "cat": "Música",
+    "genre": "Rock y Alternativo",
+    "artist": "Mar de Copas",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Mar de Copas - Un Día Sin Sexo",
+    "answer": "Mar de Copas - Un Día Sin Sexo",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/75/5e/ae/755eaec4-a557-8fee-e8ac-4acee2ce426e/mzaf_2823382909757189958.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/af/65/c9/af65c99c-96b2-56c6-c401-b63f15950e0e/888174131412_cover.jpg/400x400bb.jpg"
   }
 ]

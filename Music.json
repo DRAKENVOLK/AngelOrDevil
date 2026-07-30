@@ -6402,5 +6402,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cb/2f/51/cb2f51c6-428e-3a31-5823-ec6e7a88fc63/mzaf_16278954130632843834.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/23/51/3323514c-a65d-dcba-0256-a3ee127e6f57/8445162580373.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1095,
+    "date": "2026-07-29 23:40",
+    "cat": "Música",
+    "genre": "Pop/Rock",
+    "artist": "Libido",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Libido - No Será Lo Mismo Sin Ti",
+    "answer": "Libido - No Será Lo Mismo Sin Ti",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/d1/0d/14d10d67-be13-4131-71ad-737b3f6a6daf/mzaf_6236823093022859687.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/23/51/3323514c-a65d-dcba-0256-a3ee127e6f57/8445162580373.jpg/400x400bb.jpg"
   }
 ]

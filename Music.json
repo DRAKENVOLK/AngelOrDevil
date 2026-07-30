@@ -6282,5 +6282,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/e4/cf/03e4cfe9-0f4f-8be3-1b1a-a0872fbbafdb/mzaf_10514359273701595391.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/90/8e/50/908e50b8-e821-f08a-9dde-6adebe399f08/8445162491655.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1087,
+    "date": "2026-07-29 23:35",
+    "cat": "Música",
+    "genre": "Pop/Rock",
+    "artist": "Pedro Suárez-Vértiz",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Pedro Suárez-Vértiz - Talkshow",
+    "answer": "Pedro Suárez-Vértiz - Talkshow",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/4e/5c/c94e5c43-8c19-51da-6c44-4d8c932b5bb6/mzaf_1991009017368769400.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/90/8e/50/908e50b8-e821-f08a-9dde-6adebe399f08/8445162491655.jpg/400x400bb.jpg"
   }
 ]

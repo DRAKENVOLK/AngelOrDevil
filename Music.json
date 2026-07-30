@@ -6117,5 +6117,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/67/4e/82674ed8-b606-ad43-17df-5696a11ce5b8/mzaf_11367913000180221836.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/51/7f/22/517f2226-0e56-24ed-4754-d64b66bf1f10/8445162340267.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1076,
+    "date": "2026-07-29 23:33",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Pedro Suárez-Vértiz",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Pedro Suárez-Vértiz - Mi Auto Era Una Rana",
+    "answer": "Pedro Suárez-Vértiz - Mi Auto Era Una Rana",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/07/30/f3/0730f352-e080-4920-6fe8-8fd83d7b6224/mzaf_5458091553985519655.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/1d/b1/931db139-6a12-1456-2976-46b2aa3bc9db/886443414884.jpg/400x400bb.jpg"
   }
 ]

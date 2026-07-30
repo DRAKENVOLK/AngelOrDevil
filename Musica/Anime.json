@@ -1453,5 +1453,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/65/e5/52/65e552ea-109b-ec80-d4b7-5e0b1533292d/mzaf_7980035523908502787.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/bb/16/a2bb16e5-7521-df4f-9563-b0fdcaefd5cf/4547366645477.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 698,
+    "date": "2026-07-29 23:30",
+    "cat": "Música",
+    "genre": "Anime",
+    "artist": "Miura Jam",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Miura Jam - Blue Bird (From \"Naruto Shippuden\")",
+    "answer": "Miura Jam - Blue Bird (From \"Naruto Shippuden\")",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7c/d4/a1/7cd4a1f6-e6ff-fee9-86ca-c5234ba38e80/mzaf_14916246545994688338.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f5/e3/61/f5e36109-bafb-ca26-3f84-1d4a82503dbe/194152813387.png/400x400bb.jpg"
   }
 ]

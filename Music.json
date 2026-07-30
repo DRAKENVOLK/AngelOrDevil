@@ -6582,5 +6582,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ee/d8/3a/eed83abb-4e8a-1e77-a8cf-a64cb90daf36/mzaf_4528630670376923595.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ba/76/94/ba76947a-3d5a-37ab-1147-5f109d795060/085364456663.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1107,
+    "date": "2026-07-29 23:56",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Alejandro Sanz",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Alejandro Sanz - Para que me quieras",
+    "answer": "Alejandro Sanz - Para que me quieras",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/41/fa/2e/41fa2efb-a026-2c79-f6c1-ebdd892debf1/mzaf_15029474623640614018.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ba/76/94/ba76947a-3d5a-37ab-1147-5f109d795060/085364456663.jpg/400x400bb.jpg"
   }
 ]

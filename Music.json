@@ -6012,5 +6012,20 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/04/f7/22/04f72230-a9bf-d3a7-7652-fe074a067528/mzaf_3601694477965077936.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/53/e6/6d53e622-a2c3-6e2d-6b79-40b0b5370f6c/8445162567251.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1069,
+    "date": "2026-07-29 23:19",
+    "cat": "Música",
+    "genre": "Pop/Rock",
+    "artist": "Libido",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Libido - No Voy a Verte Más",
+    "answer": "Libido - No Voy a Verte Más",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/da/71/0d/da710d95-fd2e-ed8a-018e-b26628d7563e/mzaf_4339817117671579960.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/53/e6/6d53e622-a2c3-6e2d-6b79-40b0b5370f6c/8445162567251.jpg/400x400bb.jpg"
   }
 ]

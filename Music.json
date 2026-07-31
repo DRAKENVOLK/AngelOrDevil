@@ -6852,5 +6852,125 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/31/8a/cf318ac3-0427-ed41-5ac0-b72a70477fc0/mzaf_13504088285500164194.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/1b/3f/a81b3f3d-b38a-9728-4380-4a0447a7812b/00606949063924.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1128,
+    "date": "2026-07-31 15:43",
+    "cat": "Música",
+    "genre": "Urbano latino",
+    "artist": "Aventura",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Aventura - All Up 2 You (feat. Akon, Wisin & Yandel)",
+    "answer": "Aventura - All Up 2 You (feat. Akon, Wisin & Yandel)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d6/3f/5f/d63f5f62-2e89-17e9-d90c-56212080ee93/mzaf_17049609761593570065.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/f2/fb/26/mzi.iympbhpi.jpg/400x400bb.jpg"
+  },
+  {
+    "id": "drk_sys_config",
+    "databases": [
+      {
+        "id": "general",
+        "name": "General",
+        "color": "#1DB954",
+        "path": "Music.json"
+      },
+      {
+        "id": "anime",
+        "name": "Anime",
+        "path": "Musica/Anime.json",
+        "color": "#14b8a6"
+      },
+      {
+        "id": "baladas",
+        "name": "Baladas",
+        "path": "Musica/Baladas.json",
+        "color": "#10b981"
+      },
+      {
+        "id": "cumbia",
+        "name": "Cumbia",
+        "path": "Musica/Cumbia.json",
+        "color": "#ef4444"
+      },
+      {
+        "id": "electronica",
+        "name": "Electronica",
+        "path": "Musica/Electronica.json",
+        "color": "#eab308"
+      },
+      {
+        "id": "folclore-latinoamerico",
+        "name": "Folclore latinoamerico",
+        "path": "Musica/Folclore latinoamerico.json",
+        "color": "#84cc16"
+      },
+      {
+        "id": "hip-hop",
+        "name": "Hip Hop",
+        "path": "Musica/Hip Hop.json",
+        "color": "#1DB954"
+      },
+      {
+        "id": "k-pop",
+        "name": "K-pop",
+        "path": "Musica/K-pop.json",
+        "color": "#ec4899"
+      },
+      {
+        "id": "metal",
+        "name": "Metal",
+        "path": "Musica/Metal.json",
+        "color": "#f97316"
+      },
+      {
+        "id": "pop",
+        "name": "Pop",
+        "path": "Musica/Pop.json",
+        "color": "#f97316"
+      },
+      {
+        "id": "reggae",
+        "name": "Reggae",
+        "path": "Musica/Reggae.json",
+        "color": "#eab308"
+      },
+      {
+        "id": "reggaeton",
+        "name": "Reggaeton",
+        "path": "Musica/Reggaeton.json",
+        "color": "#3b82f6"
+      },
+      {
+        "id": "rock-alternativo",
+        "name": "Rock alternativo",
+        "path": "Musica/Rock alternativo.json",
+        "color": "#ef4444"
+      },
+      {
+        "id": "rock-en-español",
+        "name": "Rock en español",
+        "path": "Musica/Rock en español.json",
+        "color": "#ef4444"
+      },
+      {
+        "id": "rock",
+        "name": "Rock",
+        "path": "Musica/Rock.json",
+        "color": "#06b6d4"
+      },
+      {
+        "id": "salsa",
+        "name": "Salsa",
+        "path": "Musica/Salsa.json",
+        "color": "#10b981"
+      }
+    ],
+    "ignoredRepoFiles": [
+      "Movies.json",
+      "previa.json"
+    ]
   }
 ]

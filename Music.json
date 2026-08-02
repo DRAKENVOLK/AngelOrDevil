@@ -14236,6 +14236,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/be/7c/a5be7cb9-b8f8-6b33-70cb-8b41bf1c11f7/11UMGIM04475.rgb.jpg/400x400bb.jpg"
   },
   {
+    "id": 1628,
+    "date": "2026-08-02 16:09",
+    "cat": "Música",
+    "genre": "Rock",
+    "artist": "TK",
+    "artistId": 1464509985,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "TK - Inminente conjunción",
+    "answer": "TK - Inminente conjunción",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/ea/fa/c5eafa25-ee65-1f61-4522-a49e98a80df9/mzaf_5807327881075170469.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/78/f4/ba78f45c-35fa-b0fe-facb-9b4b65b06163/8429006438587.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1629,
+    "date": "2026-08-02 16:13",
+    "cat": "Música",
+    "genre": "Alternative",
+    "artist": "Cafuné",
+    "artistId": 947078210,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Cafuné - Tek It",
+    "answer": "Cafuné - Tek It",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/43/cf/b943cf96-658d-0f6c-e0d0-eb09f0de173b/mzaf_11666614230365494191.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/eb/8b/0ceb8b4e-3e35-ae87-bc73-d854d5ee8f7f/075679747006.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1630,
+    "date": "2026-08-02 16:13",
+    "cat": "Música",
+    "genre": "Rock",
+    "artist": "TK",
+    "artistId": 1464509985,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "TK - Buscando la victoria",
+    "answer": "TK - Buscando la victoria",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/50/cf/28/50cf286b-e296-15b8-cdca-2328ab876125/mzaf_527204619815961446.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/78/f4/ba78f45c-35fa-b0fe-facb-9b4b65b06163/8429006438587.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

@@ -9689,6 +9689,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8f/b1/5d/8fb15d20-491c-5232-e939-ca4ddbd07a9d/06UMGIM13859.rgb.jpg/400x400bb.jpg"
   },
   {
+    "id": 1318,
+    "date": "2026-08-02 01:41",
+    "cat": "Música",
+    "genre": "Rock",
+    "artist": "Daniel Powter",
+    "artistId": 25451036,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Daniel Powter - Bad Day",
+    "answer": "Daniel Powter - Bad Day",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/ae/91/e4ae912a-0685-a7c6-b10c-b7290a7fb16f/mzaf_16493963156495176302.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/90/db/17/mzi.tiuteyft.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

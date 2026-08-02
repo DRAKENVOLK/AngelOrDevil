@@ -13164,6 +13164,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b1/54/59/b1545929-5654-4360-78db-c49680b968ec/886446461090.jpg/400x400bb.jpg"
   },
   {
+    "id": 1560,
+    "date": "2026-08-02 13:44",
+    "cat": "Música",
+    "genre": "Alternative",
+    "artist": "Coldplay",
+    "artistId": 471744,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Coldplay - Talk",
+    "answer": "Coldplay - Talk",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/8b/d7/27/8bd72710-7d91-1551-4d77-1884218b1481/mzaf_13459077808865707576.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/d7/10/f5d7100e-33ce-69ef-6691-cc6e251d357c/5059460194373.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

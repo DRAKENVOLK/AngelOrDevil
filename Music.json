@@ -14204,6 +14204,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/bd/11/a7bd119c-5f0b-e357-8c44-2d133c854ed1/23UMGIM17426.rgb.jpg/400x400bb.jpg"
   },
   {
+    "id": 1626,
+    "date": "2026-08-02 16:08",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Jessie J",
+    "artistId": 405360400,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Jessie J - Price Tag (feat. B.o.B)",
+    "answer": "Jessie J - Price Tag (feat. B.o.B)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/7b/27/6c7b27e1-c312-f515-a246-8ad3ca5f6bc4/mzaf_12634190935719236316.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/be/7c/a5be7cb9-b8f8-6b33-70cb-8b41bf1c11f7/11UMGIM04475.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1627,
+    "date": "2026-08-02 16:08",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Jessie J",
+    "artistId": 405360400,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Jessie J - Domino",
+    "answer": "Jessie J - Domino",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bf/5f/7e/bf5f7ec7-c63c-7fa9-7c1f-9f75faf1b0c4/mzaf_436529567470945926.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/be/7c/a5be7cb9-b8f8-6b33-70cb-8b41bf1c11f7/11UMGIM04475.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

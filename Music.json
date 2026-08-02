@@ -8234,6 +8234,21 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/ce/d2/69ced240-07a7-2a04-bbab-2afbacf30809/074643772822.jpg/400x400bb.jpg"
   },
   {
+    "id": 1225,
+    "date": "2026-08-02 00:54",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Bee Gees",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Bee Gees - How Deep Is Your Love",
+    "answer": "Bee Gees - How Deep Is Your Love",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/5d/59/d05d5906-7617-091b-d70a-f5bb41fb8d37/mzaf_11692338234509561722.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b4/00/8f/b4008f7c-72b9-d856-60fa-2ac5cfce2d18/16UMGIM86640.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

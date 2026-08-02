@@ -8249,6 +8249,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b4/00/8f/b4008f7c-72b9-d856-60fa-2ac5cfce2d18/16UMGIM86640.rgb.jpg/400x400bb.jpg"
   },
   {
+    "id": 1226,
+    "date": "2026-08-02 01:02",
+    "cat": "Música",
+    "genre": "Rock y Alternativo",
+    "artist": "Genitallica",
+    "artistId": 20365220,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Genitallica - Quiero Paz",
+    "answer": "Genitallica - Quiero Paz",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/e2/b7/46e2b78d-d218-9bd1-c0f1-f5eadd2a6f1d/mzaf_17371202142991001806.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features/96/5b/c4/dj.imixtnfp.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1227,
+    "date": "2026-08-02 01:02",
+    "cat": "Música",
+    "genre": "Rock y Alternativo",
+    "artist": "Genitallica",
+    "artistId": 20365220,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Genitallica - Imagina",
+    "answer": "Genitallica - Imagina",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6e/0a/86/6e0a8658-9b86-d8dc-2bf8-840b66326280/mzaf_16032633302786780453.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features/96/5b/c4/dj.imixtnfp.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

@@ -10153,6 +10153,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/da/7e/98da7eea-2737-0e41-0a9c-37c937fbdc92/5059460348707.jpg/400x400bb.jpg"
   },
   {
+    "id": 1348,
+    "date": "2026-08-02 01:52",
+    "cat": "Música",
+    "genre": "Rock",
+    "artist": "Lifehouse",
+    "artistId": 3447393,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Lifehouse - You and Me",
+    "answer": "Lifehouse - You and Me",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ad/45/e3/ad45e3e8-3de6-d2f0-023a-616cd22a5893/mzaf_6543533100333186892.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ee/e3/4c/eee34c4e-93ec-af8e-5d58-b435a519a6aa/00602557705249.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1349,
+    "date": "2026-08-02 01:53",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Dido",
+    "artistId": 20646,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Dido - White Flag",
+    "answer": "Dido - White Flag",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2b/89/00/2b8900c9-33e2-a9ac-9a5c-85d8467c00ad/mzaf_7525797635705351483.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/0e/e2/97/mzi.ldrppyft.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1350,
+    "date": "2026-08-02 01:53",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Dido",
+    "artistId": 20646,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Dido - Hunter",
+    "answer": "Dido - Hunter",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/0d/47/a20d4719-c076-caf5-6656-d1f1f1fa5caf/mzaf_17909454954742197498.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/45/9a/24/459a24aa-0c31-0129-fa8d-44b03a04df62/dj.zcfxujdv.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

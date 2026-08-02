@@ -11804,6 +11804,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/b5/e1/f6b5e110-5ae3-1db4-ae81-e8d59d0e1c92/884977898842.jpg/400x400bb.jpg"
   },
   {
+    "id": 1470,
+    "date": "2026-08-02 12:27",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Zucchero",
+    "artistId": 140629,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Zucchero - Baila Morena (feat. Maná)",
+    "answer": "Zucchero - Baila Morena (feat. Maná)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/53/ee/e053eeb6-c481-c89d-8502-509c3b81cdc9/mzaf_6952897151923689498.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/a2/8c/8aa28ca8-6d16-05a2-5c8e-10279c0b1273/23UMGIM63911.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1471,
+    "date": "2026-08-02 12:29",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Cadillac",
+    "artistId": 62763284,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Cadillac - Perdí Mi Oportunidad",
+    "answer": "Cadillac - Perdí Mi Oportunidad",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/ca/0f/c3/ca0fc3f3-08f7-1bce-10c4-745d4309223d/mzaf_4123946353874736756.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4a/58/17/4a58175e-5aab-f81c-74da-b71a063fbd7d/20UMGIM17062.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1472,
+    "date": "2026-08-02 12:31",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Voz Veis",
+    "artistId": 74304753,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Voz Veis - Aunque sea poco (Versión Acústica)",
+    "answer": "Voz Veis - Aunque sea poco (Versión Acústica)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/dd/a4/8adda446-a53d-7e91-9b60-9f69520a4e02/mzaf_7567611247052135537.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/f5/43/e5f543cb-e0aa-5482-32bc-b473b3bcd88a/742521371008_cover.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

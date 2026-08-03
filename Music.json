@@ -21004,6 +21004,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/e0/68/7ce06880-4c66-33b8-5b80-42b972ae042c/artwork.jpg/400x400bb.jpg"
   },
   {
+    "id": 2071,
+    "date": "2026-08-03 10:23",
+    "cat": "Música",
+    "genre": "Rock y Alternativo",
+    "artist": "Los Rancheros",
+    "artistId": 79931003,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Los Rancheros - El Che y los Rolling Stones",
+    "answer": "Los Rancheros - El Che y los Rolling Stones",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/e4/52/05e45258-1f98-82d7-386d-9e4298f36eee/mzaf_2879727755982627362.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/83/df/0f83dfa1-912a-5b31-c111-b01513de2138/196872850635.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2072,
+    "date": "2026-08-03 10:24",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Los Rancheros",
+    "artistId": 79931003,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Los Rancheros - Mala Vida",
+    "answer": "Los Rancheros - Mala Vida",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/7e/b8/287eb826-6b23-f7e3-14c6-66bd68b2f020/mzaf_4009509068365758939.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f2/38/fe/f238fe3a-3013-5e9c-2344-a00cdce26764/191773726454.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

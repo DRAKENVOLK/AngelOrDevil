@@ -19612,6 +19612,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d7/cb/eb/d7cbebd7-5fd8-1ae1-dccb-f953b8ba78b0/00602547083432.rgb.jpg/400x400bb.jpg"
   },
   {
+    "id": 1977,
+    "date": "2026-08-02 23:52",
+    "cat": "Música",
+    "genre": "Dance",
+    "artist": "Cheat Codes",
+    "artistId": 957521979,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Cheat Codes & Dante Klein - Let Me Hold You (Turn Me On)",
+    "answer": "Cheat Codes & Dante Klein - Let Me Hold You (Turn Me On)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/b3/a1/08b3a158-5c09-1a3b-e71b-3989856f482d/mzaf_1684967142760586137.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f6/68/81/f66881a1-2b54-099f-3fad-aa9906409778/8712944511734.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1978,
+    "date": "2026-08-02 23:53",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Quintino",
+    "artistId": 270540669,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Quintino & Cheat Codes - Can't Fight It",
+    "answer": "Quintino & Cheat Codes - Can't Fight It",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6e/15/9f/6e159fde-1b44-d52b-e307-cb1910101f27/mzaf_11131053641653169436.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/d1/90/27d1902f-214f-06a9-eb2a-304699d180bc/8712944518726.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

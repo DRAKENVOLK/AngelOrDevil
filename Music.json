@@ -12988,22 +12988,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/b4/2a/b9b42ad1-1e25-5096-da43-497a247e69a3/190295978051.jpg/400x400bb.jpg"
   },
   {
-    "id": 1549,
-    "date": "2026-08-02 13:06",
-    "cat": "Música",
-    "genre": "Alternative",
-    "artist": "Coldplay",
-    "artistId": 471744,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Coldplay - Talk",
-    "answer": "Coldplay - Talk",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5a/88/d6/5a88d688-22ad-2748-e975-d7de1e150702/mzaf_16172042005101510311.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/82/48/0c8248a8-4a5b-d30d-8056-f32d650d2fc9/190295978068.jpg/400x400bb.jpg"
-  },
-  {
     "id": 1550,
     "date": "2026-08-02 13:06",
     "cat": "Música",
@@ -19466,6 +19450,22 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/fd/08/79fd084c-bbec-f02c-c7a7-98a7c4b70c51/mzaf_11310003524059832509.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ba/e2/2a/bae22a5e-c878-da64-0ecc-4a3584a1a139/190295411411.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1967,
+    "date": "2026-08-02 23:38",
+    "cat": "Música",
+    "genre": "Alternative",
+    "artist": "Coldplay",
+    "artistId": 471744,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Coldplay - Talk",
+    "answer": "Coldplay - Talk",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5a/88/d6/5a88d688-22ad-2748-e975-d7de1e150702/mzaf_16172042005101510311.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/82/48/0c8248a8-4a5b-d30d-8056-f32d650d2fc9/190295978068.jpg/400x400bb.jpg"
   },
   {
     "id": "drk_sys_config",

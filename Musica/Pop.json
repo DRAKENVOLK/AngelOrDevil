@@ -1,1 +1,34 @@
-
+[
+  {
+    "id": 601,
+    "date": "2026-08-03 17:26",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Supernova",
+    "artistId": 1370627996,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Supernova - Herida",
+    "answer": "Supernova - Herida",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/cd/07/9ccd07ab-7b5c-65c6-9217-026b5a037f2a/mzaf_2214531511914811363.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/22/39/ce22391a-2ad6-6068-c63d-a634e1df34dd/193428197213.png/400x400bb.jpg"
+  },
+  {
+    "id": 602,
+    "date": "2026-08-03 17:27",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Supernova",
+    "artistId": 1370627996,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Supernova - Se Te Olvida",
+    "answer": "Supernova - Se Te Olvida",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/8b/87/fc8b87b6-dd3a-a542-2d29-1ba66f7e422e/mzaf_8015134013704138385.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/22/39/ce22391a-2ad6-6068-c63d-a634e1df34dd/193428197213.png/400x400bb.jpg"
+  }
+]

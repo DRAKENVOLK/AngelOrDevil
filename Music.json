@@ -18300,6 +18300,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/25/82/82/25828228-7afd-026d-0778-340e1de3aec1/075679933652.jpg/400x400bb.jpg"
   },
   {
+    "id": 1887,
+    "date": "2026-08-02 19:16",
+    "cat": "Música",
+    "genre": "Dance",
+    "artist": "David Guetta",
+    "artistId": 5557599,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "David Guetta ft. Usher - Without You",
+    "answer": "David Guetta - Without You (feat. Usher)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/8a/cd/7e8acdeb-2f15-849b-8fe9-b9890d332929/mzaf_13894951771782459156.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/99/b4/7b/99b47bd8-2b22-e1ef-2e60-c5147f27a861/dj.thrvmjqj.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 1888,
+    "date": "2026-08-02 19:16",
+    "cat": "Música",
+    "genre": "Dance",
+    "artist": "Rudimental",
+    "artistId": 474022504,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Rudimental ft. John Newman - Feel the Love",
+    "answer": "Rudimental - Feel the Love (feat. John Newman)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/6d/13/ba6d13c6-bbbe-ba6b-fd2c-b2a1b55b8954/mzaf_9338638414759263848.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/93/29/bc/9329bcc9-7a48-393d-479c-8a5e44dc1d91/825646544738.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

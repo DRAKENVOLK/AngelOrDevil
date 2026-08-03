@@ -19980,6 +19980,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/b7/ca/c6b7caa7-b0a6-f9f6-4349-ab96c1e8bbdf/037629560929.jpg/400x400bb.jpg"
   },
   {
+    "id": 2001,
+    "date": "2026-08-03 00:13",
+    "cat": "Música",
+    "genre": "Rock y Alternativo",
+    "artist": "Héroes del Silencio",
+    "artistId": 3097061,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Héroes del Silencio - Héroe de Leyenda",
+    "answer": "Héroes del Silencio - Héroe de Leyenda",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9a/96/0e/9a960e04-582b-ace1-44f7-1cf227d774bb/mzaf_13156117657944272060.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ff/31/04/ff31040e-0a66-675d-9a03-db5609596c63/dj.lspeprni.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2002,
+    "date": "2026-08-03 00:14",
+    "cat": "Música",
+    "genre": "Rock y Alternativo",
+    "artist": "Héroes del Silencio",
+    "artistId": 3097061,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Héroes del Silencio - Maldito Duende",
+    "answer": "Héroes del Silencio - Maldito Duende",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4f/f3/6b/4ff36be6-4ce8-8e69-199e-7ae2f17c44cc/mzaf_16269146331086271506.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/08/8e/86088e04-a7ad-0586-5145-f4c73fe7affd/dj.ajwopobv.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

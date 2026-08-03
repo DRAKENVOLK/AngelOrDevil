@@ -20636,6 +20636,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/4e/56/494e5628-8c13-f3b7-f7bf-3f04383403d7/886448279587.jpg/400x400bb.jpg"
   },
   {
+    "id": 2047,
+    "date": "2026-08-03 09:52",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "RBD",
+    "artistId": 92366508,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "RBD, Anahí, Dulce María, Maite Perroni & Christian Chávez - Este Corazón (feat. Christopher von Uckermann & Alfonso Herrera)",
+    "answer": "RBD, Anahí, Dulce María, Maite Perroni & Christian Chávez - Este Corazón (feat. Christopher von Uckermann & Alfonso Herrera)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0c/09/b4/0c09b454-f190-ec28-1625-f9832ac1cfad/mzaf_4502563320615410615.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/25/0c/b5250cd6-4045-3af6-242e-7be9d30cba2e/20UMGIM74515.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2048,
+    "date": "2026-08-03 09:52",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "RBD",
+    "artistId": 92366508,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "RBD, Anahí, Dulce María, Maite Perroni & Christian Chávez - Enséñame (feat. Christopher von Uckermann & Alfonso Herrera)",
+    "answer": "RBD, Anahí, Dulce María, Maite Perroni & Christian Chávez - Enséñame (feat. Christopher von Uckermann & Alfonso Herrera)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/44/f2/6f44f246-18b7-0de3-ac2d-7343c84575da/mzaf_2171670499013560340.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/be/1a/bfbe1a54-27f9-7609-6572-c7feec96094d/20UMGIM74536.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2049,
+    "date": "2026-08-03 09:52",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "RBD",
+    "artistId": 92366508,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "RBD, Anahí, Dulce María, Maite Perroni & Christian Chávez - Rebelde (feat. Christopher von Uckermann & Alfonso Herrera)",
+    "answer": "RBD, Anahí, Dulce María, Maite Perroni & Christian Chávez - Rebelde (feat. Christopher von Uckermann & Alfonso Herrera)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/a0/c6/20a0c68c-6933-33ea-dd31-aebcd8751a8f/mzaf_8942082680374642642.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/be/1a/bfbe1a54-27f9-7609-6572-c7feec96094d/20UMGIM74536.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

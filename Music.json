@@ -22172,22 +22172,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/ac/d3/04acd39a-c2da-401b-5210-524ac423cdf5/mzi.pzoyrwfo.jpg/400x400bb.jpg"
   },
   {
-    "id": 2147,
-    "date": "2026-08-03 14:07",
-    "cat": "Música",
-    "genre": "Pop Latino",
-    "artist": "Sin Bandera",
-    "artistId": 14483319,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Sin Bandera - Sera",
-    "answer": "Sin Bandera - Sera",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f5/e7/04/f5e70435-ba68-f0e2-c43e-5086e3fbd999/mzaf_9294277778123076956.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/4e/8e/6f/mzi.wkazshvk.jpg/400x400bb.jpg"
-  },
-  {
     "id": "drk_sys_config",
     "databases": [
       {

@@ -21148,6 +21148,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/d7/75/d5d775e6-949c-88f8-e471-b08704f1ab75/825646647538_1.jpg/400x400bb.jpg"
   },
   {
+    "id": 2080,
+    "date": "2026-08-03 10:46",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Cabas",
+    "artistId": 435196593,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Cabas - Tu Boca",
+    "answer": "Cabas - Tu Boca",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/30/de/0930de06-4061-2441-18c5-7e7fde24b090/mzaf_7113735545123983705.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/a9/35/a3a935be-f271-9707-e3be-af478208cc93/00602567246602.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2082,
+    "date": "2026-08-03 10:48",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Cabas",
+    "artistId": 435196593,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Cabas - Mi Bombon",
+    "answer": "Cabas - Mi Bombon",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c7/69/c0/c769c03a-f5ec-51e9-896e-8709b83574f0/mzaf_7421997859388198662.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/a9/35/a3a935be-f271-9707-e3be-af478208cc93/00602567246602.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2083,
+    "date": "2026-08-03 10:49",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Cabas",
+    "artistId": 435196593,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Cabas - Ana María",
+    "answer": "Cabas - Ana María",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/88/0d/ad/880dad7c-bf84-8da5-dbf3-464d8eac3b2d/mzaf_12721442939756816363.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/a9/35/a3a935be-f271-9707-e3be-af478208cc93/00602567246602.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

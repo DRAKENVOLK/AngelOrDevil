@@ -20012,6 +20012,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/08/8e/86088e04-a7ad-0586-5145-f4c73fe7affd/dj.ajwopobv.jpg/400x400bb.jpg"
   },
   {
+    "id": 2003,
+    "date": "2026-08-03 00:14",
+    "cat": "Música",
+    "genre": "Latin",
+    "artist": "Son By 4",
+    "artistId": 110940318,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Son By 4 - A Puro Dolor (Balada)",
+    "answer": "Son By 4 - A Puro Dolor (Balada)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4c/71/c2/4c71c2ef-0af0-2d2d-f760-6ebca9f39067/mzaf_2103343593966212790.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/ea/99/7e/ea997e63-db4c-1056-3554-8be3d5939ebb/dj.hiarqquy.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

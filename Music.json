@@ -20620,6 +20620,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/72/7f/2a/727f2a78-9ccf-ca59-5237-ba0141f07dfb/00602557784510.rgb.jpg/400x400bb.jpg"
   },
   {
+    "id": 2046,
+    "date": "2026-08-03 00:49",
+    "cat": "Música",
+    "genre": "Alternative",
+    "artist": "Siddhartha",
+    "artistId": 124992824,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Siddhartha & ZOE - La Ciudad (Cap. 6)",
+    "answer": "Siddhartha & ZOE - La Ciudad (Cap. 6)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/75/07/09750747-0fc0-9cd1-e692-b89922560329/mzaf_8311900947625043213.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/4e/56/494e5628-8c13-f3b7-f7bf-3f04383403d7/886448279587.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

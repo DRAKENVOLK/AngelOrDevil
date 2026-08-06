@@ -25773,6 +25773,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/50/c1/bf/50c1bfd7-ed0e-167e-96e5-3efb02ffd6eb/22UMGIM63659.rgb.jpg/400x400bb.jpg"
   },
   {
+    "id": 2435,
+    "date": "2026-08-06 14:39",
+    "cat": "Música",
+    "genre": "Salsa y tropical",
+    "artist": "Jerry Rivera",
+    "artistId": 6764253,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Jerry Rivera - Qué Hay de Malo",
+    "answer": "Jerry Rivera - Qué Hay de Malo",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bb/e9/03/bbe9030f-faf2-6234-761e-00a197208e0d/mzaf_17155212341908537737.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/27/0c/29/270c295c-589e-326c-457e-a95395356cc7/dj.wcvtvnah.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2436,
+    "date": "2026-08-06 14:39",
+    "cat": "Música",
+    "genre": "Salsa y tropical",
+    "artist": "Jerry Rivera",
+    "artistId": 6764253,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Jerry Rivera - Mi Libertad (Con Voltio)",
+    "answer": "Jerry Rivera - Mi Libertad (Con Voltio)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/b3/6d/f4b36d9f-cfc5-0238-2433-3c6a237e7d23/mzaf_5289003391831180174.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/3c/94/db3c94c5-5722-f2f2-f189-c59f8306415d/196873464732.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2437,
+    "date": "2026-08-06 14:42",
+    "cat": "Música",
+    "genre": "Salsa y tropical",
+    "artist": "Jerry Rivera",
+    "artistId": 6764253,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Jerry Rivera - Quiero (Salsa Version) [Edited]",
+    "answer": "Jerry Rivera - Quiero (Salsa Version) [Edited]",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c1/ae/12/c1ae12a3-32e3-3c87-17f4-007260caf63e/mzaf_9553027155783346436.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/27/dc/b4/27dcb402-1195-190a-2c24-851846819223/886444805988.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

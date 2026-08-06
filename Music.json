@@ -24140,6 +24140,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f7/24/ce/f724ce48-4d0d-0cbc-3493-3d935142e5e6/886443947238.jpg/400x400bb.jpg"
   },
   {
+    "id": 2276,
+    "date": "2026-08-05 23:35",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Tears for Fears",
+    "artistId": 45218,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Tears for Fears - Woman In Chains (feat. Oleta Adams)",
+    "answer": "Tears for Fears - Woman In Chains (feat. Oleta Adams)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/7e/79/697e79d5-4a58-0280-889c-6119d2f22ca9/mzaf_8173484750986059156.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7d/c5/26/7dc52696-9a6e-df05-643a-c55fe977e46e/16UMGIM53663.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

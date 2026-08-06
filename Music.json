@@ -374,21 +374,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/1c/73/7c1c73ac-5b65-d190-cdc9-c032d0ab2474/743215317227.jpg/400x400bb.jpg"
   },
   {
-    "id": 638,
-    "date": "2026-05-17 16:02",
-    "cat": "Música",
-    "genre": "Baladas y Boleros",
-    "artist": "Juan Gabriel",
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Juan Gabriel - Hasta Que Te Conocí",
-    "answer": "Juan Gabriel - Hasta Que Te Conocí (En Vivo [Desde el Instituto Nacional de Bellas Artes])",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ec/15/f5/ec15f57a-0a36-3938-e5f5-40bca355548d/mzaf_3935953228897321242.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0d/a6/4e/0da64e6c-d6c1-99f3-acdc-947fe72fbe27/886444656320.jpg/400x400bb.jpg"
-  },
-  {
     "id": 639,
     "date": "2026-05-17 16:02",
     "cat": "Música",
@@ -10060,22 +10045,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/7a/f8/007af89c-66d5-4bb7-c35d-1a33966e0755/12UMGIM34434.rgb.jpg/400x400bb.jpg"
   },
   {
-    "id": 1360,
-    "date": "2026-08-02 02:03",
-    "cat": "Música",
-    "genre": "Hip-Hop",
-    "artist": "Bad Bunny",
-    "artistId": 1126808565,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Bad Bunny - Tití Me Preguntó",
-    "answer": "Bad Bunny - Tití Me Preguntó (Mixed)",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/61/8e/2d/618e2d09-d6e5-1864-92b3-b5ea326bc1a9/mzaf_18353592973487747406.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b0/b9/7c/b0b97c63-14ff-8946-f34e-4239faecb1e0/820cc83e-1f8f-4738-8ee8-e1ebce5c123b.png/400x400bb.jpg"
-  },
-  {
     "id": 1361,
     "date": "2026-08-02 02:03",
     "cat": "Música",
@@ -10426,22 +10395,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/19/a2/8919a2a9-8296-1d4e-c473-8e1a1bf09103/mzaf_3896003535913058051.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 1385,
-    "date": "2026-08-02 02:10",
-    "cat": "Música",
-    "genre": "Urbano latino",
-    "artist": "Bad Bunny",
-    "artistId": 1126808565,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Bad Bunny - MÍA (feat. Drake)",
-    "answer": "Bad Bunny - MÍA (feat. Drake)",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/ad/b6/72adb69d-18a8-a7cd-4534-bba34deb9486/mzaf_14761776520883767907.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/3a/db/cf3adbe6-8ea1-f60f-60fd-713eefda3962/193483317984.jpg/400x400bb.jpg"
   },
   {
     "id": 1386,
@@ -15388,22 +15341,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/41/f8/38/41f8380b-9b56-d5d4-31f7-a6411c0c9aaa/886446102054.jpg/400x400bb.jpg"
   },
   {
-    "id": 1714,
-    "date": "2026-08-02 16:44",
-    "cat": "Música",
-    "genre": "Dance",
-    "artist": "The Chainsmokers",
-    "artistId": 580391756,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "The Chainsmokers - Something Just Like This",
-    "answer": "The Chainsmokers & Coldplay - Something Just Like This",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/7f/96/647f9601-aa94-3599-6c73-0143510b8b92/mzaf_13538528720942742126.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9d/56/6f/9d566f55-5253-bed6-5c31-df952dae649d/886446379289.jpg/400x400bb.jpg"
-  },
-  {
     "id": 1715,
     "date": "2026-08-02 16:44",
     "cat": "Música",
@@ -15562,22 +15499,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/93/61/d69361dd-9cd1-0c3d-7844-fbef6260e4d1/mzaf_3109003990615068700.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ac/51/45/ac51452d-c03f-94fb-6f3b-4f18b7beee53/11UMGIM38934.rgb.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 1726,
-    "date": "2026-08-02 16:48",
-    "cat": "Música",
-    "genre": "Pop",
-    "artist": "Rihanna",
-    "artistId": 63346553,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Rihanna - We Found Love (feat. Calvin Harris) [Calvin Harris Extended Mix]",
-    "answer": "Rihanna - We Found Love (feat. Calvin Harris) [Calvin Harris Extended Mix]",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/49/9a/35499ab4-2de4-229f-8e2f-9dd8ae6fd5b3/mzaf_5220015884336574774.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/90/6e/16906e38-2538-9d48-aa30-6eba7405972c/16UMGIM59229.rgb.jpg/400x400bb.jpg"
   },
   {
     "id": 1727,
@@ -15865,22 +15786,6 @@
     "targetType": "self",
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cf/da/2b/cfda2bc7-19f4-5b06-580b-d00b3cd14ba8/mzaf_17830839394485387918.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1d/48/7d/1d487da2-ed7a-3e31-74d6-49cf93b40aeb/mzi.kpnsbult.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 1746,
-    "date": "2026-08-02 17:07",
-    "cat": "Música",
-    "genre": "Pop",
-    "artist": "Westlife",
-    "artistId": 807028,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Westlife - My Love (Radio Edit)",
-    "answer": "Westlife - My Love (Radio Edit)",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/0a/be/330abe4c-6384-5945-f186-49b58cf3240b/mzaf_17373080218472493974.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1d/48/7d/1d487da2-ed7a-3e31-74d6-49cf93b40aeb/mzi.kpnsbult.jpg/400x400bb.jpg"
   },
   {
@@ -16266,22 +16171,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/74/9b/fd749b38-22b2-2820-fe5e-2ed8849a1da0/mzaf_6723634430028206406.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/99/62/43996219-f524-b168-461e-233d3005a4a6/075679954497.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 1772,
-    "date": "2026-08-02 18:29",
-    "cat": "Música",
-    "genre": "Alternative",
-    "artist": "American Authors",
-    "artistId": 557564979,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "American Authors - Best Day of My Life",
-    "answer": "American Authors - Best Day of My Life",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/30/d0/2230d086-6407-6aa5-e8ff-3e0f81d2bfc1/mzaf_7188612954736160603.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/6c/79/fe6c7944-593e-43b8-5ca2-3ca61cdbd393/14UMGIM01329.rgb.jpg/400x400bb.jpg"
   },
   {
     "id": 1773,
@@ -17532,22 +17421,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e6/7f/99/e67f99cb-ec7a-8edf-dee9-011346369bc7/00602517305366.rgb.jpg/400x400bb.jpg"
   },
   {
-    "id": 1857,
-    "date": "2026-08-02 18:56",
-    "cat": "Música",
-    "genre": "Alternative",
-    "artist": "Fall Out Boy",
-    "artistId": 28673423,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Fall Out Boy - This Ain't A Scene, It's An Arms Race",
-    "answer": "Fall Out Boy - This Ain't A Scene, It's An Arms Race",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/5b/cd/8e5bcdd5-7c2f-be1b-1706-d4980bea9e51/mzaf_14171696310843943351.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/de/c9/46dec97f-3420-529c-762c-f83b85f7fb63/07UMGIM15942.rgb.jpg/400x400bb.jpg"
-  },
-  {
     "id": 1858,
     "date": "2026-08-02 18:56",
     "cat": "Música",
@@ -17882,22 +17755,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/3f/6b/443f6b9b-6675-6480-f6fe-970e27689241/mzaf_13856761715069773355.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/81/14/078114c0-5ff9-6088-9208-d28d20fb0508/8718522109102.png/400x400bb.jpg"
-  },
-  {
-    "id": 1881,
-    "date": "2026-08-02 19:10",
-    "cat": "Música",
-    "genre": "Rock y Alternativo",
-    "artist": "La Ley",
-    "artistId": 2143112,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "La Ley - El Duelo",
-    "answer": "La Ley - El Duelo",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/b7/a5/60b7a5b1-ad76-1a43-6fd0-ba76cec06830/mzaf_17441744571068747516.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/70/9c/c3/mzi.fapsoaym.jpg/400x400bb.jpg"
   },
   {
     "id": 1882,
@@ -19548,22 +19405,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/a1/ed/f3a1ed35-3a70-c104-ef34-2d1f515c16fe/198391389955.jpg/400x400bb.jpg"
   },
   {
-    "id": 1994,
-    "date": "2026-08-03 00:07",
-    "cat": "Música",
-    "genre": "Pop Latino",
-    "artist": "Alex Ubago",
-    "artistId": 496159,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Alex Ubago - Sin Miedo a Nada",
-    "answer": "Alex Ubago - Sin Miedo a Nada (con Amaia Montero)",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/81/e5/47/81e54720-6ea6-2e4a-35ea-8e8ab38009d9/mzaf_10328258688403756284.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ca/e0/5b/cae05b1b-04cb-393d-55d5-59d43f0358a4/mzi.tikeouij.jpg/400x400bb.jpg"
-  },
-  {
     "id": 1995,
     "date": "2026-08-03 00:07",
     "cat": "Música",
@@ -19722,22 +19563,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f8/96/43/f89643b7-3efa-9f43-0a78-394abf12864b/mzaf_3399344087154345151.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e2/87/d9/e287d987-7b92-7749-737f-b5b8a6913f88/22UM1IM38560.rgb.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 2006,
-    "date": "2026-08-03 00:21",
-    "cat": "Música",
-    "genre": "Rock",
-    "artist": "Aerosmith",
-    "artistId": 115386,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Aerosmith - I Don't Want to Miss a Thing",
-    "answer": "Aerosmith - I Don't Want to Miss a Thing (Pop Mix)",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/95/8c/ac/958cace7-ed1e-724f-5f46-b0d673c739f6/mzaf_4646028621824909013.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/2b/7c/aa2b7cb8-743f-df84-78e0-0b9c3b28bff3/22UM1IM35688.rgb.jpg/400x400bb.jpg"
   },
   {
     "id": 2007,
@@ -22156,22 +21981,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/1d/ad/211dad4f-69f6-9ac3-4c3b-3116dd3de4d4/06UMGIM24053.rgb.jpg/400x400bb.jpg"
   },
   {
-    "id": 2169,
-    "date": "2026-08-03 14:34",
-    "cat": "Música",
-    "genre": "Pop Latino",
-    "artist": "Juanes",
-    "artistId": 103856,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Juanes - Fotografía (feat. Nelly Furtado) [Remastered 2022]",
-    "answer": "Juanes - Fotografía (feat. Nelly Furtado) [Remastered 2022]",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/ea/10/26ea1031-4f4e-42e6-0055-6dcfa9cb7219/mzaf_11316335864768314486.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/74/77/93/7477934f-be02-1ac6-a909-8b67a9cd067b/22UMGIM50939.rgb.jpg/400x400bb.jpg"
-  },
-  {
     "id": 2170,
     "date": "2026-08-03 14:35",
     "cat": "Música",
@@ -22668,22 +22477,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/08/2a/4d082a9e-7898-1aa1-a02f-339810058d9e/14DMGIM05632.rgb.jpg/400x400bb.jpg"
   },
   {
-    "id": 2201,
-    "date": "2026-08-05 22:49",
-    "cat": "Música",
-    "genre": "Rock",
-    "artist": "Queen",
-    "artistId": 3296287,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Queen - We Are the Champions",
-    "answer": "Queen - We Are The Champions (Live At Milton Keynes Bowl / June 1982)",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/3b/b8/453bb85c-6a33-6f54-8011-d06beb043577/mzaf_18050327112984908649.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/95/e4/ae95e444-e9c4-16c4-3232-37abb50e88ce/602527585246.jpg/400x400bb.jpg"
-  },
-  {
     "id": 2202,
     "date": "2026-08-05 22:49",
     "cat": "Música",
@@ -22810,22 +22603,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ae/cc/fb/aeccfb8a-5c08-72ef-ba6a-339a828f2dc4/mzaf_4414705973674209814.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/71/44/ab/7144ab43-17de-e8a2-fa09-21f333ec3485/06UMGIM15438.rgb.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 2210,
-    "date": "2026-08-05 23:02",
-    "cat": "Música",
-    "genre": "Urbano latino",
-    "artist": "Don Omar",
-    "artistId": 65630139,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Don Omar - Pobre Diabla",
-    "answer": "Don Omar - Pobre Díabla",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/0e/36/0b0e36ad-7bbb-d877-5efb-71d57f3f4195/mzaf_2600163691899337512.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b1/90/db/b190dba5-06d5-36c7-ae33-62e1c7e6094e/06UMGIM15566.rgb.jpg/400x400bb.jpg"
   },
   {
     "id": 2211,
@@ -23100,22 +22877,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/29/bb/0f/29bb0fca-bd85-7ceb-73d5-030bbc111009/f6de7400-a6d2-46fc-871d-1ef396e6eaae.jpg/400x400bb.jpg"
   },
   {
-    "id": 2228,
-    "date": "2026-08-05 23:02",
-    "cat": "Música",
-    "genre": "Pop",
-    "artist": "Enrique Iglesias",
-    "artistId": 90895,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Enrique Iglesias - Bailando",
-    "answer": "Enrique Iglesias - Bailando (English Version) [feat. Sean Paul, Descemer Bueno & Gente de Zona]",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/11/d4/8f/11d48fd8-5132-8f1e-4675-d0bfecc0e900/mzaf_14165922165158894828.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/18/3e/c7183ef7-49f1-8941-03cf-ad17ca8b97ea/00602537854097.rgb.jpg/400x400bb.jpg"
-  },
-  {
     "id": 2229,
     "date": "2026-08-05 23:02",
     "cat": "Música",
@@ -23180,22 +22941,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/58/3d/8d583d74-d03c-b26e-9b4b-65a32f4eb8b0/886446730196.jpg/400x400bb.jpg"
   },
   {
-    "id": 2233,
-    "date": "2026-08-05 23:02",
-    "cat": "Música",
-    "genre": "Pop Latino",
-    "artist": "CNCO",
-    "artistId": 1077567887,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "CNCO - Reggaetón Lento (Bailemos)",
-    "answer": "CNCO - Reggaetón Lento (Bailemos)",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ae/40/79/ae407966-54a7-d8fb-955b-b9b6c743990a/mzaf_6029216968134922458.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/90/74/46/9074463e-3dea-ad75-3e66-a9ba7939c420/886445722550.jpg/400x400bb.jpg"
-  },
-  {
     "id": 2235,
     "date": "2026-08-05 23:02",
     "cat": "Música",
@@ -23242,22 +22987,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6e/ac/39/6eac39ad-4ece-9779-7dee-1b52d77568e4/mzaf_18151655494479285632.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/ac/cb/f3/accbf323-a631-12eb-3977-0563254dd89e/mza_8588403352509644499.png/400x400bb.jpg"
-  },
-  {
-    "id": 2245,
-    "date": "2026-08-05 23:02",
-    "cat": "Música",
-    "genre": "Pop",
-    "artist": "Luis Fonsi",
-    "artistId": 102834,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Luis Fonsi ft. Daddy Yankee - Despacito",
-    "answer": "Luis Fonsi & Daddy Yankee - Despacito (feat. Justin Bieber) [Remix]",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/8a/b4/a98ab479-5782-fe7b-57dc-a04be6c38462/mzaf_11605981746719020256.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/ef/f0/e2eff0bc-c51d-7de5-9280-6891ddcee71b/18UMGIM85289.rgb.jpg/400x400bb.jpg"
   },
   {
     "id": 2246,
@@ -24026,22 +23755,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/12/39/38/123938a8-6689-2d39-c1c3-f079a19746c9/mzaf_3873567252255626037.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/63/83/9c/63839cfe-451d-cc58-36dc-101fa5d9e1a7/00786367314225.rgb.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 2298,
-    "date": "2026-08-05 23:54",
-    "cat": "Música",
-    "genre": "Música tropical",
-    "artist": "Eddie Santiago",
-    "artistId": 101732,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Eddie Santiago - Antídoto y Veneno",
-    "answer": "Eddie Santiago - Antídoto Y Veneno",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/83/5f/56/835f563c-d5ff-eb1f-0963-27fbec3e56b2/mzaf_14997563934032515524.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ba/9f/c8/ba9fc89c-a1e8-bfa9-5e9e-9a49453407c3/00602537617340.rgb.jpg/400x400bb.jpg"
   },
   {
     "id": 2299,

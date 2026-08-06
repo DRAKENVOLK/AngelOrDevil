@@ -11036,22 +11036,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ef/9b/7f/ef9b7fa6-ce21-4111-526b-41037e7758c4/00602517542013.rgb.jpg/400x400bb.jpg"
   },
   {
-    "id": 1423,
-    "date": "2026-08-02 11:55",
-    "cat": "Música",
-    "genre": "Urbano latino",
-    "artist": "DJ Nelson",
-    "artistId": 44926531,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Ñejo & Dálmata - Algo Musical",
-    "answer": "DJ Nelson - Algo Musical (Remix) [feat. Nejo & Dalmata, Arcangel & Daddy Yankee]",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bc/35/45/bc354593-1b66-1d9c-dcb2-c27c5ab825cd/mzaf_5517279103962205102.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/bc/d0/bbbcd0c6-cd03-63e4-108f-b5aecadeea36/mzm.lfthneba.png/400x400bb.jpg"
-  },
-  {
     "id": 1424,
     "date": "2026-08-02 11:55",
     "cat": "Música",
@@ -17098,22 +17082,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/4b/75/f34b7515-00fb-def0-d5a2-e4a9965dd25f/mzaf_4887760733084989574.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/61/e2/e561e2e6-2ff8-7e71-7f4c-d2af8fd46dec/078636781822.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 1821,
-    "date": "2026-08-02 18:36",
-    "cat": "Música",
-    "genre": "Pop",
-    "artist": "Daniel Powter",
-    "artistId": 25451036,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Daniel Powter - Next Plane Home",
-    "answer": "Daniel Powter - Next Plane Home",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/38/99/c0/3899c089-37f3-ea14-d0b6-d28bdcd7e365/mzaf_17016871122089153938.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/3a/6c/ea/mzi.rmvqvidr.jpg/400x400bb.jpg"
   },
   {
     "id": 1822,

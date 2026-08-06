@@ -24172,6 +24172,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/7d/0b/f57d0b86-3ce1-3426-6167-cdb2b51142c6/00602557001945.rgb.jpg/400x400bb.jpg"
   },
   {
+    "id": 2278,
+    "date": "2026-08-05 23:45",
+    "cat": "Música",
+    "genre": "Modern Dancehall",
+    "artist": "Charly Black",
+    "artistId": 281883860,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Charly Black - Gyal You a Party Animal",
+    "answer": "Charly Black - Gyal You a Party Animal",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4e/d8/30/4ed830f7-6de7-4f97-4c52-7d27d8f7e6fb/mzaf_15655259542665849441.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/ba/86/edba86f5-818d-6698-f504-f9c073668686/602547831613_cover.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

@@ -23660,6 +23660,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/ef/f0/e2eff0bc-c51d-7de5-9280-6891ddcee71b/18UMGIM85289.rgb.jpg/400x400bb.jpg"
   },
   {
+    "id": 2246,
+    "date": "2026-08-05 23:15",
+    "cat": "Música",
+    "genre": "Dance",
+    "artist": "Cheat Codes",
+    "artistId": 957521979,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Cheat Codes & Kris Kross Amsterdam - Sex (Extended Mix)",
+    "answer": "Cheat Codes & Kris Kross Amsterdam - Sex (Extended Mix)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/70/ca/c0/70cac06e-1416-a5dc-835c-a9543ece46cc/mzaf_9523740815221883092.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/95/dd/3c95dd12-b921-c442-53d7-8d169f1305de/8712944510492.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2247,
+    "date": "2026-08-05 23:16",
+    "cat": "Música",
+    "genre": "Pop en español",
+    "artist": "Jesus Vazquez",
+    "artistId": 567316079,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Jesus Vazquez - Llamame",
+    "answer": "Jesus Vazquez - Llamame",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/53/87/19/5387193e-e6a9-d164-abb6-c11eff93b502/mzaf_4123422159995206076.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/8f/f3/a3/8ff3a3e7-2e1f-f736-c39e-9b2f0bc9c166/886443904804.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

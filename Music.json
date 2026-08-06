@@ -24813,6 +24813,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/6f/0b/3a6f0b81-d605-067a-ddc3-1d9640757db0/mzi.hmbxemtg.jpg/400x400bb.jpg"
   },
   {
+    "id": 2373,
+    "date": "2026-08-06 01:36",
+    "cat": "Música",
+    "genre": "Salsa y Tropical",
+    "artist": "Grupo Niche",
+    "artistId": 89543,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Grupo Niche - Ni Como Amiga Ni Como Amante",
+    "answer": "Grupo Niche - Ni Como Amiga Ni Como Amante",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/6f/3f/246f3f7e-6ee2-d943-5173-87199a510fb1/mzaf_12735869951330642712.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/56/fe/bb/mzi.yxmpenru.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2374,
+    "date": "2026-08-06 01:39",
+    "cat": "Música",
+    "genre": "Salsa y Tropical",
+    "artist": "Grupo Niche",
+    "artistId": 89543,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Grupo Niche - Eres",
+    "answer": "Grupo Niche - Eres",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/10/e5/7f10e583-e477-3811-e46a-e9039b45c719/mzaf_8893714695214944479.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9e/70/be/9e70be6f-0bae-0f37-84c3-dff9665dc934/886447997963.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

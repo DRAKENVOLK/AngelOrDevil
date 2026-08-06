@@ -25357,6 +25357,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/53/3a/1c/533a1ce8-1abb-1384-b559-5dbf0a845339/093624941156.jpg/400x400bb.jpg"
   },
   {
+    "id": 2407,
+    "date": "2026-08-06 10:17",
+    "cat": "Música",
+    "genre": "Hard Rock",
+    "artist": "Steve Aoki",
+    "artistId": 271066694,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Steve Aoki - Darker Than Blood (feat. LINKIN PARK)",
+    "answer": "Steve Aoki - Darker Than Blood (feat. LINKIN PARK)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9f/cb/16/9fcb163e-83f2-9792-c9dd-195761f0f833/mzaf_13644356231216089419.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/f9/00/49f9001f-437f-1bbc-b348-d0b2a0279668/886445200478.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

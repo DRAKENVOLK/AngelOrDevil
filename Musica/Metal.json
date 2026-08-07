@@ -1134,5 +1134,21 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/27/dd/8d/27dd8dd7-5481-d84f-b465-59936608df99/mzaf_40302429588601303.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e5/e4/d9/e5e4d94a-490e-f8e2-7999-a01f76446f3f/5400863135256_cover.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 672,
+    "date": "2026-08-06 21:35",
+    "cat": "Música",
+    "genre": "Rock",
+    "artist": "Avalanch",
+    "artistId": 65457331,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Avalanch - Alas de Cristal",
+    "answer": "Avalanch - Alas de Cristal",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/31/bd/c5/31bdc5e0-0283-4262-63c7-414ff73808ce/mzaf_13416930942314071224.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/62/b1/d4/mzi.vpebucuw.tif/400x400bb.jpg"
   }
 ]

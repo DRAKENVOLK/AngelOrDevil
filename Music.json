@@ -25885,22 +25885,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/fb/05/b3/fb05b3e3-5ae7-bc0e-4c63-b4c964576965/281767.jpg/400x400bb.jpg"
   },
   {
-    "id": 2442,
-    "date": "2026-08-06 14:46",
-    "cat": "Música",
-    "genre": "Música latina",
-    "artist": "Pablo Herrera",
-    "artistId": 80732346,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Pablo Herrera - Te Prometo",
-    "answer": "Pablo Herrera - Te Prometo",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5c/2e/fe/5c2efe7f-0d69-9115-b461-b92e6f7b4028/mzaf_1696155177078887701.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/72/1f/d7/721fd7dd-9aa9-9cac-976a-1509c3143d53/Front.jpg/400x400bb.jpg"
-  },
-  {
     "id": "drk_sys_config",
     "databases": [
       {

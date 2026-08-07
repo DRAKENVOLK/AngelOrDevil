@@ -1632,22 +1632,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/23/c0/f9/mzi.hxqehvvu.jpg/400x400bb.jpg"
   },
   {
-    "id": 705,
-    "date": "2026-08-06 21:59",
-    "cat": "Música",
-    "genre": "Metal",
-    "artist": "Iron Maiden",
-    "artistId": 546381,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Iron Maiden - Running Free",
-    "answer": "Iron Maiden - Running Free",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/92/1b/05/921b0575-32d6-217e-2ae2-35baa214b54b/mzaf_12333419312441596915.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8d/af/5c/8daf5cc9-1b77-5815-cfeb-b45ac698adc7/825646129263.jpg/400x400bb.jpg"
-  },
-  {
     "id": 706,
     "date": "2026-08-06 22:00",
     "cat": "Música",
@@ -1661,22 +1645,6 @@
     "targetType": "self",
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/ea/2c/a8ea2c8f-d689-3738-81bf-74ebf723ba67/mzaf_1605117710937065491.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8d/af/5c/8daf5cc9-1b77-5815-cfeb-b45ac698adc7/825646129263.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 707,
-    "date": "2026-08-06 22:00",
-    "cat": "Música",
-    "genre": "Metal",
-    "artist": "Iron Maiden",
-    "artistId": 546381,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Iron Maiden - Transylvania",
-    "answer": "Iron Maiden - Transylvania",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/50/e4/ed/50e4ed4f-cf62-7167-06dd-ed51d093b2bc/mzaf_12202461198601941930.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8d/af/5c/8daf5cc9-1b77-5815-cfeb-b45ac698adc7/825646129263.jpg/400x400bb.jpg"
   },
   {

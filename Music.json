@@ -3670,8 +3670,8 @@
     "answer": "Javiera & Los Imposibles - Maldita Primavera",
     "targetType": "self",
     "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/f5/a9/67f5a92e-baea-7f16-eeae-f91d383d8c44/mzaf_11067703134784788419.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/88/10/0d881099-a6e0-be60-e2e1-7b1ba99ae87b/196872431957.jpg/400x400bb.jpg"
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/b8/15/4bb81561-fbd9-3654-25c6-41bff54c8c4a/mzaf_2710938454572651037.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/6a/16/mzi.tqipfbec.jpg/400x400bb.jpg"
   },
   {
     "id": 907,
@@ -3685,8 +3685,8 @@
     "answer": "Javiera & Los Imposibles - No",
     "targetType": "self",
     "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/49/a8/4b49a809-40ce-1dca-193f-03256ad5d452/mzaf_9465985559648778608.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/14/f3/5614f3f4-16e3-067c-68a8-dbca5765e41b/196872432206.jpg/400x400bb.jpg"
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/77/45/34774525-9338-7b3f-b579-0d83eb536dde/mzaf_16506542363155145746.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/6a/16/mzi.tqipfbec.jpg/400x400bb.jpg"
   },
   {
     "id": 908,
@@ -26107,6 +26107,54 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/f2/51/33f25183-100d-eb88-e265-1578d6afb5b2/mzaf_8020461130425972905.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/3c/ed/ab3cedd0-03a6-0802-ec42-2f48c4eb118c/074646989128.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2456,
+    "date": "2026-08-06 20:46",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Ricky Martin",
+    "artistId": 217142,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Ricky Martin - Fuego de Noche, Nieve de Día",
+    "answer": "Ricky Martin - Fuego de Noche, Nieve de Día",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ed/3b/23/ed3b2341-5830-c3fc-a5c3-4824c2d73edf/mzaf_8003829545093217882.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/35/90/343590c6-d4a5-5909-be92-53049f70df4e/dj.dmlawlml.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2457,
+    "date": "2026-08-06 20:53",
+    "cat": "Música",
+    "genre": "Alternativa y rock en español",
+    "artist": "Javiera",
+    "artistId": 204689828,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Javiera & Los Imposibles - Víver Así, Morir de Amor",
+    "answer": "Javiera & Los Imposibles - Víver Así, Morir de Amor",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ae/31/e2/ae31e221-7731-4380-17fa-75d6a20f8f26/mzaf_4222971925189207893.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/6a/16/mzi.tqipfbec.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2458,
+    "date": "2026-08-06 20:54",
+    "cat": "Música",
+    "genre": "Alternativa y rock en español",
+    "artist": "Javiera",
+    "artistId": 204689828,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Javiera & Los Imposibles - Detalles",
+    "answer": "Javiera & Los Imposibles - Detalles",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cd/71/75/cd717575-1086-7b55-8205-fdf1237798aa/mzaf_4238062751150019743.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/6a/16/mzi.tqipfbec.jpg/400x400bb.jpg"
   },
   {
     "id": "drk_sys_config",

@@ -25885,6 +25885,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/fb/05/b3/fb05b3e3-5ae7-bc0e-4c63-b4c964576965/281767.jpg/400x400bb.jpg"
   },
   {
+    "id": 2442,
+    "date": "2026-08-06 20:34",
+    "cat": "Música",
+    "genre": "Pop en español",
+    "artist": "Jaci Velasquez",
+    "artistId": 1646038,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Jaci Velasquez - Como Se Cura una Herida",
+    "answer": "Jaci Velasquez - Como Se Cura una Herida",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/4a/13/1e4a13c9-1b68-a5df-7b57-ac5922ad81c1/mzaf_10589803221749782771.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/66/6f/1e/666f1e5e-8616-1c84-90cc-2a3f15a76762/mzi.vccosuiq.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2443,
+    "date": "2026-08-06 20:35",
+    "cat": "Música",
+    "genre": "Pop en español",
+    "artist": "Jaci Velasquez",
+    "artistId": 1646038,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Jaci Velasquez - Llegar a Ti",
+    "answer": "Jaci Velasquez - Llegar a Ti",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/90/0b/aa/900baa24-d3e8-9323-6d6e-461538eb8c26/mzaf_6826476345246840468.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/d1/9a/d8/d19ad81f-0e15-12e5-5c66-89e7bfbb1ac2/dj.usxslezm.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2444,
+    "date": "2026-08-06 20:35",
+    "cat": "Música",
+    "genre": "Pop en español",
+    "artist": "Jaci Velasquez",
+    "artistId": 1646038,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Jaci Velasquez - Sólo Tú",
+    "answer": "Jaci Velasquez - Sólo Tú",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/18/9f/80/189f80bf-869f-8036-ea07-615f4b36f62c/mzaf_15900195034611331084.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/d1/9a/d8/d19ad81f-0e15-12e5-5c66-89e7bfbb1ac2/dj.usxslezm.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

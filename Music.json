@@ -26173,6 +26173,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/b1/41/4ab1414a-e8fa-5f0e-f035-32a6840c3065/886446972596.jpg/400x400bb.jpg"
   },
   {
+    "id": 2461,
+    "date": "2026-08-07 12:24",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Lifehouse",
+    "artistId": 3447393,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Lifehouse - Come Back Down",
+    "answer": "Lifehouse - Come Back Down",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/1b/f4/601bf406-0104-c856-1eaf-e0a8286c1ca0/mzaf_6495905403967925956.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ee/e3/4c/eee34c4e-93ec-af8e-5d58-b435a519a6aa/00602557705249.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2462,
+    "date": "2026-08-07 12:24",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Lifehouse",
+    "artistId": 3447393,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Lifehouse - Blind",
+    "answer": "Lifehouse - Blind",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6e/f8/50/6ef850ea-93eb-cc55-4bd4-aeb02a10b460/mzaf_15114187078861624179.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ee/e3/4c/eee34c4e-93ec-af8e-5d58-b435a519a6aa/00602557705249.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2463,
+    "date": "2026-08-07 12:24",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Lifehouse",
+    "artistId": 3447393,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Lifehouse - All In All",
+    "answer": "Lifehouse - All In All",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/56/a4/8356a42c-9373-14e6-7414-7e9dcface2d8/mzaf_10434341277760728492.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ee/e3/4c/eee34c4e-93ec-af8e-5d58-b435a519a6aa/00602557705249.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

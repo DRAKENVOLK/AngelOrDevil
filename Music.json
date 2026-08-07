@@ -26109,6 +26109,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/3c/ed/ab3cedd0-03a6-0802-ec42-2f48c4eb118c/074646989128.jpg/400x400bb.jpg"
   },
   {
+    "id": 2456,
+    "date": "2026-08-06 20:46",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Ricky Martin",
+    "artistId": 217142,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Ricky Martin - Fuego de Noche, Nieve de Día",
+    "answer": "Ricky Martin - Fuego de Noche, Nieve de Día",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ed/3b/23/ed3b2341-5830-c3fc-a5c3-4824c2d73edf/mzaf_8003829545093217882.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/35/90/343590c6-d4a5-5909-be92-53049f70df4e/dj.dmlawlml.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

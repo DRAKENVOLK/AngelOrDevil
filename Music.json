@@ -26157,6 +26157,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/ff/eb/d8/mzi.wegmszqt.jpg/400x400bb.jpg"
   },
   {
+    "id": 2460,
+    "date": "2026-08-06 23:21",
+    "cat": "Música",
+    "genre": "Baladas y boleros",
+    "artist": "Juan Gabriel",
+    "artistId": 295294,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Juan Gabriel - Pero Qué Necesidad",
+    "answer": "Juan Gabriel - Pero Qué Necesidad",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6d/c4/b2/6dc4b27e-a0f9-cae9-6583-aac23b7018c1/mzaf_10582224712883737407.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/b1/41/4ab1414a-e8fa-5f0e-f035-32a6840c3065/886446972596.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

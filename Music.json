@@ -26221,6 +26221,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ee/e3/4c/eee34c4e-93ec-af8e-5d58-b435a519a6aa/00602557705249.rgb.jpg/400x400bb.jpg"
   },
   {
+    "id": 2464,
+    "date": "2026-08-07 12:40",
+    "cat": "Música",
+    "genre": "Indie Rock",
+    "artist": "Lord Huron",
+    "artistId": 393068687,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Lord Huron - The Night We Met",
+    "answer": "Lord Huron - The Night We Met",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/36/b7/4b36b739-1de7-e0ae-45da-9a66463127ac/mzaf_1821541347983595183.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/41/4a/55414a18-861a-79d1-e575-5bf8cf205dbe/886445056839_Cover.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

@@ -26141,6 +26141,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/6a/16/mzi.tqipfbec.jpg/400x400bb.jpg"
   },
   {
+    "id": 2459,
+    "date": "2026-08-06 23:19",
+    "cat": "Música",
+    "genre": "Hard rock",
+    "artist": "Alice In Chains",
+    "artistId": 462221,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Alice In Chains - Nutshell (Live)",
+    "answer": "Alice In Chains - Nutshell (Live)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/90/4a/7a/904a7ad7-68f2-e285-ba01-3a1a2a2d571b/mzaf_15267942513869232332.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/ff/eb/d8/mzi.wegmszqt.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

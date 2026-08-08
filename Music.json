@@ -26712,22 +26712,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/c9/15/d8/c915d8a4-95e3-a09f-723e-8c050d763534/886445017359.jpg/400x400bb.jpg"
   },
   {
-    "id": 2495,
-    "date": "2026-08-08 07:21",
-    "cat": "Música",
-    "genre": "Pop Latino",
-    "artist": "Rocío Dúrcal",
-    "artistId": 6742584,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Rocío Dúrcal - Me Nace del Corazón",
-    "answer": "Rocío Dúrcal - Me Nace del Corazón",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3e/0e/17/3e0e1751-4555-18dc-c9fc-cc69fff18a50/mzaf_10610059598242749623.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/54/57/de/5457de7d-5b62-b880-9f96-f66efb587cb1/dj.rvqxjtjn.jpg/400x400bb.jpg"
-  },
-  {
     "id": "drk_sys_config",
     "databases": [
       {

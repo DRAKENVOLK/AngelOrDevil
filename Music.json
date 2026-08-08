@@ -28248,6 +28248,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/57/b3/3157b3d9-6551-e44e-46c0-488686998a05/13UABIM58339.rgb.jpg/400x400bb.jpg"
   },
   {
+    "id": 2592,
+    "date": "2026-08-08 11:07",
+    "cat": "Música",
+    "genre": "Alternativa y rock en español",
+    "artist": "Allison",
+    "artistId": 1094679133,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Allison - Frágil",
+    "answer": "Allison - Frágil",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/13/5e/62135ee6-52a6-cdab-4a2f-410e4db1aa3a/mzaf_7093268541574751524.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/b1/32/c8b132c1-a245-28d8-e250-28857d172eed/mzi.iibdghwq.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2593,
+    "date": "2026-08-08 11:07",
+    "cat": "Música",
+    "genre": "Alternativa y rock en español",
+    "artist": "Allison",
+    "artistId": 1094679133,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Allison - Memorama",
+    "answer": "Allison - Memorama",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/a7/e6/e3a7e619-3519-ab55-ca5c-6fab7bb8314f/mzaf_18046279907391856231.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/71/90/43/719043cc-f5af-565e-82b2-938ff28cb506/mzi.bfdjaiql.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2594,
+    "date": "2026-08-08 11:09",
+    "cat": "Música",
+    "genre": "Rock y Alternativo",
+    "artist": "Moderatto",
+    "artistId": 78366719,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Moderatto - No Hay Otra Manera",
+    "answer": "Moderatto - No Hay Otra Manera",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a5/37/e6/a537e647-3604-f562-4d8a-fbb3307177a7/mzaf_1060010057848789835.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/68/3c/ac683c73-fe59-f1f4-d13e-bcf7045ed91b/00094637615751.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

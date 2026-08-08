@@ -26439,6 +26439,7 @@
     "id": 2478,
     "date": "2026-08-07 21:30",
     "cat": "Música",
+    "genre": "Salsa y tropical",
     "artist": "Grupo Niche",
     "artistId": 89543,
     "title": "Adivina la Canción",
@@ -26446,7 +26447,8 @@
     "answer": "Grupo Niche - La Magia de Tus Besos",
     "targetType": "self",
     "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/18/39/c018392f-2b86-add6-3215-9000fc0b9107/mzaf_5442886206030655337.plus.aac.p.m4a"
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/18/39/c018392f-2b86-add6-3215-9000fc0b9107/mzaf_5442886206030655337.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0a/6a/6e/0a6a6ec2-01f5-aeaa-4562-75b38b7e6c8d/mzi.snxovkeb.jpg/400x400bb.jpg"
   },
   {
     "id": "drk_sys_config",

@@ -11705,8 +11705,8 @@
     "answer": "Oasis - Wonderwall",
     "targetType": "self",
     "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/16/93/ab16933c-6203-3db9-9da9-513ff1c8496d/mzaf_16993612140334549994.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/04/92/e0/0492e08b-cbcc-9969-9ad6-8f5a0888068c/5051961007107.jpg/400x400bb.jpg"
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ea/a8/c8/eaa8c8c2-3927-aa05-f2f2-8798104c0365/mzaf_2256330201720040258.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/400x400bb.jpg"
   },
   {
     "id": 1482,
@@ -30182,6 +30182,38 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f5/76/a4/f576a453-07c2-6c04-5b71-f69733e6a455/mzaf_16532051523167714532.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e0/08/68/e0086828-0f2d-0b41-66b7-f01df425370b/artwork.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2746,
+    "date": "2026-08-08 17:33",
+    "cat": "Música",
+    "genre": "Rock: Independiente",
+    "artist": "Oasis",
+    "artistId": 512633,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Oasis - Stop Crying Your Heart Out",
+    "answer": "Oasis - Stop Crying Your Heart Out",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/55/60/de5560d2-0247-f079-a413-8870f7cf8bd5/mzaf_11324810015948381501.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/78/a2/cd78a2a4-7e3d-ccec-b204-dda064f065a3/5051083000406.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2747,
+    "date": "2026-08-08 17:33",
+    "cat": "Música",
+    "genre": "Rock: Independiente",
+    "artist": "Oasis",
+    "artistId": 512633,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Oasis - Champagne Supernova (Remastered)",
+    "answer": "Oasis - Champagne Supernova (Remastered)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/d8/55/fad85524-f55e-2ba5-8d55-99b02e6d0cc2/mzaf_15063109362104085757.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/400x400bb.jpg"
   },
   {
     "id": "drk_sys_config",

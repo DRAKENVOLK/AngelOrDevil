@@ -28680,6 +28680,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/06/12/71061278-8fac-7302-7192-1c00fd9b95c3/mzi.umzwpped.jpg/400x400bb.jpg"
   },
   {
+    "id": 2651,
+    "date": "2026-08-08 12:27",
+    "cat": "Música",
+    "genre": "Rock y Alternativo",
+    "artist": "Fito Páez",
+    "artistId": 88939,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Fito Páez - Al Lado del Camino",
+    "answer": "Fito Páez - Al Lado del Camino",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/d0/bf/3fd0bfa5-c0cd-7da7-3cdf-e75cb3954492/mzaf_14069416669292000004.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/86/e7/f1/86e7f127-30d0-57c9-1258-5d1e8f5d0d34/mzi.cgnxrbrd.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2652,
+    "date": "2026-08-08 12:27",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Fito Páez",
+    "artistId": 88939,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Fito Páez - Dar Es Dar",
+    "answer": "Fito Páez - Dar Es Dar",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/26/56/87/265687ee-97d8-7750-4826-a3286a43bd5c/mzaf_15999148427190940831.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/ee/c7/17/mzi.nknfzssh.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

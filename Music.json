@@ -5650,8 +5650,8 @@
     "answer": "Magneto - Cuarenta Grados (Tudo a Ver Com Teu Olhar)",
     "targetType": "self",
     "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/75/52/5e/75525ea1-cbae-536c-c3a5-cf02a14a3b0e/mzaf_4602282666821706535.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/a5/cd/28/a5cd2869-a114-5bf2-2da7-bb920742013c/886444009911.jpg/400x400bb.jpg"
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/18/5c/b8/185cb8b3-221b-674d-553d-9b56e1166a79/mzaf_5552536675275265622.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2f/da/6e/2fda6ed5-02fa-28c1-35ec-06a6aca620f9/7509949915923.jpg/400x400bb.jpg"
   },
   {
     "id": 1045,
@@ -28710,6 +28710,22 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/26/56/87/265687ee-97d8-7750-4826-a3286a43bd5c/mzaf_15999148427190940831.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/ee/c7/17/mzi.nknfzssh.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2653,
+    "date": "2026-08-08 12:30",
+    "cat": "Música",
+    "genre": "Pop en español",
+    "artist": "Magneto",
+    "artistId": 82450050,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Magneto - Las Palabras",
+    "answer": "Magneto - Las Palabras",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/dd/1f/3e/dd1f3e70-7782-34b8-5eaf-95896295bccb/mzaf_5949084106759535674.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/c5/22/86c5220b-92ce-e8f3-4559-868878c38147/mzi.pynntbfj.jpg/400x400bb.jpg"
   },
   {
     "id": "drk_sys_config",

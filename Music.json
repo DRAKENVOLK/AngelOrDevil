@@ -26508,6 +26508,25 @@
     "segmentDuration": 56
   },
   {
+    "id": 2482,
+    "date": "2026-08-07 21:57",
+    "cat": "Música",
+    "genre": "SoundCloud",
+    "artist": "Stephanie Cayo",
+    "title": "Dejarte Ir",
+    "text": "",
+    "term": "Stephanie Cayo - Dejarte Ir",
+    "answer": "Stephanie Cayo - Dejarte Ir",
+    "targetType": "self",
+    "limit": 1,
+    "source": "soundcloud",
+    "previewUrl": "https://soundcloud.com/stephaniecayo/stephanie-cayo-dejarte-ir",
+    "artworkUrl": "https://i1.sndcdn.com/artworks-000030649867-rjjfkt-t500x500.jpg",
+    "startTime": 46,
+    "endTime": 80,
+    "segmentDuration": 34
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

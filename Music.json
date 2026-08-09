@@ -31064,6 +31064,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e9/7c/0b/e97c0ba9-7c68-231f-044c-aefe763ed412/886445713541.jpg/400x400bb.jpg"
   },
   {
+    "id": 2802,
+    "date": "2026-08-08 21:59",
+    "cat": "Música",
+    "genre": "Rock",
+    "artist": "Rio",
+    "artistId": 1140103464,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Rio - La Universidad (cosa de Locos)",
+    "answer": "Rio - La Universidad (cosa de Locos)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b5/59/1b/b5591bdd-fb1a-59df-f31a-961d9465019b/mzaf_12858892622487931804.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ee/4c/da/ee4cdabc-3ece-07e9-5a5a-43f746c8ab9e/634654361202.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2803,
+    "date": "2026-08-08 22:05",
+    "cat": "Música",
+    "genre": "Latin",
+    "artist": "Rio",
+    "artistId": 1477356653,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Rio - Tu Eres Mi Princesa",
+    "answer": "Rio - Tu Eres Mi Princesa",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ba/88/d0/ba88d087-51f4-3817-9ec9-350f1fa81592/mzaf_6064890983137197651.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/17/5f/8f/175f8f66-f617-058f-fae5-a2eaaded3b1c/0.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

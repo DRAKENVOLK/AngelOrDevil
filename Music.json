@@ -15885,22 +15885,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/43/fc/8543fc47-b72e-a9de-92d9-bf0a082878ef/602537869688_cover.jpg/400x400bb.jpg"
   },
   {
-    "id": 1778,
-    "date": "2026-08-02 18:29",
-    "cat": "Música",
-    "genre": "Alternative",
-    "artist": "Of Monsters and Men",
-    "artistId": 487906750,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Of Monsters and Men - Little Talks",
-    "answer": "Of Monsters and Men - Little Talks",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2d/47/ed/2d47edef-3854-096a-c49b-f6299c83e7b1/mzaf_67984575308519465.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a3/a8/c2/a3a8c2ee-79ca-f4f0-8adb-0060e04432fd/12UMGIM10062.rgb.jpg/400x400bb.jpg"
-  },
-  {
     "id": 1779,
     "date": "2026-08-02 18:29",
     "cat": "Música",
@@ -16299,22 +16283,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5b/3f/c6/5b3fc67e-df58-454a-7bf4-0738ec5f28b7/mzaf_15477297088124665805.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/30/13/bd301300-c33a-3373-84c2-47ffd9df384c/mzi.ckihuoee.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 1811,
-    "date": "2026-08-02 18:36",
-    "cat": "Música",
-    "genre": "Rock",
-    "artist": "O.A.R.",
-    "artistId": 1420559,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "O.A.R. - Shattered (Turn the Car Around)",
-    "answer": "O.A.R. - Shattered (Turn the Car Around) [XX Version]",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d5/36/32/d5363238-294b-fe6e-d04f-ae43b9fb626d/mzaf_9744767457911370329.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/e7/c4/90e7c4ef-01d5-65de-efb2-7328c718bbec/16CRGIM00120.rgb.jpg/400x400bb.jpg"
   },
   {
     "id": 1812,

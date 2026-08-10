@@ -33675,6 +33675,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ca/58/e5/ca58e5e3-acb7-8ca3-6af9-ad63af3b71f1/075679873675.jpg/400x400bb.jpg"
   },
   {
+    "id": 3006,
+    "date": "2026-08-10 12:49",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Bruno Mars",
+    "artistId": 278873078,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Bruno Mars - When I Was Your Man",
+    "answer": "Bruno Mars - When I Was Your Man",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/82/d2/9a/82d29a5f-d9a0-57f4-c0ec-f785969240c3/mzaf_5320660780349800682.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3007,
+    "date": "2026-08-10 12:49",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Bruno Mars",
+    "artistId": 278873078,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Bruno Mars - Talking to the Moon",
+    "answer": "Bruno Mars - Talking to the Moon",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/04/2e/0b/042e0b54-86f6-9386-8f7e-9b1ec7faf0af/mzaf_15396534523626746810.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3008,
+    "date": "2026-08-10 12:49",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Bruno Mars",
+    "artistId": 278873078,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Bruno Mars - The Lazy Song",
+    "answer": "Bruno Mars - The Lazy Song",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fc/97/06/fc970689-4bae-9bbb-32a7-3b91a8bdb896/mzaf_7145624423213884384.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

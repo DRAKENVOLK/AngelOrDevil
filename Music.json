@@ -15678,22 +15678,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/a5/09/96a50916-169b-724c-b722-b8c474406352/13UAAIM68691.rgb.jpg/400x400bb.jpg"
   },
   {
-    "id": 1771,
-    "date": "2026-08-02 18:29",
-    "cat": "Música",
-    "genre": "Alternative",
-    "artist": "Fun.",
-    "artistId": 138226712,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Fun. - Some Nights",
-    "answer": "Fun. - Some Nights",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/74/9b/fd749b38-22b2-2820-fe5e-2ed8849a1da0/mzaf_6723634430028206406.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/99/62/43996219-f524-b168-461e-233d3005a4a6/075679954497.jpg/400x400bb.jpg"
-  },
-  {
     "id": 1773,
     "date": "2026-08-02 18:29",
     "cat": "Música",
@@ -15772,22 +15756,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/1f/e6/5f1fe623-efca-398e-8bd7-9fb0edea89f1/mzaf_9210645182707764959.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/57/96/fe/5796fe01-7f69-8054-9ac2-1fea6b051f18/884977928860.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 1780,
-    "date": "2026-08-02 18:29",
-    "cat": "Música",
-    "genre": "Alternative",
-    "artist": "Fitz and The Tantrums",
-    "artistId": 321144807,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Fitz and the Tantrums - HandClap",
-    "answer": "Fitz and The Tantrums - HandClap",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/8c/12/5d8c1265-f365-daf3-c10d-df6bb6ccdd6a/mzaf_9986091473055891336.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/6d/e6/046de62c-926c-d391-8c6b-ad96939a44c4/075679889928.jpg/400x400bb.jpg"
   },
   {
     "id": 1783,
@@ -16172,38 +16140,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/22/fc/3922fc64-45f0-dbbd-bb73-3a7c9c56df89/mzaf_13063874552116068608.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ea/35/a1/ea35a127-b30c-0c76-941a-16db9757bea6/075679958501.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 1817,
-    "date": "2026-08-02 18:36",
-    "cat": "Música",
-    "genre": "Rock",
-    "artist": "Five for Fighting",
-    "artistId": 468280,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Five for Fighting - Superman (It's Not Easy)",
-    "answer": "Five for Fighting - Superman (It's Not Easy)",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/31/be/ee31bec3-3311-34fd-5707-bdf34ca254ca/mzaf_910599530402852369.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/60/46/3b604692-e7e2-f35f-01e2-4dd66e4eaf63/074648514922.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 1818,
-    "date": "2026-08-02 18:36",
-    "cat": "Música",
-    "genre": "Rock",
-    "artist": "Five for Fighting",
-    "artistId": 468280,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Five for Fighting - 100 Years",
-    "answer": "Five for Fighting - 100 Years",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/24/c8/57/24c85741-d42e-8b2b-8ff5-abad3660b895/mzaf_11403625891178160559.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/a0/64/baa064f8-20e8-58d8-06a8-1608f8598b6c/mzi.zlkclpqo.jpg/400x400bb.jpg"
   },
   {
     "id": 1819,

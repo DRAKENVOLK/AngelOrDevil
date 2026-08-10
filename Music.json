@@ -32331,6 +32331,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d7/b2/ad/d7b2ad63-a4e0-ef4e-7f72-bfb3d0a2c031/194491095079.jpg/400x400bb.jpg"
   },
   {
+    "id": 2920,
+    "date": "2026-08-10 11:13",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Ava Max",
+    "artistId": 1265164818,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Ava Max - Sweet but Psycho",
+    "answer": "Ava Max - Sweet but Psycho",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c2/b8/25/c2b8258e-4308-65c3-eabf-4a7e966f8a6e/mzaf_4284221982770858534.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/82/96/33/829633d2-e11f-6f2b-3f33-d4e205ff15df/075679872401.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2921,
+    "date": "2026-08-10 11:13",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "SAINt JHN",
+    "artistId": 1133442919,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "SAINt JHN - Roses",
+    "answer": "SAINt JHN - Roses (Imanbek Remix) [Mixed]",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/13/50/91/13509193-d840-c424-42b4-41e07072a8ee/mzaf_13688169673497811845.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/55/10/9955107a-bf03-70a4-b7ff-a58b15363e59/1731b38f-3989-45ba-8567-a3ad1db66c46.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

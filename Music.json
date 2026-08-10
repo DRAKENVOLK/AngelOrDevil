@@ -33339,6 +33339,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/db/5a/12db5a38-94c1-42bc-b36b-7204b7aa4eac/5021732768650.jpg/400x400bb.jpg"
   },
   {
+    "id": 2984,
+    "date": "2026-08-10 12:06",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Aitana",
+    "artistId": 1302824608,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Aitana - Teléfono",
+    "answer": "Aitana - Teléfono",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/4a/fe/054afe92-7ae0-4bf2-7091-a9985b0a26fe/mzaf_10381120954496955784.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fe/c3/95/fec39501-8fd7-a1f0-c99d-21bda562f4b1/18UMGIM41026.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

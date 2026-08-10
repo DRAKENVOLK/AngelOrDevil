@@ -31624,6 +31624,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/ca/a1/ce/caa1ce8f-af5d-37eb-f843-1a8882c82c03/00094639502257.jpg/400x400bb.jpg"
   },
   {
+    "id": 2847,
+    "date": "2026-08-10 07:00",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Benny Ibarra",
+    "artistId": 61240057,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Benny Ibarra - Cielo 2002",
+    "answer": "Benny Ibarra - Cielo 2002",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/77/9a/fd/779afdc9-c491-4737-65b1-20924f055c89/mzaf_15863557423193559724.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/76/b4/a1/mzi.mzttafev.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

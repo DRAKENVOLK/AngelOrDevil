@@ -31754,6 +31754,86 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features/a4/c4/d6/dj.ybjgejjf.jpg/400x400bb.jpg"
   },
   {
+    "id": 2882,
+    "date": "2026-08-10 09:27",
+    "cat": "Música",
+    "genre": "Latin",
+    "artist": "Aleks Syntek",
+    "artistId": 475033,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Aleks Syntek - Solo por Ti",
+    "answer": "Aleks Syntek - Solo por Ti",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/37/ae/93/37ae93d5-fbf9-9c6f-0698-4b056ad573ed/mzaf_5617080246743752000.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/b3/ad/dd/b3adddad-4ea9-d472-15f1-9541e3f3a54b/00724353574857.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2883,
+    "date": "2026-08-10 09:27",
+    "cat": "Música",
+    "genre": "Latin",
+    "artist": "Aleks Syntek",
+    "artistId": 475033,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Aleks Syntek - Llename de Amor",
+    "answer": "Aleks Syntek - Llename de Amor",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9e/99/c1/9e99c177-c547-3bfd-4a7e-dc3890fb75e2/mzaf_17543746146024246032.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/b3/ad/dd/b3adddad-4ea9-d472-15f1-9541e3f3a54b/00724353574857.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2884,
+    "date": "2026-08-10 09:27",
+    "cat": "Música",
+    "genre": "Latin",
+    "artist": "Aleks Syntek",
+    "artistId": 475033,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Aleks Syntek - Solo Buscamos",
+    "answer": "Aleks Syntek - Solo Buscamos",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/f0/03/33f00336-1257-7959-f743-289287d726d2/mzaf_6308267837457112989.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/b3/ad/dd/b3adddad-4ea9-d472-15f1-9541e3f3a54b/00724353574857.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2885,
+    "date": "2026-08-10 09:27",
+    "cat": "Música",
+    "genre": "Latin",
+    "artist": "Aleks Syntek",
+    "artistId": 475033,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Aleks Syntek - Karma Mortal",
+    "answer": "Aleks Syntek - Karma Mortal",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/25/e6/d4/25e6d493-a7df-9293-806a-15db8a92c819/mzaf_6857403958964560174.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/b3/ad/dd/b3adddad-4ea9-d472-15f1-9541e3f3a54b/00724353574857.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2886,
+    "date": "2026-08-10 09:27",
+    "cat": "Música",
+    "genre": "Latin",
+    "artist": "Aleks Syntek",
+    "artistId": 475033,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Aleks Syntek - Clonacion",
+    "answer": "Aleks Syntek - Clonacion",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e0/c7/4c/e0c74cc2-7fe8-b871-ee3d-faf143de89a1/mzaf_4619672732546533721.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/b3/ad/dd/b3adddad-4ea9-d472-15f1-9541e3f3a54b/00724353574857.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {
@@ -31857,20 +31937,5 @@
       "Movies.json",
       "previa.json"
     ]
-  },
-  {
-    "id": null,
-    "date": "2026-07-22 09:22",
-    "cat": "Música",
-    "genre": "Música tropical",
-    "artist": "Antonio Cartagena",
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "273. Antonio Cartagena – Necesito un Amor",
-    "answer": "Antonio Cartagena - Necesito un Amor",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/10/a7/8e/10a78e46-246e-5238-e481-0dd0478394cb/mzaf_9408903121815917014.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/86/27/cc/8627ccc0-a5f9-81bc-f5db-428a689371c5/cover.jpg/400x400bb.jpg"
   }
 ]

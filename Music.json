@@ -31857,5 +31857,20 @@
       "Movies.json",
       "previa.json"
     ]
+  },
+  {
+    "id": null,
+    "date": "2026-07-22 09:22",
+    "cat": "Música",
+    "genre": "Música tropical",
+    "artist": "Antonio Cartagena",
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "273. Antonio Cartagena – Necesito un Amor",
+    "answer": "Antonio Cartagena - Necesito un Amor",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/10/a7/8e/10a78e46-246e-5238-e481-0dd0478394cb/mzaf_9408903121815917014.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/86/27/cc/8627ccc0-a5f9-81bc-f5db-428a689371c5/cover.jpg/400x400bb.jpg"
   }
 ]

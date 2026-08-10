@@ -31912,6 +31912,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f6/19/ea/f619ea4f-76d3-4d7d-247c-27b9e8b8d3a1/mzi.tzympasw.jpg/400x400bb.jpg"
   },
   {
+    "id": 2865,
+    "date": "2026-08-10 07:29",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Guaraná",
+    "artistId": 147201078,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Guaraná - Echame a Mí la Culpa",
+    "answer": "Guaraná - Echame a Mí la Culpa",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fb/6b/36/fb6b3623-3a39-c384-a9d8-2ab4a30feca7/mzaf_8170224539457300911.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/8d/4f/3f/mzi.fqftrmyz.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

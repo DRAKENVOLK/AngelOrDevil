@@ -32299,6 +32299,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/1d/05/4b1d0591-6f40-2206-6b35-ee7233dc28e0/0.jpg/400x400bb.jpg"
   },
   {
+    "id": 2918,
+    "date": "2026-08-10 10:30",
+    "cat": "Música",
+    "genre": "Pop in Spanish",
+    "artist": "Princesa Alba",
+    "artistId": 1265324498,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Princesa Alba - Convéncete",
+    "answer": "Princesa Alba - Convéncete",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/82/90/6f/82906fb2-d490-87b0-02c5-4497127d3b70/mzaf_15693523019682236101.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/46/22/6d/46226d3a-9755-b815-4752-d4592c08ebb9/8429006375493.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 2919,
+    "date": "2026-08-10 10:31",
+    "cat": "Música",
+    "genre": "Latin",
+    "artist": "Myke Towers",
+    "artistId": 1210225867,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Myke Towers, Rauw Alejandro & Noriel - Cuerpo en Venta (feat. Almighty)",
+    "answer": "Myke Towers, Rauw Alejandro & Noriel - Cuerpo en Venta (feat. Almighty)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ef/5c/97/ef5c9757-0779-ca32-162b-ec0cb9bc6065/mzaf_13203733197796605601.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d7/b2/ad/d7b2ad63-a4e0-ef4e-7f72-bfb3d0a2c031/194491095079.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

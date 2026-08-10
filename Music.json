@@ -9916,8 +9916,8 @@
     "answer": "KAROL G & Nicki Minaj - Tusa",
     "targetType": "self",
     "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ef/ae/e2/efaee27d-785f-b28e-4773-0d9c04b709e9/mzaf_11806685643541463768.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/13/32/be/1332be24-5c7f-8050-36b7-0862c83a1b69/23UM1IM08464.rgb.jpg/400x400bb.jpg"
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/24/29/00242929-c78e-7620-ad24-6c55513347a4/mzaf_11620478398309974287.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/ab/c9/98abc973-ae06-d1c6-3ec4-eb5c0a45b4a5/19UMGIM93544.rgb.jpg/400x400bb.jpg"
   },
   {
     "id": 1369,
@@ -33721,6 +33721,22 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fc/97/06/fc970689-4bae-9bbb-32a7-3b91a8bdb896/mzaf_7145624423213884384.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3009,
+    "date": "2026-08-10 13:15",
+    "cat": "Música",
+    "genre": "Urbano latino",
+    "artist": "KAROL G",
+    "artistId": 290814601,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "KAROL G - BICHOTA",
+    "answer": "KAROL G - BICHOTA",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/93/4f/b5934f99-417d-9bfd-2c94-f539763dc1c8/mzaf_6722811917126698686.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/71/9d/22719dc1-5a6d-4997-59a8-c55ca74bc793/20UMGIM85806.rgb.jpg/400x400bb.jpg"
   },
   {
     "id": "drk_sys_config",

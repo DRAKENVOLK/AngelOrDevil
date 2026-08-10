@@ -31608,6 +31608,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a5/fa/94/a5fa9458-a674-9cf2-daa2-b0e53f7ce2a9/889211051359.jpg/400x400bb.jpg"
   },
   {
+    "id": 2846,
+    "date": "2026-08-10 06:58",
+    "cat": "Música",
+    "genre": "Música latina",
+    "artist": "Obie Bermúdez",
+    "artistId": 1081129200,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Obie Bermúdez - Me Cansé de Ti",
+    "answer": "Obie Bermúdez - Me Cansé de Ti",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/96/b2/2c/96b22c93-70aa-3291-7c5e-9b1d8659294a/mzaf_7708459493269900437.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/ca/a1/ce/caa1ce8f-af5d-37eb-f843-1a8882c82c03/00094639502257.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

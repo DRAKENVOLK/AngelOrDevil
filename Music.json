@@ -4049,21 +4049,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f6/c8/5a/f6c85a1c-e4ea-164c-bf10-6efa197e977a/21UM1IM48420.rgb.jpg/400x400bb.jpg"
   },
   {
-    "id": 932,
-    "date": "2026-05-18 17:03",
-    "cat": "Música",
-    "genre": "Pop",
-    "artist": "Natalino & Massimo Di Cataldo",
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Natalino & Massimo Di Cataldo Si Dices Que Te Vas",
-    "answer": "Natalino & Massimo Di Cataldo - Si Dices Que Te Vas",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/25/6d/49256d0d-b0f3-0c2a-73c9-334421a34934/mzaf_7954346824985727785.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/a7/d2/f8a7d200-74a9-1e7f-592f-0d8933ecce27/5021732371355.jpg/400x400bb.jpg"
-  },
-  {
     "id": 933,
     "date": "2026-05-18 17:04",
     "cat": "Música",
@@ -8797,22 +8782,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b0/99/e8/b099e8f1-370d-7814-c75f-ae2e5313aaf6/mzi.ghqlcxdt.jpg/400x400bb.jpg"
   },
   {
-    "id": 1278,
-    "date": "2026-08-02 01:22",
-    "cat": "Música",
-    "genre": "Rock",
-    "artist": "Meat Loaf",
-    "artistId": 60358,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Meat Loaf - I'd Do Anything for Love (But I Won't Do That)",
-    "answer": "Meat Loaf - I'd Do Anything for Love (But I Won't Do That) [Single Edit]",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7a/e4/84/7ae484a8-11d3-1df8-3dd1-54c58ce8bc61/mzaf_16867077916791661279.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ca/46/04/ca460464-b911-0fdb-ff1a-a5b735c22cfe/00008811281021.rgb.jpg/400x400bb.jpg"
-  },
-  {
     "id": 1280,
     "date": "2026-08-02 01:27",
     "cat": "Música",
@@ -9147,22 +9116,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/5d/2a/235d2ab1-5412-c512-b004-01a7a69f5050/mzaf_6048540383318221725.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/6b/92/0f6b92f7-52e1-67e4-6a7b-7196ef793cdc/080688551261.png/400x400bb.jpg"
-  },
-  {
-    "id": 1305,
-    "date": "2026-08-02 01:27",
-    "cat": "Música",
-    "genre": "Pop",
-    "artist": "LeAnn Rimes",
-    "artistId": 521500,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "LeAnn Rimes - How Do I Live",
-    "answer": "LeAnn Rimes - How Do I Live",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4d/ef/28/4def28e2-d5f9-bb9b-1375-f796f497ecdd/mzaf_17123416104986307948.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/3d/eb/c5/mzi.riprnpji.jpg/400x400bb.jpg"
   },
   {
     "id": 1306,
@@ -9547,22 +9500,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/b0/2a/f3b02a56-a5bf-e940-4370-2e0a609f1cb4/mzaf_16264556580562087321.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/dc/90/3bdc90a2-3697-0c5e-3265-65ccaa7dcbb3/14UMGIM00847.rgb.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 1335,
-    "date": "2026-08-02 01:47",
-    "cat": "Música",
-    "genre": "Pop",
-    "artist": "Matchbox Twenty",
-    "artistId": 711111,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Matchbox Twenty - Push",
-    "answer": "Matchbox Twenty - Push",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/0e/a0/5b0ea0ab-1105-615c-96b7-cb00d9799fd3/mzaf_4223696966788393692.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/24/30/be243026-a149-dc9d-ef3b-d01fef6da03f/075679957535.jpg/400x400bb.jpg"
   },
   {
     "id": 1336,
@@ -12205,22 +12142,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/4e/33/394e3318-f803-51f2-7f28-10e63b45a6d3/5060186926902_1.jpg/400x400bb.jpg"
   },
   {
-    "id": 1524,
-    "date": "2026-08-02 12:59",
-    "cat": "Música",
-    "genre": "Pop",
-    "artist": "Matchbox Twenty",
-    "artistId": 711111,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Matchbox Twenty - 3AM",
-    "answer": "Matchbox Twenty - 3 am",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1a/68/7f/1a687f1d-68fa-2c6d-7f84-3cc6ba56e058/mzaf_14873767130143969472.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/24/30/be243026-a149-dc9d-ef3b-d01fef6da03f/075679957535.jpg/400x400bb.jpg"
-  },
-  {
     "id": 1526,
     "date": "2026-08-02 12:59",
     "cat": "Música",
@@ -14859,22 +14780,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/4a/d3/314ad383-916e-7701-db82-d71da443b036/mzaf_18162176900343861462.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7d/e0/9d/7de09dbb-87eb-9725-b5e8-316b3ee5ff42/08UMGIM27952.rgb.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 1704,
-    "date": "2026-08-02 16:44",
-    "cat": "Música",
-    "genre": "R&B/Soul",
-    "artist": "Ne-Yo featuring Kanye West",
-    "artistId": 78257321,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Ne-Yo - Because of You",
-    "answer": "Ne-Yo featuring Kanye West - Because of You (Remix) [Featuring Kanye West]",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/38/6e/7b/386e7be4-edef-6e3b-3fc1-d466894ca1f4/mzaf_11247247349413353054.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b8/40/c3/b840c3bc-3bef-1a41-4862-5ce5dd7489e4/00602517368460.rgb.jpg/400x400bb.jpg"
   },
   {
     "id": 1706,
@@ -17741,38 +17646,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/59/6a/89596ab9-fa3c-8d08-4d95-a6450fa2013c/886449400515.jpg/400x400bb.jpg"
   },
   {
-    "id": 1925,
-    "date": "2026-08-02 19:27",
-    "cat": "Música",
-    "genre": "Alternative",
-    "artist": "Lewis Capaldi",
-    "artistId": 1213405916,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Lewis Capaldi - Before You Go",
-    "answer": "Lewis Capaldi - Before You Go",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/60/b9/cc/60b9cc69-2e37-f867-bc15-91e2ce767b4a/mzaf_18421692819209045993.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/58/7c/9f587c97-f0e9-e335-d8e2-60b8e2d62bad/19UMGIM90850.rgb.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 1926,
-    "date": "2026-08-02 19:27",
-    "cat": "Música",
-    "genre": "Alternative",
-    "artist": "Lewis Capaldi",
-    "artistId": 1213405916,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Lewis Capaldi - Wish You the Best",
-    "answer": "Lewis Capaldi - Wish You The Best",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/32/6b/d4326beb-e479-f5f8-61fd-d218bce04a80/mzaf_15986460030463037606.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6a/d1/31/6ad13122-f6fb-1ed3-ae05-26450bc1be9c/22UM1IM16742.rgb.jpg/400x400bb.jpg"
-  },
-  {
     "id": 1929,
     "date": "2026-08-02 19:27",
     "cat": "Música",
@@ -17851,22 +17724,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/95/fe/fb95fea4-aab2-151d-7e2d-a3b2740de243/mzaf_5007348610386911589.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/1b/f1/5e1bf1de-e5f1-e73e-0752-e7882b4f2d57/886444718820.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 1934,
-    "date": "2026-08-02 19:27",
-    "cat": "Música",
-    "genre": "Pop",
-    "artist": "Labrinth",
-    "artistId": 205732582,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Labrinth - Jealous",
-    "answer": "Labrinth - Jealous",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a5/ed/74/a5ed7400-0651-6593-a1f3-2976ac6e3749/mzaf_460901585079471463.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/8d/66/618d66e6-c256-ef8f-d068-ead507f47609/886444898225.jpg/400x400bb.jpg"
   },
   {
     "id": 1936,
@@ -22011,22 +21868,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/af/c8/5f/afc85f98-95a4-84ee-9f00-c6c9e788483c/mzaf_12515326289843747608.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/42/82/fd428292-f6f2-d05b-2dc8-314fc6e10c89/zion_y_lennox-motivando_a_la_yal-interior_frontal-1397089432.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 2215,
-    "date": "2026-08-05 23:02",
-    "cat": "Música",
-    "genre": "Música Mexicana",
-    "artist": "Los Gemelos De Sinaloa",
-    "artistId": 933661461,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Bad Bunny - Me Porto Bonito",
-    "answer": "Los Gemelos De Sinaloa - ME PORTO BONITO",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/76/80/247680e2-5db6-39a1-8433-ab351b2ed2f3/mzaf_5786105454696540558.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/bb/ef/72bbefd0-28b6-7a92-5c29-9514858633a4/717340560957_cover.jpg/400x400bb.jpg"
   },
   {
     "id": 2216,

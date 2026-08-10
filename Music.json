@@ -31819,6 +31819,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/b3/ad/dd/b3adddad-4ea9-d472-15f1-9541e3f3a54b/00724353574857.jpg/400x400bb.jpg"
   },
   {
+    "id": 2887,
+    "date": "2026-08-10 09:34",
+    "cat": "Música",
+    "genre": "Urbano latino",
+    "artist": "Ela Taubert",
+    "artistId": 1463459693,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Ela Taubert - ¿Cómo Pasó?",
+    "answer": "Ela Taubert - ¿Cómo Pasó?",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/1b/0c/bb1b0c32-1fe7-82cc-2467-04b4d20f1ef9/mzaf_4507931282167754465.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/55/75/745575aa-5f99-8b9c-3615-cf1c9867c6ad/24UMGIM07343.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

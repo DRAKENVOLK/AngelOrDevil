@@ -35275,6 +35275,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cd/7c/9d/cd7c9dd5-90b0-a5f1-dc1b-5e4b857ae027/35965.jpg/400x400bb.jpg"
   },
   {
+    "id": 3109,
+    "date": "2026-08-10 23:11",
+    "cat": "Música",
+    "genre": "R&B/Soul",
+    "artist": "Aya Nakamura",
+    "artistId": 1042004371,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Aya Nakamura - Copines",
+    "answer": "Aya Nakamura - Copines",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2d/28/94/2d289432-3aa7-2d68-0361-44de89ad019e/mzaf_18057718586469886456.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8c/98/70/8c9870a0-dfaf-9fd4-7003-d0f2c4db52fe/190295329389.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

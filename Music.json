@@ -34987,6 +34987,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/e5/b4/45e5b409-0564-a7a3-186c-1dc116c3ffb7/06UMGIM49712.rgb.jpg/400x400bb.jpg"
   },
   {
+    "id": 3091,
+    "date": "2026-08-10 22:57",
+    "cat": "Música",
+    "genre": "Rock",
+    "artist": "Mar de Copas",
+    "artistId": 672239797,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Mar de Copas - Ramera",
+    "answer": "Mar de Copas - Ramera",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/29/8b/50/298b5050-7ca8-eefa-1427-18528b29f729/mzaf_18144796099734398082.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/d1/34/20d1341d-7e15-5831-710b-1e7ab14162a6/dj.udrklfer.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

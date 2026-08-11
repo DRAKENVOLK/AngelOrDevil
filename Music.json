@@ -18240,22 +18240,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/25/8e/eb/258eebb1-fcd0-ea8c-69bd-8e293fe71aef/190295876913.jpg/400x400bb.jpg"
   },
   {
-    "id": 1985,
-    "date": "2026-08-03 00:07",
-    "cat": "Música",
-    "genre": "Pop Latino",
-    "artist": "Mau",
-    "artistId": 1096068683,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Mau y Ricky - Desconocidos",
-    "answer": "Mau y Ricky, Cecilia Mirabile, Francisco Oscar Escudero, Ivan Papetti, Jazmín Sparta, Juana Bestard & Octavio Muratore - Desconocidos (En Directo En La Voz / 2022)",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/93/f7/68/93f76883-c2df-3207-7d86-c8cf01d97e65/mzaf_18017838117256390336.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5b/60/30/5b603079-81ae-c272-db1b-abe7d66c8e93/22UM1IM08284.rgb.jpg/400x400bb.jpg"
-  },
-  {
     "id": 1986,
     "date": "2026-08-03 00:07",
     "cat": "Música",
@@ -34169,6 +34153,22 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/19/ee/4019eebe-d5b6-b0d8-f87d-5e0439c9815e/mzaf_2742233390898947266.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/18/53/ee/mzi.mhetbzxr.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3039,
+    "date": "2026-08-10 21:52",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Mau",
+    "artistId": 1096068683,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Mau y Ricky, Manuel Turizo & Camilo - Desconocidos",
+    "answer": "Mau y Ricky, Manuel Turizo & Camilo - Desconocidos",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/24/9b/d0/249bd0e5-cad4-eb14-5ff7-3ced2070c48c/mzaf_11896353806276757366.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/a2/8f/bea28f1c-abe0-4ec3-4009-35fe2a1f675a/886447357736.jpg/400x400bb.jpg"
   },
   {
     "id": "drk_sys_config",

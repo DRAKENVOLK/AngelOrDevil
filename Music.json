@@ -35554,21 +35554,5 @@
       "Movies.json",
       "previa.json"
     ]
-  },
-  {
-    "id": null,
-    "date": "2026-08-06 15:04",
-    "cat": "Música",
-    "genre": "Rock y Alternativo",
-    "artist": "Rata Blanca",
-    "artistId": 220147921,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Rata Blanca - Mujer Amante",
-    "answer": "Rata Blanca - Mujer Amante",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/cb/24/89/cb248959-7149-e136-f243-1087724c703c/mzaf_1017955543611140920.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/2e/81/412e8108-9547-8f38-b2dd-f5f833bdef6e/06UMGIM65842.rgb.jpg/400x400bb.jpg"
   }
 ]

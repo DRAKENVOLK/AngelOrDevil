@@ -14044,8 +14044,8 @@
     "answer": "Maroon 5 - Sugar",
     "targetType": "self",
     "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/3f/68/1b3f68e0-3c42-f367-cd0f-e46c746e0668/mzaf_15052021441666328650.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b7/25/76/b72576f1-072e-3da2-60d5-2724a9bccf4a/14UMGIM31673.rgb.jpg/400x400bb.jpg"
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/26/1b/1b/261b1bec-d490-172b-d8b4-5a6a3e608da3/mzaf_619783954445900898.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/09/af/f5/09aff5b2-a9a0-a357-7d0f-70a937e391b1/00602547297396.rgb.jpg/400x400bb.jpg"
   },
   {
     "id": 1660,
@@ -35657,6 +35657,54 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/4d/5c/784d5cdd-2c1a-2a80-f980-770f71e578d2/mzaf_6885640564524426379.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/6a/4e/906a4e44-9b06-ebd9-322c-eb218dcb81e5/655368678547_Cover.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3133,
+    "date": "2026-08-12 10:49",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Maroon 5",
+    "artistId": 1798556,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Maroon 5 - This Love",
+    "answer": "Maroon 5 - This Love",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/0b/8d/790b8d2f-dae6-9380-87ec-6acd52806e49/mzaf_4263648516794463383.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/12/fe/eb12fe62-1e28-ebfd-0daa-f9aa66bbb882/12UMGIM15818.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3134,
+    "date": "2026-08-12 10:49",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Maroon 5",
+    "artistId": 1798556,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Maroon 5 - Sunday Morning",
+    "answer": "Maroon 5 - Sunday Morning",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/25/67/152567f2-72bf-be05-e0fd-cd413a06837d/mzaf_15981746673146698020.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/12/fe/eb12fe62-1e28-ebfd-0daa-f9aa66bbb882/12UMGIM15818.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3135,
+    "date": "2026-08-12 10:56",
+    "cat": "Música",
+    "genre": "Urbano latino",
+    "artist": "N.O.R.E.",
+    "artistId": 139892,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "N.O.R.E. - Oye Mi Canto",
+    "answer": "N.O.R.E. - Oye Mi Canto",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c9/4c/98/c94c986d-fdd1-c7b0-f482-144a8c82db1a/mzaf_1117898296465389054.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/46/46/6a/46466a3b-bd39-5941-9d02-0bb5da7ee705/dj.vugpwnty.jpg/400x400bb.jpg"
   },
   {
     "id": "drk_sys_config",

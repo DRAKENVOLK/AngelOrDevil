@@ -36299,6 +36299,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3e/d0/6c/3ed06c03-f34e-b332-e198-f3029bf4e73b/886296603237_1.jpg/400x400bb.jpg"
   },
   {
+    "id": 3173,
+    "date": "2026-08-12 13:50",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Las Ketchup",
+    "artistId": 525316,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Las Ketchup - Aserejé (Spanish Version)",
+    "answer": "Las Ketchup - Aserejé (Spanish Version)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d2/5f/4e/d25f4e31-cbc1-80e4-dcd9-eaf9b7b0349c/mzaf_5639645271460041648.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/65/32/116532c7-18c0-74d0-38ac-d70d5a530ee8/192562539507.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

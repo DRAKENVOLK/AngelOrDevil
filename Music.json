@@ -35963,6 +35963,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ae/76/9e/ae769e23-786f-e26c-fecb-8d8b367cfd49/196006837082.jpg/400x400bb.jpg"
   },
   {
+    "id": 3152,
+    "date": "2026-08-12 12:23",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Mayra Goñi",
+    "artistId": 1027174832,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Mayra Goñi & Piwaiti - Maldito (Remix)",
+    "answer": "Mayra Goñi & Piwaiti - Maldito (Remix)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fb/67/c1/fb67c1c9-3ec8-77e9-5a78-55ab952af495/mzaf_13978757612162714382.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6e/8c/75/6e8c75dc-58f8-5103-5422-aa7a7ae46b18/0.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3153,
+    "date": "2026-08-12 12:23",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "David Bisbal",
+    "artistId": 19815831,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "David Bisbal - Dígale",
+    "answer": "David Bisbal - Dígale",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/7c/01/0d7c0182-fb3d-4fa5-5519-fea39c01264f/mzaf_16266943689732982025.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/04/47/560447f6-d78f-5a30-4714-9b972ab767a4/00602547823885.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3154,
+    "date": "2026-08-12 12:23",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "David Bisbal",
+    "artistId": 19815831,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "David Bisbal - Ave María",
+    "answer": "David Bisbal - Ave María",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0b/cc/d9/0bccd978-bdcc-e1bc-1924-96002303f8c1/mzaf_17230671593773698238.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/04/47/560447f6-d78f-5a30-4714-9b972ab767a4/00602547823885.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

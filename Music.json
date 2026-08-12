@@ -35403,6 +35403,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/6f/6f/896f6f6c-1196-fe3b-312e-699f5a6ae5e9/612891008029.jpg/400x400bb.jpg"
   },
   {
+    "id": 3117,
+    "date": "2026-08-11 22:30",
+    "cat": "Música",
+    "genre": "Hip-Hop/Rap",
+    "artist": "Greeicy",
+    "artistId": 1261107093,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Greeicy - Amantes (feat. Mike Bahía)",
+    "answer": "Greeicy - Amantes (feat. Mike Bahía)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c3/4e/8c/c34e8cb0-0a8f-a3aa-0f82-99f879bf9542/mzaf_15279243195875276042.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/13/03/41130301-bb1b-30f5-111f-696a64f3bd22/0.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3118,
+    "date": "2026-08-11 22:31",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Mike Bahía",
+    "artistId": 813897180,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Mike Bahía - Estar Contigo",
+    "answer": "Mike Bahía - Estar Contigo",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/54/88/df/5488df9a-9375-2995-7c74-d70acc65da31/mzaf_778456487962362232.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6b/57/e9/6b57e9e6-98b3-5497-8ef4-dccfb7fefb0c/0.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3119,
+    "date": "2026-08-11 22:32",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Mike Bahía",
+    "artistId": 813897180,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Mike Bahía - Buscándote",
+    "answer": "Mike Bahía - Buscándote",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9b/ea/71/9bea7108-11bc-790a-c2db-0e59a68f9d87/mzaf_3775459843569276475.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/32/18/3a/32183a91-f260-e0dd-9627-a3a358453474/0.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

@@ -35554,5 +35554,21 @@
       "Movies.json",
       "previa.json"
     ]
+  },
+  {
+    "id": null,
+    "date": "2026-08-06 15:03",
+    "cat": "Música",
+    "genre": "Rock y Alternativo",
+    "artist": "Rata Blanca",
+    "artistId": 220147921,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Rata Blanca - Talismán",
+    "answer": "Rata Blanca - Talismán",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/64/ac/f0/64acf021-9097-8e03-0f4d-d97a00669937/mzaf_800788100224859918.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/49/38/5349382e-6bcd-6056-7ee7-00d56440234f/dj.xbcsmgxm.jpg/400x400bb.jpg"
   }
 ]

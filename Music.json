@@ -36251,6 +36251,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/71/0c/08/mzi.ssxyweyk.jpg/400x400bb.jpg"
   },
   {
+    "id": 3170,
+    "date": "2026-08-12 13:26",
+    "cat": "Música",
+    "genre": "Pop en español",
+    "artist": "Amanda Miguel",
+    "artistId": 364125,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Amanda Miguel - Así No Te Amará Jamás",
+    "answer": "Amanda Miguel - Así No Te Amará Jamás",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/db/cf/fc/dbcffc55-bf2c-9c05-5757-8b98e106e8fa/mzaf_10403327835940024216.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/84/9d/88849d9c-b892-6c69-a854-724e09dc336d/2261.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3171,
+    "date": "2026-08-12 13:26",
+    "cat": "Música",
+    "genre": "Pop en español",
+    "artist": "Amanda Miguel",
+    "artistId": 364125,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Amanda Miguel - Ámame Una Vez Más",
+    "answer": "Amanda Miguel - Ámame Una Vez Más",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3a/cd/b8/3acdb889-2648-12a3-f031-9ea62200b88d/mzaf_9665825511498333381.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/c5/01/0cc5016d-da61-abb7-8c94-c4a5abced32b/886296603220_1.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3172,
+    "date": "2026-08-12 13:28",
+    "cat": "Música",
+    "genre": "Pop en español",
+    "artist": "Amanda Miguel",
+    "artistId": 364125,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Amanda Miguel - Así Como Hoy",
+    "answer": "Amanda Miguel - Así Como Hoy",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/27/63/91/27639146-f190-5beb-ce56-b1fd4a34d46e/mzaf_622983006314973102.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3e/d0/6c/3ed06c03-f34e-b332-e198-f3029bf4e73b/886296603237_1.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

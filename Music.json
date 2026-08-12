@@ -35451,6 +35451,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/32/18/3a/32183a91-f260-e0dd-9627-a3a358453474/0.jpg/400x400bb.jpg"
   },
   {
+    "id": 3120,
+    "date": "2026-08-11 22:45",
+    "cat": "Música",
+    "genre": "Rock",
+    "artist": "Rock And Lovers",
+    "artistId": 1364353976,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Rock And Lovers - La Escasa Medida del Tiempo",
+    "answer": "Rock And Lovers - La Escasa Medida del Tiempo",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/08/05/a4/0805a424-121f-d338-b7d8-d42ccba7c0d7/mzaf_6301575957078815362.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/c0/e8/87c0e8f9-11d0-3ff5-e134-bc9069ea62d9/7509848298073.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3121,
+    "date": "2026-08-11 22:45",
+    "cat": "Música",
+    "genre": "Rock",
+    "artist": "Rock And Lovers",
+    "artistId": 1364353976,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Rock And Lovers - Luna Que Se Quiebra",
+    "answer": "Rock And Lovers - Luna Que Se Quiebra",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/44/36/9d/44369d4e-65a7-9ff8-13e0-2717a74e3e0f/mzaf_12676525558993160684.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/c0/e8/87c0e8f9-11d0-3ff5-e134-bc9069ea62d9/7509848298073.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3122,
+    "date": "2026-08-11 22:46",
+    "cat": "Música",
+    "genre": "Vocal",
+    "artist": "Maroon 5",
+    "artistId": 1798556,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Maroon 5 - She Will Be Loved",
+    "answer": "Maroon 5 - She Will Be Loved",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/25/68/10256857-d091-2376-8535-3745e624cdfb/mzaf_4355177103005991043.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/3e/25/d03e255d-e205-0e66-20f6-01e251896c25/14UMGIM27076.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

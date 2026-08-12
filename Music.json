@@ -36667,6 +36667,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c4/cd/62/c4cd6201-b8f4-8e7e-8d72-74a599bcbaa8/19UMGIM77647.rgb.jpg/400x400bb.jpg"
   },
   {
+    "id": 3197,
+    "date": "2026-08-12 14:36",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Diva Noire",
+    "artistId": 952264487,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Diva Noire - Mi Otra Mitad",
+    "answer": "Diva Noire - Mi Otra Mitad",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/25/51/e425513a-35b5-2292-e3fb-4fef282173f3/mzaf_12562371330206466485.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d9/39/03/d93903e2-436c-4431-ca86-08bc627f3cd9/0.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3198,
+    "date": "2026-08-12 14:41",
+    "cat": "Música",
+    "genre": "Rock y Alternativo",
+    "artist": "Indigo",
+    "artistId": 1311714980,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Indigo - Soledad",
+    "answer": "Indigo - Soledad",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/94/bc/3694bc62-5fcf-59c4-946b-5e88185d476d/mzaf_4007326206134870940.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/32/45/e3/3245e32d-1bb2-32cd-ac7d-9f520d25dc04/0.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3199,
+    "date": "2026-08-12 14:41",
+    "cat": "Música",
+    "genre": "Rock y Alternativo",
+    "artist": "Indigo",
+    "artistId": 1311714980,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Indigo - Voces Lejanas",
+    "answer": "Indigo - Voces Lejanas",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/62/63/f3/6263f321-3ac2-fbd9-adf2-dfa6a4b1b3c1/mzaf_12991672579189573419.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/32/45/e3/3245e32d-1bb2-32cd-ac7d-9f520d25dc04/0.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

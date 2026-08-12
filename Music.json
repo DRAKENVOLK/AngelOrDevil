@@ -35627,6 +35627,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/d9/5c/32/mzi.qilpuqxe.jpg/400x400bb.jpg"
   },
   {
+    "id": 3131,
+    "date": "2026-08-12 10:45",
+    "cat": "Música",
+    "genre": "Música latina",
+    "artist": "FloyyMenor",
+    "artistId": 1676497551,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "FloyyMenor & Cris MJ - Gata Only",
+    "answer": "FloyyMenor & Cris MJ - Gata Only",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b8/f5/81/b8f58194-8999-b820-7241-83c712fd809a/mzaf_4525526646274644962.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/68/df/6768dfc8-de18-19a7-cfa8-6592e46a72d7/198309012715-copy-fff1c2c4.png/400x400bb.jpg"
+  },
+  {
+    "id": 3132,
+    "date": "2026-08-12 10:46",
+    "cat": "Música",
+    "genre": "Urbano latino",
+    "artist": "Cris MJ",
+    "artistId": 1504191840,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Cris MJ, Duki & NICKI NICOLE - Marisola (Remix) [feat. Standly]",
+    "answer": "Cris MJ, Duki & NICKI NICOLE - Marisola (Remix) [feat. Standly]",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/4d/5c/784d5cdd-2c1a-2a80-f980-770f71e578d2/mzaf_6885640564524426379.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/6a/4e/906a4e44-9b06-ebd9-322c-eb218dcb81e5/655368678547_Cover.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

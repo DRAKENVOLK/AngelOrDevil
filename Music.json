@@ -36843,6 +36843,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f4/9d/89/f49d895f-76e6-9401-f715-3ed08bc73c83/0.jpg/400x400bb.jpg"
   },
   {
+    "id": 3208,
+    "date": "2026-08-13 21:57",
+    "cat": "Música",
+    "genre": "Música Mexicana",
+    "artist": "Los Vendavales de Adan Melendez",
+    "artistId": 1832394690,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Los Vendavales de Adan Melendez - El Colesterol",
+    "answer": "Los Vendavales de Adan Melendez - El Colesterol",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/f5/a3/91f5a352-87e0-34ff-2962-d3d2387e59e8/mzaf_6579698836270286529.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/dd/8e/9cdd8e29-2a8e-326a-c125-7e2316f47d3a/0197187652839.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

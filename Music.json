@@ -36811,6 +36811,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/cf/ba/a4cfba88-3907-e102-61ec-42888115e327/5099926502854.jpg/400x400bb.jpg"
   },
   {
+    "id": 3206,
+    "date": "2026-08-13 21:37",
+    "cat": "Música",
+    "genre": "Rock y Alternativo",
+    "artist": "Afrodisiaco",
+    "artistId": 421759379,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Afrodisiaco - El Tiempo",
+    "answer": "Afrodisiaco - El Tiempo",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/06/42/c1/0642c18e-5e53-87e8-f76a-39d1daedcbf9/mzaf_7866748094268684830.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f4/9d/89/f49d895f-76e6-9401-f715-3ed08bc73c83/0.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3207,
+    "date": "2026-08-13 21:37",
+    "cat": "Música",
+    "genre": "Rock y Alternativo",
+    "artist": "Afrodisiaco",
+    "artistId": 421759379,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Afrodisiaco - Mi Error",
+    "answer": "Afrodisiaco - Mi Error",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f1/c4/19/f1c4192e-0ee6-41ca-278f-b6cb57ae2e70/mzaf_11305156102435819588.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f4/9d/89/f49d895f-76e6-9401-f715-3ed08bc73c83/0.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

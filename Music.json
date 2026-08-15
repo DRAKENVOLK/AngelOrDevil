@@ -37367,8 +37367,8 @@
     "answer": "Gondwana - Sentimiento Original",
     "targetType": "self",
     "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/68/0e/42680ee0-85b4-ba6f-4474-393873f52e3c/mzaf_12205584336919377066.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/14/f3/5614f3f4-16e3-067c-68a8-dbca5765e41b/196872432206.jpg/400x400bb.jpg"
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/97/e3/83/97e38368-ea7b-e273-7e6b-94c20474e242/mzaf_8607054023377127517.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/18/4c/e5/184ce53c-e48d-53b0-4f45-a31a2653689a/886443653344.jpg/400x400bb.jpg"
   },
   {
     "id": 3242,
@@ -37609,6 +37609,22 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1c/45/ea/1c45eac2-8c74-996f-f081-780d7f7bc91f/mzaf_18171741587194432702.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/2b/95/5b2b95ba-276e-b57f-8f2c-45059c281fb0/mzi.khdhtdfc.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3257,
+    "date": "2026-08-14 19:08",
+    "cat": "Música",
+    "genre": "Rap",
+    "artist": "Jotamayúscula",
+    "artistId": 267752691,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Jotamayúscula & Morodo - Por Siempre",
+    "answer": "Jotamayúscula & Morodo - Por Siempre",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f1/a2/fc/f1a2fcda-8712-ae08-f4a1-ced664c9ceb9/mzaf_1391567592237027876.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/a5/5b/afa55b43-bf16-7f83-95f5-57780458f572/5026854212425.jpg/400x400bb.jpg"
   },
   {
     "id": "drk_sys_config",

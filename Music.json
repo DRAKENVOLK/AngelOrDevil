@@ -38619,6 +38619,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4f/8a/89/4f8a893a-5cee-2a61-ce81-63ab8671d61d/888915443767_cover.jpg/400x400bb.jpg"
   },
   {
+    "id": 3321,
+    "date": "2026-08-16 16:28",
+    "cat": "Música",
+    "genre": "Festividades",
+    "artist": "Wham!",
+    "artistId": 548421,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Wham! - Last Christmas (Single Version)",
+    "answer": "Wham! - Last Christmas (Single Version)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/10/d3/cc10d319-d2b2-1e51-84f2-d81bb2d7b7fc/mzaf_11693662218518924489.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3322,
+    "date": "2026-08-16 16:29",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Wham!",
+    "artistId": 548421,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Wham! - Wake Me Up Before You Go Go",
+    "answer": "Wham! - Wake Me Up Before You Go Go",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/99/9e/35999e3f-480b-158a-2149-fa8ff249f882/mzaf_10746700119453640305.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bc/28/31/bc2831e9-2646-098a-96c4-adc2e2c901bb/dj.tefnkxmm.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

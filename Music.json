@@ -38651,6 +38651,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bc/28/31/bc2831e9-2646-098a-96c4-adc2e2c901bb/dj.tefnkxmm.jpg/400x400bb.jpg"
   },
   {
+    "id": 3323,
+    "date": "2026-08-16 16:37",
+    "cat": "Música",
+    "genre": "Música mexicana",
+    "artist": "Pilar Montenegro",
+    "artistId": 5243478,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Pilar Montenegro - Quítame Ese Hombre Del Corazón (Norteña Version)",
+    "answer": "Pilar Montenegro - Quítame Ese Hombre Del Corazón (Norteña Version)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/85/60/0f856001-f33a-2e32-ab6a-4279885111ad/mzaf_6021937783365260818.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/65/70/c5657031-5f88-7a66-13cb-d61f9be4003d/25UMGIM38698.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

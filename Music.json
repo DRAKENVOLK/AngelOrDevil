@@ -38459,6 +38459,38 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/9a/b8/6d/mzi.ypgenmvf.jpg/400x400bb.jpg"
   },
   {
+    "id": 3311,
+    "date": "2026-08-16 16:06",
+    "cat": "Música",
+    "genre": "R&B/Soul",
+    "artist": "Ne-Yo",
+    "artistId": 78257321,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Ne-Yo - Let Me Love You (Until You Learn to Love Yourself)",
+    "answer": "Ne-Yo - Let Me Love You (Until You Learn to Love Yourself)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8d/3b/c5/8d3bc5fa-3504-8808-23d0-4690eb23ad76/mzaf_7960547003352301097.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d7/e0/70/d7e070b0-f28e-a231-5d19-c4dc0ffe923a/12UMGIM54634.rgb.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3312,
+    "date": "2026-08-16 16:07",
+    "cat": "Música",
+    "genre": "Salsa y Tropical",
+    "artist": "Johnny Rivera",
+    "artistId": 91528,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Johnny Rivera - Cuándo Parará La Lluvia",
+    "answer": "Johnny Rivera - Cuándo Parará La Lluvia",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bd/c1/df/bdc1dfcb-2887-105e-4422-1f1cc0db3ee7/mzaf_10693778434463959461.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/bb/9b/e4bb9b1b-b709-572d-35e0-5074fd1273e8/24UM1IM06064.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

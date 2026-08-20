@@ -40124,6 +40124,22 @@
     "segmentDuration": 57
   },
   {
+    "id": 3416,
+    "date": "2026-08-19 23:11",
+    "cat": "Música",
+    "genre": "Rock",
+    "artist": "The Rolling Stones",
+    "artistId": 1249595,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "The Rolling Stones - Don't Stop (Edit)",
+    "answer": "The Rolling Stones - Don't Stop (Edit)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/47/59/3847596c-a099-f880-c602-79a9c2135ad1/mzaf_15610217565579345619.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/86/6e/9c/866e9c42-151a-6118-b3f7-06819f41b998/00602527688756.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

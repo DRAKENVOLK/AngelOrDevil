@@ -40107,6 +40107,23 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/93/ef/fb93efd2-d97f-ee87-6356-59ebf0cf4f91/0.jpg/400x400bb.jpg"
   },
   {
+    "id": 3415,
+    "date": "2026-08-19 23:00",
+    "cat": "Música",
+    "genre": "SoundCloud Edit",
+    "artist": "Jhovan Tomasevich",
+    "title": "Adivina la Canción",
+    "answer": "Jhovan Tomasevich - Comenzar De Nuevo",
+    "targetType": "self",
+    "limit": 1,
+    "source": "soundcloud",
+    "previewUrl": "https://soundcloud.com/ryeproduccionesperu/jhovan-tomasevich-comenzar-de",
+    "artworkUrl": "https://i1.sndcdn.com/artworks-000042340119-wvsexs-t500x500.jpg",
+    "startTime": 40,
+    "endTime": 97,
+    "segmentDuration": 57
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

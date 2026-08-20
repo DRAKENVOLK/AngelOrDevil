@@ -39963,6 +39963,54 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/45/27/8f4527b5-3e55-2582-7274-d9d0834c5cd5/mzi.dukuumaa.jpg/400x400bb.jpg"
   },
   {
+    "id": 3406,
+    "date": "2026-08-19 22:05",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "Atomic Kitten",
+    "artistId": 3089519,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Atomic Kitten - Tide Is High (Get the Feeling)",
+    "answer": "Atomic Kitten - Tide Is High (Get the Feeling)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/55/4d/71/554d71e9-5594-ff31-e065-b9230ca0edc8/mzaf_12955365591324884632.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/18/4b/d1/184bd1ac-38d1-a8af-0fc3-f59815203599/00724358250053.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3407,
+    "date": "2026-08-19 22:06",
+    "cat": "Música",
+    "genre": "Electronic",
+    "artist": "Moby",
+    "artistId": 789023,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Moby - Porcelain",
+    "answer": "Moby - Porcelain",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/38/50/51/3850510b-5ad7-8a1d-9fdb-5cfe35f3308b/mzaf_12353796089225841756.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b0/b4/93/b0b493b1-71ae-b154-ab40-e6acc7d84c46/842108036099_1.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 3408,
+    "date": "2026-08-19 22:08",
+    "cat": "Música",
+    "genre": "Soundtrack",
+    "artist": "Joseph Arthur",
+    "artistId": 3846318,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Joseph Arthur - Honey and the Moon",
+    "answer": "Joseph Arthur - Honey and the Moon",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/91/f3/ff/91f3ff7a-49ca-8da8-c1f1-25dffb78f816/mzaf_5995264748622578470.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/90/71/58/mzi.dqpsvjxe.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

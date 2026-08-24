@@ -40444,6 +40444,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a9/aa/d0/a9aad0bb-e8a3-768f-8555-4b644a17553e/075679930903.jpg/400x400bb.jpg"
   },
   {
+    "id": 3437,
+    "date": "2026-08-23 21:35",
+    "cat": "Música",
+    "genre": "Pop",
+    "artist": "The Wanted",
+    "artistId": 3445978,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "The Wanted - Glad You Came",
+    "answer": "The Wanted - Glad You Came",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/1d/04/281d04ea-5fa7-242b-01dc-264d3343e6b3/mzaf_17563503700152897669.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/46/be/5d46bee8-7217-a857-5f60-4bd95e878dc2/00602527883779.rgb.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

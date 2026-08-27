@@ -1288,5 +1288,21 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/8f/47/cf8f477e-1cd9-dfd9-2b47-5ca29fd1b4ed/mzaf_9859611061689498901.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/f0/62/40f0625a-bdc1-c352-ccdf-23ca274ee1da/195497150205.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 691,
+    "date": "2026-08-27 13:28",
+    "cat": "Música",
+    "genre": "Música tropical",
+    "artist": "Corazón Serrano",
+    "artistId": 261028088,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Corazón Serrano - Ya es tarde para amarnos (2025 Remasterizado)",
+    "answer": "Corazón Serrano - Ya es tarde para amarnos (2025 Remasterizado)",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/20/d1/5220d12c-86a2-c0dc-467e-4aa729659d26/mzaf_14050971481476486935.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/32/d3/5232d3a1-edd4-b7cc-9830-2844225b912d/199066937105.jpg/400x400bb.jpg"
   }
 ]

@@ -817,18 +817,33 @@
   },
   {
     "id": 652,
-    "date": "2026-08-02 01:47",
+    "date": "2026-08-02 00:44",
     "cat": "Música",
-    "genre": "Rock",
-    "artist": "3 Doors Down",
-    "artistId": 101604,
+    "genre": "Hard Rock",
+    "artist": "AC/DC",
     "title": "Adivina la Canción",
     "text": "",
-    "term": "Doors Down - Here Without You",
-    "answer": "3 Doors Down - Here Without You",
+    "term": "AC/DC - Highway to Hell",
+    "answer": "AC/DC - Highway to Hell",
     "targetType": "self",
     "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/92/83/ba9283e1-eca3-32fe-ee0e-40efb1784ed8/mzaf_6633723536355717712.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0b/c1/03/0bc10342-a863-560f-15ef-0348f49d23e6/12UMGIM57106.rgb.jpg/400x400bb.jpg"
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cb/f4/3f/cbf43f47-747d-bcc2-19cf-6bf2c523f5d8/mzaf_9504019990576453182.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/c8/ef/b9c8ef42-bbc9-64df-11f8-717571f6730f/886443673458.jpg/400x400bb.jpg"
+  },
+  {
+    "id": 653,
+    "date": "2026-08-05 22:49",
+    "cat": "Música",
+    "genre": "Hard Rock",
+    "artist": "AC/DC",
+    "artistId": 5040714,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "AC/DC - Back in Black",
+    "answer": "AC/DC - Back In Black",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b5/14/aa/b514aa08-4772-93db-c69f-420fbe0bb24c/mzaf_17779796508174317776.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/14/58/1e145814-281a-58e0-3ab1-145f5d1af421/886443673441.jpg/400x400bb.jpg"
   }
 ]

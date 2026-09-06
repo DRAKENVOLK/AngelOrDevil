@@ -40828,6 +40828,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/d0/a6/42d0a6cd-9165-d1d9-d28b-114442c4bba5/0.jpg/400x400bb.jpg"
   },
   {
+    "id": 3461,
+    "date": "2026-09-06 15:09",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Orlando Netti",
+    "artistId": 633384266,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Orlando Netti - Clásico",
+    "answer": "Orlando Netti - Clásico",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e7/de/c7/e7dec753-148c-0c2f-cb45-7722cc6b273c/mzaf_14558302521496020085.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/1f/8b/f2/1f8bf270-f2ac-500d-8843-f6a9975d2d1c/mzm.mvcnvqva.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

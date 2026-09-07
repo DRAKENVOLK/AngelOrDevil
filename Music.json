@@ -40844,6 +40844,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/1f/8b/f2/1f8bf270-f2ac-500d-8843-f6a9975d2d1c/mzm.mvcnvqva.jpg/400x400bb.jpg"
   },
   {
+    "id": 3462,
+    "date": "2026-09-07 05:28",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "Karametade",
+    "artistId": 268444447,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "Karametade - Toda Mujer",
+    "answer": "Karametade - Toda Mujer",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d0/30/ca/d030ca9d-ca6e-ee75-0d5e-2a1048af8948/mzaf_15142843929769868291.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/33/b0/3c33b013-cc9f-ae6e-ef32-29cf91f1ccde/720665666167_cover.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {

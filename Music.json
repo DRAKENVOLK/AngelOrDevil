@@ -40812,22 +40812,6 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b0/d6/15/b0d615dc-e448-28bb-0cad-2fcdfa1907b5/cover.jpg/400x400bb.jpg"
   },
   {
-    "id": 3460,
-    "date": "2026-08-30 04:14",
-    "cat": "Música",
-    "genre": "Música tropical",
-    "artist": "Geni Alves",
-    "artistId": 1709693085,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Geni Alves - Sabes Que Pasa",
-    "answer": "Geni Alves - Sabes Que Pasa",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/86/28/c4/8628c4eb-f819-327a-b60e-a080380e0241/mzaf_5897254858400736171.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/d0/a6/42d0a6cd-9165-d1d9-d28b-114442c4bba5/0.jpg/400x400bb.jpg"
-  },
-  {
     "id": 3461,
     "date": "2026-09-06 15:09",
     "cat": "Música",
@@ -40858,22 +40842,6 @@
     "limit": 1,
     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d0/30/ca/d030ca9d-ca6e-ee75-0d5e-2a1048af8948/mzaf_15142843929769868291.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/33/b0/3c33b013-cc9f-ae6e-ef32-29cf91f1ccde/720665666167_cover.jpg/400x400bb.jpg"
-  },
-  {
-    "id": 3463,
-    "date": "2026-09-09 05:03",
-    "cat": "Música",
-    "genre": "Urbano latino",
-    "artist": "Feid",
-    "artistId": 194502100,
-    "title": "Adivina la Canción",
-    "text": "",
-    "term": "Feid & ATL Jacob - LUNA",
-    "answer": "Feid & ATL Jacob - LUNA",
-    "targetType": "self",
-    "limit": 1,
-    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f8/b0/5b/f8b05b80-c7ea-9ea8-759c-5fd609c15341/mzaf_2589321753277640940.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/400x400bb.jpg"
   },
   {
     "id": "drk_sys_config",

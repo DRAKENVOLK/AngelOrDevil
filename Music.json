@@ -40844,6 +40844,22 @@
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/33/b0/3c33b013-cc9f-ae6e-ef32-29cf91f1ccde/720665666167_cover.jpg/400x400bb.jpg"
   },
   {
+    "id": 3463,
+    "date": "2026-09-28 22:41",
+    "cat": "Música",
+    "genre": "Pop Latino",
+    "artist": "M. Bose",
+    "artistId": 496082,
+    "title": "Adivina la Canción",
+    "text": "",
+    "term": "M. Bose - Si Tú No Vuelves",
+    "answer": "M. Bose - Si Tú No Vuelves",
+    "targetType": "self",
+    "limit": 1,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/29/bf/2b29bfed-97fb-e4f9-2afe-2e4b64c3fc49/mzaf_16351820509942003236.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/07/4e/2c074e0b-95cb-ae2a-9314-eddac1926ed2/639842981224.jpg/400x400bb.jpg"
+  },
+  {
     "id": "drk_sys_config",
     "databases": [
       {
